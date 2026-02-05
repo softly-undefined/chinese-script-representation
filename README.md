@@ -39,3 +39,5 @@ Example sentences (preferably multiple) in both traditional and simplified chara
 ## Thoughts
 
 add words which sound different in different contexts? de vs. dei, etc.
+
+look at PINYIN / wade guilles
