@@ -1,0 +1,10662 @@
+{
+  "method": "unicode_scan_via_opencc",
+  "num_pairs": 2663,
+  "pairs": [
+    {
+      "traditional": "㑯",
+      "simplified": "㑔"
+    },
+    {
+      "traditional": "㑳",
+      "simplified": "㑇"
+    },
+    {
+      "traditional": "㑶",
+      "simplified": "㐹"
+    },
+    {
+      "traditional": "㓨",
+      "simplified": "刾"
+    },
+    {
+      "traditional": "㘚",
+      "simplified": "㘎"
+    },
+    {
+      "traditional": "㜄",
+      "simplified": "㚯"
+    },
+    {
+      "traditional": "㜏",
+      "simplified": "㛣"
+    },
+    {
+      "traditional": "㠏",
+      "simplified": "㟆"
+    },
+    {
+      "traditional": "㥮",
+      "simplified": "㤘"
+    },
+    {
+      "traditional": "㩜",
+      "simplified": "㨫"
+    },
+    {
+      "traditional": "㩳",
+      "simplified": "㧐"
+    },
+    {
+      "traditional": "㩵",
+      "simplified": "擜"
+    },
+    {
+      "traditional": "䁻",
+      "simplified": "䀥"
+    },
+    {
+      "traditional": "䃮",
+      "simplified": "鿎"
+    },
+    {
+      "traditional": "䊷",
+      "simplified": "䌶"
+    },
+    {
+      "traditional": "䋙",
+      "simplified": "䌺"
+    },
+    {
+      "traditional": "䋚",
+      "simplified": "䌻"
+    },
+    {
+      "traditional": "䋹",
+      "simplified": "䌿"
+    },
+    {
+      "traditional": "䋻",
+      "simplified": "䌾"
+    },
+    {
+      "traditional": "䍦",
+      "simplified": "䍠"
+    },
+    {
+      "traditional": "䎱",
+      "simplified": "䎬"
+    },
+    {
+      "traditional": "䙡",
+      "simplified": "䙌"
+    },
+    {
+      "traditional": "䜀",
+      "simplified": "䜧"
+    },
+    {
+      "traditional": "䝼",
+      "simplified": "䞍"
+    },
+    {
+      "traditional": "䥇",
+      "simplified": "䦂"
+    },
+    {
+      "traditional": "䥑",
+      "simplified": "鿏"
+    },
+    {
+      "traditional": "䥱",
+      "simplified": "䥾"
+    },
+    {
+      "traditional": "䦛",
+      "simplified": "䦶"
+    },
+    {
+      "traditional": "䦟",
+      "simplified": "䦷"
+    },
+    {
+      "traditional": "䯀",
+      "simplified": "䯅"
+    },
+    {
+      "traditional": "䰾",
+      "simplified": "鲃"
+    },
+    {
+      "traditional": "䱷",
+      "simplified": "䲣"
+    },
+    {
+      "traditional": "䱽",
+      "simplified": "䲝"
+    },
+    {
+      "traditional": "䲁",
+      "simplified": "鳚"
+    },
+    {
+      "traditional": "䲘",
+      "simplified": "鳤"
+    },
+    {
+      "traditional": "䴉",
+      "simplified": "鹮"
+    },
+    {
+      "traditional": "丟",
+      "simplified": "丢"
+    },
+    {
+      "traditional": "亂",
+      "simplified": "乱"
+    },
+    {
+      "traditional": "亙",
+      "simplified": "亘"
+    },
+    {
+      "traditional": "亞",
+      "simplified": "亚"
+    },
+    {
+      "traditional": "佇",
+      "simplified": "伫"
+    },
+    {
+      "traditional": "佈",
+      "simplified": "布"
+    },
+    {
+      "traditional": "佔",
+      "simplified": "占"
+    },
+    {
+      "traditional": "來",
+      "simplified": "来"
+    },
+    {
+      "traditional": "侶",
+      "simplified": "侣"
+    },
+    {
+      "traditional": "侷",
+      "simplified": "局"
+    },
+    {
+      "traditional": "俁",
+      "simplified": "俣"
+    },
+    {
+      "traditional": "俔",
+      "simplified": "伣"
+    },
+    {
+      "traditional": "俠",
+      "simplified": "侠"
+    },
+    {
+      "traditional": "俥",
+      "simplified": "伡"
+    },
+    {
+      "traditional": "俬",
+      "simplified": "私"
+    },
+    {
+      "traditional": "倀",
+      "simplified": "伥"
+    },
+    {
+      "traditional": "倆",
+      "simplified": "俩"
+    },
+    {
+      "traditional": "倈",
+      "simplified": "俫"
+    },
+    {
+      "traditional": "倉",
+      "simplified": "仓"
+    },
+    {
+      "traditional": "們",
+      "simplified": "们"
+    },
+    {
+      "traditional": "倖",
+      "simplified": "幸"
+    },
+    {
+      "traditional": "倫",
+      "simplified": "伦"
+    },
+    {
+      "traditional": "倲",
+      "simplified": "㑈"
+    },
+    {
+      "traditional": "偉",
+      "simplified": "伟"
+    },
+    {
+      "traditional": "偑",
+      "simplified": "㐽"
+    },
+    {
+      "traditional": "側",
+      "simplified": "侧"
+    },
+    {
+      "traditional": "偵",
+      "simplified": "侦"
+    },
+    {
+      "traditional": "傌",
+      "simplified": "㐷"
+    },
+    {
+      "traditional": "傑",
+      "simplified": "杰"
+    },
+    {
+      "traditional": "傖",
+      "simplified": "伧"
+    },
+    {
+      "traditional": "傘",
+      "simplified": "伞"
+    },
+    {
+      "traditional": "備",
+      "simplified": "备"
+    },
+    {
+      "traditional": "傢",
+      "simplified": "家"
+    },
+    {
+      "traditional": "傭",
+      "simplified": "佣"
+    },
+    {
+      "traditional": "傯",
+      "simplified": "偬"
+    },
+    {
+      "traditional": "傳",
+      "simplified": "传"
+    },
+    {
+      "traditional": "傴",
+      "simplified": "伛"
+    },
+    {
+      "traditional": "債",
+      "simplified": "债"
+    },
+    {
+      "traditional": "傷",
+      "simplified": "伤"
+    },
+    {
+      "traditional": "傾",
+      "simplified": "倾"
+    },
+    {
+      "traditional": "僂",
+      "simplified": "偻"
+    },
+    {
+      "traditional": "僅",
+      "simplified": "仅"
+    },
+    {
+      "traditional": "僉",
+      "simplified": "佥"
+    },
+    {
+      "traditional": "僑",
+      "simplified": "侨"
+    },
+    {
+      "traditional": "僕",
+      "simplified": "仆"
+    },
+    {
+      "traditional": "僥",
+      "simplified": "侥"
+    },
+    {
+      "traditional": "僨",
+      "simplified": "偾"
+    },
+    {
+      "traditional": "僱",
+      "simplified": "雇"
+    },
+    {
+      "traditional": "價",
+      "simplified": "价"
+    },
+    {
+      "traditional": "儀",
+      "simplified": "仪"
+    },
+    {
+      "traditional": "儁",
+      "simplified": "俊"
+    },
+    {
+      "traditional": "儂",
+      "simplified": "侬"
+    },
+    {
+      "traditional": "億",
+      "simplified": "亿"
+    },
+    {
+      "traditional": "儈",
+      "simplified": "侩"
+    },
+    {
+      "traditional": "儉",
+      "simplified": "俭"
+    },
+    {
+      "traditional": "儎",
+      "simplified": "傤"
+    },
+    {
+      "traditional": "儐",
+      "simplified": "傧"
+    },
+    {
+      "traditional": "儔",
+      "simplified": "俦"
+    },
+    {
+      "traditional": "儕",
+      "simplified": "侪"
+    },
+    {
+      "traditional": "償",
+      "simplified": "偿"
+    },
+    {
+      "traditional": "優",
+      "simplified": "优"
+    },
+    {
+      "traditional": "儲",
+      "simplified": "储"
+    },
+    {
+      "traditional": "儷",
+      "simplified": "俪"
+    },
+    {
+      "traditional": "儸",
+      "simplified": "㑩"
+    },
+    {
+      "traditional": "儺",
+      "simplified": "傩"
+    },
+    {
+      "traditional": "儻",
+      "simplified": "傥"
+    },
+    {
+      "traditional": "儼",
+      "simplified": "俨"
+    },
+    {
+      "traditional": "兇",
+      "simplified": "凶"
+    },
+    {
+      "traditional": "兌",
+      "simplified": "兑"
+    },
+    {
+      "traditional": "兒",
+      "simplified": "儿"
+    },
+    {
+      "traditional": "兗",
+      "simplified": "兖"
+    },
+    {
+      "traditional": "內",
+      "simplified": "内"
+    },
+    {
+      "traditional": "兩",
+      "simplified": "两"
+    },
+    {
+      "traditional": "冊",
+      "simplified": "册"
+    },
+    {
+      "traditional": "冑",
+      "simplified": "胄"
+    },
+    {
+      "traditional": "冪",
+      "simplified": "幂"
+    },
+    {
+      "traditional": "凍",
+      "simplified": "冻"
+    },
+    {
+      "traditional": "凜",
+      "simplified": "凛"
+    },
+    {
+      "traditional": "凱",
+      "simplified": "凯"
+    },
+    {
+      "traditional": "刪",
+      "simplified": "删"
+    },
+    {
+      "traditional": "剄",
+      "simplified": "刭"
+    },
+    {
+      "traditional": "則",
+      "simplified": "则"
+    },
+    {
+      "traditional": "剋",
+      "simplified": "克"
+    },
+    {
+      "traditional": "剎",
+      "simplified": "刹"
+    },
+    {
+      "traditional": "剗",
+      "simplified": "刬"
+    },
+    {
+      "traditional": "剛",
+      "simplified": "刚"
+    },
+    {
+      "traditional": "剝",
+      "simplified": "剥"
+    },
+    {
+      "traditional": "剮",
+      "simplified": "剐"
+    },
+    {
+      "traditional": "剴",
+      "simplified": "剀"
+    },
+    {
+      "traditional": "創",
+      "simplified": "创"
+    },
+    {
+      "traditional": "劃",
+      "simplified": "划"
+    },
+    {
+      "traditional": "劇",
+      "simplified": "剧"
+    },
+    {
+      "traditional": "劉",
+      "simplified": "刘"
+    },
+    {
+      "traditional": "劊",
+      "simplified": "刽"
+    },
+    {
+      "traditional": "劌",
+      "simplified": "刿"
+    },
+    {
+      "traditional": "劍",
+      "simplified": "剑"
+    },
+    {
+      "traditional": "劏",
+      "simplified": "㓥"
+    },
+    {
+      "traditional": "劑",
+      "simplified": "剂"
+    },
+    {
+      "traditional": "劚",
+      "simplified": "㔉"
+    },
+    {
+      "traditional": "勁",
+      "simplified": "劲"
+    },
+    {
+      "traditional": "動",
+      "simplified": "动"
+    },
+    {
+      "traditional": "務",
+      "simplified": "务"
+    },
+    {
+      "traditional": "勝",
+      "simplified": "胜"
+    },
+    {
+      "traditional": "勞",
+      "simplified": "劳"
+    },
+    {
+      "traditional": "勢",
+      "simplified": "势"
+    },
+    {
+      "traditional": "勩",
+      "simplified": "勚"
+    },
+    {
+      "traditional": "勱",
+      "simplified": "劢"
+    },
+    {
+      "traditional": "勵",
+      "simplified": "励"
+    },
+    {
+      "traditional": "勸",
+      "simplified": "劝"
+    },
+    {
+      "traditional": "勻",
+      "simplified": "匀"
+    },
+    {
+      "traditional": "匭",
+      "simplified": "匦"
+    },
+    {
+      "traditional": "匱",
+      "simplified": "匮"
+    },
+    {
+      "traditional": "區",
+      "simplified": "区"
+    },
+    {
+      "traditional": "協",
+      "simplified": "协"
+    },
+    {
+      "traditional": "卹",
+      "simplified": "恤"
+    },
+    {
+      "traditional": "卻",
+      "simplified": "却"
+    },
+    {
+      "traditional": "卽",
+      "simplified": "即"
+    },
+    {
+      "traditional": "厙",
+      "simplified": "厍"
+    },
+    {
+      "traditional": "厭",
+      "simplified": "厌"
+    },
+    {
+      "traditional": "厲",
+      "simplified": "厉"
+    },
+    {
+      "traditional": "厴",
+      "simplified": "厣"
+    },
+    {
+      "traditional": "叄",
+      "simplified": "叁"
+    },
+    {
+      "traditional": "叢",
+      "simplified": "丛"
+    },
+    {
+      "traditional": "吒",
+      "simplified": "咤"
+    },
+    {
+      "traditional": "吳",
+      "simplified": "吴"
+    },
+    {
+      "traditional": "吶",
+      "simplified": "呐"
+    },
+    {
+      "traditional": "呂",
+      "simplified": "吕"
+    },
+    {
+      "traditional": "咼",
+      "simplified": "呙"
+    },
+    {
+      "traditional": "員",
+      "simplified": "员"
+    },
+    {
+      "traditional": "唄",
+      "simplified": "呗"
+    },
+    {
+      "traditional": "唸",
+      "simplified": "念"
+    },
+    {
+      "traditional": "問",
+      "simplified": "问"
+    },
+    {
+      "traditional": "啞",
+      "simplified": "哑"
+    },
+    {
+      "traditional": "啢",
+      "simplified": "唡"
+    },
+    {
+      "traditional": "喎",
+      "simplified": "㖞"
+    },
+    {
+      "traditional": "喚",
+      "simplified": "唤"
+    },
+    {
+      "traditional": "喪",
+      "simplified": "丧"
+    },
+    {
+      "traditional": "喫",
+      "simplified": "吃"
+    },
+    {
+      "traditional": "喬",
+      "simplified": "乔"
+    },
+    {
+      "traditional": "單",
+      "simplified": "单"
+    },
+    {
+      "traditional": "喲",
+      "simplified": "哟"
+    },
+    {
+      "traditional": "嗆",
+      "simplified": "呛"
+    },
+    {
+      "traditional": "嗇",
+      "simplified": "啬"
+    },
+    {
+      "traditional": "嗊",
+      "simplified": "唝"
+    },
+    {
+      "traditional": "嗎",
+      "simplified": "吗"
+    },
+    {
+      "traditional": "嗚",
+      "simplified": "呜"
+    },
+    {
+      "traditional": "嗩",
+      "simplified": "唢"
+    },
+    {
+      "traditional": "嗶",
+      "simplified": "哔"
+    },
+    {
+      "traditional": "嘍",
+      "simplified": "喽"
+    },
+    {
+      "traditional": "嘓",
+      "simplified": "啯"
+    },
+    {
+      "traditional": "嘔",
+      "simplified": "呕"
+    },
+    {
+      "traditional": "嘖",
+      "simplified": "啧"
+    },
+    {
+      "traditional": "嘜",
+      "simplified": "唛"
+    },
+    {
+      "traditional": "嘮",
+      "simplified": "唠"
+    },
+    {
+      "traditional": "嘯",
+      "simplified": "啸"
+    },
+    {
+      "traditional": "嘰",
+      "simplified": "叽"
+    },
+    {
+      "traditional": "嘵",
+      "simplified": "哓"
+    },
+    {
+      "traditional": "嘸",
+      "simplified": "呒"
+    },
+    {
+      "traditional": "嘽",
+      "simplified": "啴"
+    },
+    {
+      "traditional": "噓",
+      "simplified": "嘘"
+    },
+    {
+      "traditional": "噚",
+      "simplified": "㖊"
+    },
+    {
+      "traditional": "噝",
+      "simplified": "咝"
+    },
+    {
+      "traditional": "噠",
+      "simplified": "哒"
+    },
+    {
+      "traditional": "噥",
+      "simplified": "哝"
+    },
+    {
+      "traditional": "噦",
+      "simplified": "哕"
+    },
+    {
+      "traditional": "噯",
+      "simplified": "嗳"
+    },
+    {
+      "traditional": "噲",
+      "simplified": "哙"
+    },
+    {
+      "traditional": "噴",
+      "simplified": "喷"
+    },
+    {
+      "traditional": "噸",
+      "simplified": "吨"
+    },
+    {
+      "traditional": "嚀",
+      "simplified": "咛"
+    },
+    {
+      "traditional": "嚇",
+      "simplified": "吓"
+    },
+    {
+      "traditional": "嚌",
+      "simplified": "哜"
+    },
+    {
+      "traditional": "嚕",
+      "simplified": "噜"
+    },
+    {
+      "traditional": "嚥",
+      "simplified": "咽"
+    },
+    {
+      "traditional": "嚦",
+      "simplified": "呖"
+    },
+    {
+      "traditional": "嚨",
+      "simplified": "咙"
+    },
+    {
+      "traditional": "嚲",
+      "simplified": "亸"
+    },
+    {
+      "traditional": "嚳",
+      "simplified": "喾"
+    },
+    {
+      "traditional": "嚴",
+      "simplified": "严"
+    },
+    {
+      "traditional": "嚶",
+      "simplified": "嘤"
+    },
+    {
+      "traditional": "囀",
+      "simplified": "啭"
+    },
+    {
+      "traditional": "囁",
+      "simplified": "嗫"
+    },
+    {
+      "traditional": "囂",
+      "simplified": "嚣"
+    },
+    {
+      "traditional": "囅",
+      "simplified": "冁"
+    },
+    {
+      "traditional": "囈",
+      "simplified": "呓"
+    },
+    {
+      "traditional": "囉",
+      "simplified": "啰"
+    },
+    {
+      "traditional": "囑",
+      "simplified": "嘱"
+    },
+    {
+      "traditional": "囪",
+      "simplified": "囱"
+    },
+    {
+      "traditional": "圇",
+      "simplified": "囵"
+    },
+    {
+      "traditional": "國",
+      "simplified": "国"
+    },
+    {
+      "traditional": "圍",
+      "simplified": "围"
+    },
+    {
+      "traditional": "園",
+      "simplified": "园"
+    },
+    {
+      "traditional": "圓",
+      "simplified": "圆"
+    },
+    {
+      "traditional": "圖",
+      "simplified": "图"
+    },
+    {
+      "traditional": "埡",
+      "simplified": "垭"
+    },
+    {
+      "traditional": "執",
+      "simplified": "执"
+    },
+    {
+      "traditional": "堅",
+      "simplified": "坚"
+    },
+    {
+      "traditional": "堊",
+      "simplified": "垩"
+    },
+    {
+      "traditional": "堖",
+      "simplified": "垴"
+    },
+    {
+      "traditional": "堝",
+      "simplified": "埚"
+    },
+    {
+      "traditional": "堯",
+      "simplified": "尧"
+    },
+    {
+      "traditional": "報",
+      "simplified": "报"
+    },
+    {
+      "traditional": "場",
+      "simplified": "场"
+    },
+    {
+      "traditional": "塊",
+      "simplified": "块"
+    },
+    {
+      "traditional": "塋",
+      "simplified": "茔"
+    },
+    {
+      "traditional": "塏",
+      "simplified": "垲"
+    },
+    {
+      "traditional": "塒",
+      "simplified": "埘"
+    },
+    {
+      "traditional": "塗",
+      "simplified": "涂"
+    },
+    {
+      "traditional": "塚",
+      "simplified": "冢"
+    },
+    {
+      "traditional": "塢",
+      "simplified": "坞"
+    },
+    {
+      "traditional": "塵",
+      "simplified": "尘"
+    },
+    {
+      "traditional": "塹",
+      "simplified": "堑"
+    },
+    {
+      "traditional": "墊",
+      "simplified": "垫"
+    },
+    {
+      "traditional": "墜",
+      "simplified": "坠"
+    },
+    {
+      "traditional": "墮",
+      "simplified": "堕"
+    },
+    {
+      "traditional": "墳",
+      "simplified": "坟"
+    },
+    {
+      "traditional": "墶",
+      "simplified": "垯"
+    },
+    {
+      "traditional": "墾",
+      "simplified": "垦"
+    },
+    {
+      "traditional": "壋",
+      "simplified": "垱"
+    },
+    {
+      "traditional": "壓",
+      "simplified": "压"
+    },
+    {
+      "traditional": "壘",
+      "simplified": "垒"
+    },
+    {
+      "traditional": "壙",
+      "simplified": "圹"
+    },
+    {
+      "traditional": "壚",
+      "simplified": "垆"
+    },
+    {
+      "traditional": "壞",
+      "simplified": "坏"
+    },
+    {
+      "traditional": "壟",
+      "simplified": "垄"
+    },
+    {
+      "traditional": "壠",
+      "simplified": "垅"
+    },
+    {
+      "traditional": "壢",
+      "simplified": "坜"
+    },
+    {
+      "traditional": "壪",
+      "simplified": "塆"
+    },
+    {
+      "traditional": "壯",
+      "simplified": "壮"
+    },
+    {
+      "traditional": "壺",
+      "simplified": "壶"
+    },
+    {
+      "traditional": "壼",
+      "simplified": "壸"
+    },
+    {
+      "traditional": "壽",
+      "simplified": "寿"
+    },
+    {
+      "traditional": "夠",
+      "simplified": "够"
+    },
+    {
+      "traditional": "夢",
+      "simplified": "梦"
+    },
+    {
+      "traditional": "夥",
+      "simplified": "伙"
+    },
+    {
+      "traditional": "夾",
+      "simplified": "夹"
+    },
+    {
+      "traditional": "奐",
+      "simplified": "奂"
+    },
+    {
+      "traditional": "奧",
+      "simplified": "奥"
+    },
+    {
+      "traditional": "奩",
+      "simplified": "奁"
+    },
+    {
+      "traditional": "奪",
+      "simplified": "夺"
+    },
+    {
+      "traditional": "奮",
+      "simplified": "奋"
+    },
+    {
+      "traditional": "奼",
+      "simplified": "姹"
+    },
+    {
+      "traditional": "妝",
+      "simplified": "妆"
+    },
+    {
+      "traditional": "姍",
+      "simplified": "姗"
+    },
+    {
+      "traditional": "姦",
+      "simplified": "奸"
+    },
+    {
+      "traditional": "娛",
+      "simplified": "娱"
+    },
+    {
+      "traditional": "婁",
+      "simplified": "娄"
+    },
+    {
+      "traditional": "婦",
+      "simplified": "妇"
+    },
+    {
+      "traditional": "婭",
+      "simplified": "娅"
+    },
+    {
+      "traditional": "媧",
+      "simplified": "娲"
+    },
+    {
+      "traditional": "媰",
+      "simplified": "㛀"
+    },
+    {
+      "traditional": "媼",
+      "simplified": "媪"
+    },
+    {
+      "traditional": "媽",
+      "simplified": "妈"
+    },
+    {
+      "traditional": "嫗",
+      "simplified": "妪"
+    },
+    {
+      "traditional": "嫵",
+      "simplified": "妩"
+    },
+    {
+      "traditional": "嫿",
+      "simplified": "婳"
+    },
+    {
+      "traditional": "嬃",
+      "simplified": "媭"
+    },
+    {
+      "traditional": "嬈",
+      "simplified": "娆"
+    },
+    {
+      "traditional": "嬋",
+      "simplified": "婵"
+    },
+    {
+      "traditional": "嬌",
+      "simplified": "娇"
+    },
+    {
+      "traditional": "嬙",
+      "simplified": "嫱"
+    },
+    {
+      "traditional": "嬡",
+      "simplified": "嫒"
+    },
+    {
+      "traditional": "嬤",
+      "simplified": "嬷"
+    },
+    {
+      "traditional": "嬪",
+      "simplified": "嫔"
+    },
+    {
+      "traditional": "嬰",
+      "simplified": "婴"
+    },
+    {
+      "traditional": "嬸",
+      "simplified": "婶"
+    },
+    {
+      "traditional": "孃",
+      "simplified": "娘"
+    },
+    {
+      "traditional": "孋",
+      "simplified": "㛤"
+    },
+    {
+      "traditional": "孌",
+      "simplified": "娈"
+    },
+    {
+      "traditional": "孫",
+      "simplified": "孙"
+    },
+    {
+      "traditional": "學",
+      "simplified": "学"
+    },
+    {
+      "traditional": "孿",
+      "simplified": "孪"
+    },
+    {
+      "traditional": "宮",
+      "simplified": "宫"
+    },
+    {
+      "traditional": "寢",
+      "simplified": "寝"
+    },
+    {
+      "traditional": "實",
+      "simplified": "实"
+    },
+    {
+      "traditional": "審",
+      "simplified": "审"
+    },
+    {
+      "traditional": "寫",
+      "simplified": "写"
+    },
+    {
+      "traditional": "寬",
+      "simplified": "宽"
+    },
+    {
+      "traditional": "寵",
+      "simplified": "宠"
+    },
+    {
+      "traditional": "寶",
+      "simplified": "宝"
+    },
+    {
+      "traditional": "將",
+      "simplified": "将"
+    },
+    {
+      "traditional": "專",
+      "simplified": "专"
+    },
+    {
+      "traditional": "尋",
+      "simplified": "寻"
+    },
+    {
+      "traditional": "對",
+      "simplified": "对"
+    },
+    {
+      "traditional": "導",
+      "simplified": "导"
+    },
+    {
+      "traditional": "尷",
+      "simplified": "尴"
+    },
+    {
+      "traditional": "屆",
+      "simplified": "届"
+    },
+    {
+      "traditional": "屍",
+      "simplified": "尸"
+    },
+    {
+      "traditional": "屓",
+      "simplified": "屃"
+    },
+    {
+      "traditional": "屜",
+      "simplified": "屉"
+    },
+    {
+      "traditional": "屢",
+      "simplified": "屡"
+    },
+    {
+      "traditional": "層",
+      "simplified": "层"
+    },
+    {
+      "traditional": "屨",
+      "simplified": "屦"
+    },
+    {
+      "traditional": "屬",
+      "simplified": "属"
+    },
+    {
+      "traditional": "岡",
+      "simplified": "冈"
+    },
+    {
+      "traditional": "峯",
+      "simplified": "峰"
+    },
+    {
+      "traditional": "峴",
+      "simplified": "岘"
+    },
+    {
+      "traditional": "島",
+      "simplified": "岛"
+    },
+    {
+      "traditional": "峽",
+      "simplified": "峡"
+    },
+    {
+      "traditional": "崍",
+      "simplified": "崃"
+    },
+    {
+      "traditional": "崑",
+      "simplified": "昆"
+    },
+    {
+      "traditional": "崗",
+      "simplified": "岗"
+    },
+    {
+      "traditional": "崢",
+      "simplified": "峥"
+    },
+    {
+      "traditional": "崬",
+      "simplified": "岽"
+    },
+    {
+      "traditional": "嵐",
+      "simplified": "岚"
+    },
+    {
+      "traditional": "嵾",
+      "simplified": "㟥"
+    },
+    {
+      "traditional": "嶁",
+      "simplified": "嵝"
+    },
+    {
+      "traditional": "嶄",
+      "simplified": "崭"
+    },
+    {
+      "traditional": "嶇",
+      "simplified": "岖"
+    },
+    {
+      "traditional": "嶔",
+      "simplified": "嵚"
+    },
+    {
+      "traditional": "嶗",
+      "simplified": "崂"
+    },
+    {
+      "traditional": "嶠",
+      "simplified": "峤"
+    },
+    {
+      "traditional": "嶢",
+      "simplified": "峣"
+    },
+    {
+      "traditional": "嶧",
+      "simplified": "峄"
+    },
+    {
+      "traditional": "嶨",
+      "simplified": "峃"
+    },
+    {
+      "traditional": "嶮",
+      "simplified": "崄"
+    },
+    {
+      "traditional": "嶸",
+      "simplified": "嵘"
+    },
+    {
+      "traditional": "嶺",
+      "simplified": "岭"
+    },
+    {
+      "traditional": "嶼",
+      "simplified": "屿"
+    },
+    {
+      "traditional": "嶽",
+      "simplified": "岳"
+    },
+    {
+      "traditional": "巋",
+      "simplified": "岿"
+    },
+    {
+      "traditional": "巒",
+      "simplified": "峦"
+    },
+    {
+      "traditional": "巔",
+      "simplified": "巅"
+    },
+    {
+      "traditional": "巖",
+      "simplified": "岩"
+    },
+    {
+      "traditional": "巰",
+      "simplified": "巯"
+    },
+    {
+      "traditional": "巹",
+      "simplified": "卺"
+    },
+    {
+      "traditional": "帥",
+      "simplified": "帅"
+    },
+    {
+      "traditional": "師",
+      "simplified": "师"
+    },
+    {
+      "traditional": "帳",
+      "simplified": "帐"
+    },
+    {
+      "traditional": "帶",
+      "simplified": "带"
+    },
+    {
+      "traditional": "幀",
+      "simplified": "帧"
+    },
+    {
+      "traditional": "幃",
+      "simplified": "帏"
+    },
+    {
+      "traditional": "幓",
+      "simplified": "㡎"
+    },
+    {
+      "traditional": "幗",
+      "simplified": "帼"
+    },
+    {
+      "traditional": "幘",
+      "simplified": "帻"
+    },
+    {
+      "traditional": "幟",
+      "simplified": "帜"
+    },
+    {
+      "traditional": "幣",
+      "simplified": "币"
+    },
+    {
+      "traditional": "幫",
+      "simplified": "帮"
+    },
+    {
+      "traditional": "幬",
+      "simplified": "帱"
+    },
+    {
+      "traditional": "幾",
+      "simplified": "几"
+    },
+    {
+      "traditional": "庫",
+      "simplified": "库"
+    },
+    {
+      "traditional": "廂",
+      "simplified": "厢"
+    },
+    {
+      "traditional": "廄",
+      "simplified": "厩"
+    },
+    {
+      "traditional": "廈",
+      "simplified": "厦"
+    },
+    {
+      "traditional": "廎",
+      "simplified": "庼"
+    },
+    {
+      "traditional": "廚",
+      "simplified": "厨"
+    },
+    {
+      "traditional": "廝",
+      "simplified": "厮"
+    },
+    {
+      "traditional": "廟",
+      "simplified": "庙"
+    },
+    {
+      "traditional": "廠",
+      "simplified": "厂"
+    },
+    {
+      "traditional": "廡",
+      "simplified": "庑"
+    },
+    {
+      "traditional": "廢",
+      "simplified": "废"
+    },
+    {
+      "traditional": "廣",
+      "simplified": "广"
+    },
+    {
+      "traditional": "廩",
+      "simplified": "廪"
+    },
+    {
+      "traditional": "廬",
+      "simplified": "庐"
+    },
+    {
+      "traditional": "廳",
+      "simplified": "厅"
+    },
+    {
+      "traditional": "弒",
+      "simplified": "弑"
+    },
+    {
+      "traditional": "弔",
+      "simplified": "吊"
+    },
+    {
+      "traditional": "弳",
+      "simplified": "弪"
+    },
+    {
+      "traditional": "張",
+      "simplified": "张"
+    },
+    {
+      "traditional": "強",
+      "simplified": "强"
+    },
+    {
+      "traditional": "彈",
+      "simplified": "弹"
+    },
+    {
+      "traditional": "彎",
+      "simplified": "弯"
+    },
+    {
+      "traditional": "彠",
+      "simplified": "彟"
+    },
+    {
+      "traditional": "彥",
+      "simplified": "彦"
+    },
+    {
+      "traditional": "彲",
+      "simplified": "彨"
+    },
+    {
+      "traditional": "彿",
+      "simplified": "佛"
+    },
+    {
+      "traditional": "後",
+      "simplified": "后"
+    },
+    {
+      "traditional": "徑",
+      "simplified": "径"
+    },
+    {
+      "traditional": "從",
+      "simplified": "从"
+    },
+    {
+      "traditional": "徠",
+      "simplified": "徕"
+    },
+    {
+      "traditional": "徵",
+      "simplified": "征"
+    },
+    {
+      "traditional": "徹",
+      "simplified": "彻"
+    },
+    {
+      "traditional": "恆",
+      "simplified": "恒"
+    },
+    {
+      "traditional": "恥",
+      "simplified": "耻"
+    },
+    {
+      "traditional": "悅",
+      "simplified": "悦"
+    },
+    {
+      "traditional": "悞",
+      "simplified": "悮"
+    },
+    {
+      "traditional": "悵",
+      "simplified": "怅"
+    },
+    {
+      "traditional": "悶",
+      "simplified": "闷"
+    },
+    {
+      "traditional": "惱",
+      "simplified": "恼"
+    },
+    {
+      "traditional": "惲",
+      "simplified": "恽"
+    },
+    {
+      "traditional": "惻",
+      "simplified": "恻"
+    },
+    {
+      "traditional": "愛",
+      "simplified": "爱"
+    },
+    {
+      "traditional": "愜",
+      "simplified": "惬"
+    },
+    {
+      "traditional": "愴",
+      "simplified": "怆"
+    },
+    {
+      "traditional": "愷",
+      "simplified": "恺"
+    },
+    {
+      "traditional": "愾",
+      "simplified": "忾"
+    },
+    {
+      "traditional": "慄",
+      "simplified": "栗"
+    },
+    {
+      "traditional": "態",
+      "simplified": "态"
+    },
+    {
+      "traditional": "慍",
+      "simplified": "愠"
+    },
+    {
+      "traditional": "慘",
+      "simplified": "惨"
+    },
+    {
+      "traditional": "慚",
+      "simplified": "惭"
+    },
+    {
+      "traditional": "慟",
+      "simplified": "恸"
+    },
+    {
+      "traditional": "慣",
+      "simplified": "惯"
+    },
+    {
+      "traditional": "慪",
+      "simplified": "怄"
+    },
+    {
+      "traditional": "慫",
+      "simplified": "怂"
+    },
+    {
+      "traditional": "慮",
+      "simplified": "虑"
+    },
+    {
+      "traditional": "慳",
+      "simplified": "悭"
+    },
+    {
+      "traditional": "慶",
+      "simplified": "庆"
+    },
+    {
+      "traditional": "慺",
+      "simplified": "㥪"
+    },
+    {
+      "traditional": "慼",
+      "simplified": "戚"
+    },
+    {
+      "traditional": "慾",
+      "simplified": "欲"
+    },
+    {
+      "traditional": "憂",
+      "simplified": "忧"
+    },
+    {
+      "traditional": "憊",
+      "simplified": "惫"
+    },
+    {
+      "traditional": "憐",
+      "simplified": "怜"
+    },
+    {
+      "traditional": "憑",
+      "simplified": "凭"
+    },
+    {
+      "traditional": "憒",
+      "simplified": "愦"
+    },
+    {
+      "traditional": "憖",
+      "simplified": "慭"
+    },
+    {
+      "traditional": "憚",
+      "simplified": "惮"
+    },
+    {
+      "traditional": "憤",
+      "simplified": "愤"
+    },
+    {
+      "traditional": "憫",
+      "simplified": "悯"
+    },
+    {
+      "traditional": "憮",
+      "simplified": "怃"
+    },
+    {
+      "traditional": "憲",
+      "simplified": "宪"
+    },
+    {
+      "traditional": "憶",
+      "simplified": "忆"
+    },
+    {
+      "traditional": "懇",
+      "simplified": "恳"
+    },
+    {
+      "traditional": "應",
+      "simplified": "应"
+    },
+    {
+      "traditional": "懌",
+      "simplified": "怿"
+    },
+    {
+      "traditional": "懍",
+      "simplified": "懔"
+    },
+    {
+      "traditional": "懟",
+      "simplified": "怼"
+    },
+    {
+      "traditional": "懣",
+      "simplified": "懑"
+    },
+    {
+      "traditional": "懤",
+      "simplified": "㤽"
+    },
+    {
+      "traditional": "懨",
+      "simplified": "恹"
+    },
+    {
+      "traditional": "懲",
+      "simplified": "惩"
+    },
+    {
+      "traditional": "懶",
+      "simplified": "懒"
+    },
+    {
+      "traditional": "懷",
+      "simplified": "怀"
+    },
+    {
+      "traditional": "懸",
+      "simplified": "悬"
+    },
+    {
+      "traditional": "懺",
+      "simplified": "忏"
+    },
+    {
+      "traditional": "懼",
+      "simplified": "惧"
+    },
+    {
+      "traditional": "懾",
+      "simplified": "慑"
+    },
+    {
+      "traditional": "戀",
+      "simplified": "恋"
+    },
+    {
+      "traditional": "戇",
+      "simplified": "戆"
+    },
+    {
+      "traditional": "戔",
+      "simplified": "戋"
+    },
+    {
+      "traditional": "戧",
+      "simplified": "戗"
+    },
+    {
+      "traditional": "戩",
+      "simplified": "戬"
+    },
+    {
+      "traditional": "戰",
+      "simplified": "战"
+    },
+    {
+      "traditional": "戱",
+      "simplified": "戯"
+    },
+    {
+      "traditional": "戲",
+      "simplified": "戏"
+    },
+    {
+      "traditional": "戶",
+      "simplified": "户"
+    },
+    {
+      "traditional": "拋",
+      "simplified": "抛"
+    },
+    {
+      "traditional": "挩",
+      "simplified": "捝"
+    },
+    {
+      "traditional": "挱",
+      "simplified": "挲"
+    },
+    {
+      "traditional": "挾",
+      "simplified": "挟"
+    },
+    {
+      "traditional": "捨",
+      "simplified": "舍"
+    },
+    {
+      "traditional": "捫",
+      "simplified": "扪"
+    },
+    {
+      "traditional": "捱",
+      "simplified": "挨"
+    },
+    {
+      "traditional": "捲",
+      "simplified": "卷"
+    },
+    {
+      "traditional": "掃",
+      "simplified": "扫"
+    },
+    {
+      "traditional": "掄",
+      "simplified": "抡"
+    },
+    {
+      "traditional": "掆",
+      "simplified": "㧏"
+    },
+    {
+      "traditional": "掗",
+      "simplified": "挜"
+    },
+    {
+      "traditional": "掙",
+      "simplified": "挣"
+    },
+    {
+      "traditional": "掛",
+      "simplified": "挂"
+    },
+    {
+      "traditional": "揀",
+      "simplified": "拣"
+    },
+    {
+      "traditional": "揚",
+      "simplified": "扬"
+    },
+    {
+      "traditional": "換",
+      "simplified": "换"
+    },
+    {
+      "traditional": "揮",
+      "simplified": "挥"
+    },
+    {
+      "traditional": "揯",
+      "simplified": "搄"
+    },
+    {
+      "traditional": "損",
+      "simplified": "损"
+    },
+    {
+      "traditional": "搖",
+      "simplified": "摇"
+    },
+    {
+      "traditional": "搵",
+      "simplified": "揾"
+    },
+    {
+      "traditional": "搶",
+      "simplified": "抢"
+    },
+    {
+      "traditional": "摑",
+      "simplified": "掴"
+    },
+    {
+      "traditional": "摜",
+      "simplified": "掼"
+    },
+    {
+      "traditional": "摟",
+      "simplified": "搂"
+    },
+    {
+      "traditional": "摯",
+      "simplified": "挚"
+    },
+    {
+      "traditional": "摳",
+      "simplified": "抠"
+    },
+    {
+      "traditional": "摶",
+      "simplified": "抟"
+    },
+    {
+      "traditional": "摺",
+      "simplified": "折"
+    },
+    {
+      "traditional": "摻",
+      "simplified": "掺"
+    },
+    {
+      "traditional": "撈",
+      "simplified": "捞"
+    },
+    {
+      "traditional": "撏",
+      "simplified": "挦"
+    },
+    {
+      "traditional": "撐",
+      "simplified": "撑"
+    },
+    {
+      "traditional": "撓",
+      "simplified": "挠"
+    },
+    {
+      "traditional": "撝",
+      "simplified": "㧑"
+    },
+    {
+      "traditional": "撟",
+      "simplified": "挢"
+    },
+    {
+      "traditional": "撣",
+      "simplified": "掸"
+    },
+    {
+      "traditional": "撥",
+      "simplified": "拨"
+    },
+    {
+      "traditional": "撫",
+      "simplified": "抚"
+    },
+    {
+      "traditional": "撲",
+      "simplified": "扑"
+    },
+    {
+      "traditional": "撳",
+      "simplified": "揿"
+    },
+    {
+      "traditional": "撻",
+      "simplified": "挞"
+    },
+    {
+      "traditional": "撾",
+      "simplified": "挝"
+    },
+    {
+      "traditional": "撿",
+      "simplified": "捡"
+    },
+    {
+      "traditional": "擁",
+      "simplified": "拥"
+    },
+    {
+      "traditional": "擄",
+      "simplified": "掳"
+    },
+    {
+      "traditional": "擇",
+      "simplified": "择"
+    },
+    {
+      "traditional": "擊",
+      "simplified": "击"
+    },
+    {
+      "traditional": "擋",
+      "simplified": "挡"
+    },
+    {
+      "traditional": "擓",
+      "simplified": "㧟"
+    },
+    {
+      "traditional": "擔",
+      "simplified": "担"
+    },
+    {
+      "traditional": "據",
+      "simplified": "据"
+    },
+    {
+      "traditional": "擠",
+      "simplified": "挤"
+    },
+    {
+      "traditional": "擬",
+      "simplified": "拟"
+    },
+    {
+      "traditional": "擯",
+      "simplified": "摈"
+    },
+    {
+      "traditional": "擰",
+      "simplified": "拧"
+    },
+    {
+      "traditional": "擱",
+      "simplified": "搁"
+    },
+    {
+      "traditional": "擲",
+      "simplified": "掷"
+    },
+    {
+      "traditional": "擴",
+      "simplified": "扩"
+    },
+    {
+      "traditional": "擷",
+      "simplified": "撷"
+    },
+    {
+      "traditional": "擻",
+      "simplified": "擞"
+    },
+    {
+      "traditional": "擼",
+      "simplified": "撸"
+    },
+    {
+      "traditional": "擽",
+      "simplified": "㧰"
+    },
+    {
+      "traditional": "擾",
+      "simplified": "扰"
+    },
+    {
+      "traditional": "攄",
+      "simplified": "摅"
+    },
+    {
+      "traditional": "攆",
+      "simplified": "撵"
+    },
+    {
+      "traditional": "攏",
+      "simplified": "拢"
+    },
+    {
+      "traditional": "攔",
+      "simplified": "拦"
+    },
+    {
+      "traditional": "攖",
+      "simplified": "撄"
+    },
+    {
+      "traditional": "攙",
+      "simplified": "搀"
+    },
+    {
+      "traditional": "攛",
+      "simplified": "撺"
+    },
+    {
+      "traditional": "攜",
+      "simplified": "携"
+    },
+    {
+      "traditional": "攝",
+      "simplified": "摄"
+    },
+    {
+      "traditional": "攢",
+      "simplified": "攒"
+    },
+    {
+      "traditional": "攣",
+      "simplified": "挛"
+    },
+    {
+      "traditional": "攤",
+      "simplified": "摊"
+    },
+    {
+      "traditional": "攪",
+      "simplified": "搅"
+    },
+    {
+      "traditional": "攬",
+      "simplified": "揽"
+    },
+    {
+      "traditional": "敎",
+      "simplified": "教"
+    },
+    {
+      "traditional": "敓",
+      "simplified": "敚"
+    },
+    {
+      "traditional": "敗",
+      "simplified": "败"
+    },
+    {
+      "traditional": "敘",
+      "simplified": "叙"
+    },
+    {
+      "traditional": "敵",
+      "simplified": "敌"
+    },
+    {
+      "traditional": "數",
+      "simplified": "数"
+    },
+    {
+      "traditional": "斂",
+      "simplified": "敛"
+    },
+    {
+      "traditional": "斃",
+      "simplified": "毙"
+    },
+    {
+      "traditional": "斆",
+      "simplified": "敩"
+    },
+    {
+      "traditional": "斕",
+      "simplified": "斓"
+    },
+    {
+      "traditional": "斬",
+      "simplified": "斩"
+    },
+    {
+      "traditional": "斷",
+      "simplified": "断"
+    },
+    {
+      "traditional": "於",
+      "simplified": "于"
+    },
+    {
+      "traditional": "旂",
+      "simplified": "旗"
+    },
+    {
+      "traditional": "旣",
+      "simplified": "既"
+    },
+    {
+      "traditional": "時",
+      "simplified": "时"
+    },
+    {
+      "traditional": "晉",
+      "simplified": "晋"
+    },
+    {
+      "traditional": "晝",
+      "simplified": "昼"
+    },
+    {
+      "traditional": "暈",
+      "simplified": "晕"
+    },
+    {
+      "traditional": "暉",
+      "simplified": "晖"
+    },
+    {
+      "traditional": "暘",
+      "simplified": "旸"
+    },
+    {
+      "traditional": "暢",
+      "simplified": "畅"
+    },
+    {
+      "traditional": "暫",
+      "simplified": "暂"
+    },
+    {
+      "traditional": "曄",
+      "simplified": "晔"
+    },
+    {
+      "traditional": "曇",
+      "simplified": "昙"
+    },
+    {
+      "traditional": "曉",
+      "simplified": "晓"
+    },
+    {
+      "traditional": "曖",
+      "simplified": "暧"
+    },
+    {
+      "traditional": "曠",
+      "simplified": "旷"
+    },
+    {
+      "traditional": "曨",
+      "simplified": "昽"
+    },
+    {
+      "traditional": "曬",
+      "simplified": "晒"
+    },
+    {
+      "traditional": "書",
+      "simplified": "书"
+    },
+    {
+      "traditional": "會",
+      "simplified": "会"
+    },
+    {
+      "traditional": "朧",
+      "simplified": "胧"
+    },
+    {
+      "traditional": "東",
+      "simplified": "东"
+    },
+    {
+      "traditional": "柵",
+      "simplified": "栅"
+    },
+    {
+      "traditional": "査",
+      "simplified": "查"
+    },
+    {
+      "traditional": "桿",
+      "simplified": "杆"
+    },
+    {
+      "traditional": "梔",
+      "simplified": "栀"
+    },
+    {
+      "traditional": "梘",
+      "simplified": "枧"
+    },
+    {
+      "traditional": "條",
+      "simplified": "条"
+    },
+    {
+      "traditional": "梟",
+      "simplified": "枭"
+    },
+    {
+      "traditional": "梲",
+      "simplified": "棁"
+    },
+    {
+      "traditional": "棄",
+      "simplified": "弃"
+    },
+    {
+      "traditional": "棊",
+      "simplified": "棋"
+    },
+    {
+      "traditional": "棖",
+      "simplified": "枨"
+    },
+    {
+      "traditional": "棗",
+      "simplified": "枣"
+    },
+    {
+      "traditional": "棟",
+      "simplified": "栋"
+    },
+    {
+      "traditional": "棡",
+      "simplified": "㭎"
+    },
+    {
+      "traditional": "棧",
+      "simplified": "栈"
+    },
+    {
+      "traditional": "棲",
+      "simplified": "栖"
+    },
+    {
+      "traditional": "棶",
+      "simplified": "梾"
+    },
+    {
+      "traditional": "椏",
+      "simplified": "桠"
+    },
+    {
+      "traditional": "椲",
+      "simplified": "㭏"
+    },
+    {
+      "traditional": "楊",
+      "simplified": "杨"
+    },
+    {
+      "traditional": "楓",
+      "simplified": "枫"
+    },
+    {
+      "traditional": "楨",
+      "simplified": "桢"
+    },
+    {
+      "traditional": "業",
+      "simplified": "业"
+    },
+    {
+      "traditional": "極",
+      "simplified": "极"
+    },
+    {
+      "traditional": "榘",
+      "simplified": "矩"
+    },
+    {
+      "traditional": "榪",
+      "simplified": "杩"
+    },
+    {
+      "traditional": "榮",
+      "simplified": "荣"
+    },
+    {
+      "traditional": "榲",
+      "simplified": "榅"
+    },
+    {
+      "traditional": "榿",
+      "simplified": "桤"
+    },
+    {
+      "traditional": "構",
+      "simplified": "构"
+    },
+    {
+      "traditional": "槍",
+      "simplified": "枪"
+    },
+    {
+      "traditional": "槓",
+      "simplified": "杠"
+    },
+    {
+      "traditional": "槤",
+      "simplified": "梿"
+    },
+    {
+      "traditional": "槧",
+      "simplified": "椠"
+    },
+    {
+      "traditional": "槨",
+      "simplified": "椁"
+    },
+    {
+      "traditional": "槮",
+      "simplified": "椮"
+    },
+    {
+      "traditional": "槳",
+      "simplified": "桨"
+    },
+    {
+      "traditional": "槶",
+      "simplified": "椢"
+    },
+    {
+      "traditional": "槼",
+      "simplified": "椝"
+    },
+    {
+      "traditional": "樁",
+      "simplified": "桩"
+    },
+    {
+      "traditional": "樂",
+      "simplified": "乐"
+    },
+    {
+      "traditional": "樅",
+      "simplified": "枞"
+    },
+    {
+      "traditional": "樑",
+      "simplified": "梁"
+    },
+    {
+      "traditional": "樓",
+      "simplified": "楼"
+    },
+    {
+      "traditional": "標",
+      "simplified": "标"
+    },
+    {
+      "traditional": "樞",
+      "simplified": "枢"
+    },
+    {
+      "traditional": "樢",
+      "simplified": "㭤"
+    },
+    {
+      "traditional": "樣",
+      "simplified": "样"
+    },
+    {
+      "traditional": "樧",
+      "simplified": "榝"
+    },
+    {
+      "traditional": "樫",
+      "simplified": "㭴"
+    },
+    {
+      "traditional": "樳",
+      "simplified": "桪"
+    },
+    {
+      "traditional": "樸",
+      "simplified": "朴"
+    },
+    {
+      "traditional": "樹",
+      "simplified": "树"
+    },
+    {
+      "traditional": "樺",
+      "simplified": "桦"
+    },
+    {
+      "traditional": "樿",
+      "simplified": "椫"
+    },
+    {
+      "traditional": "橈",
+      "simplified": "桡"
+    },
+    {
+      "traditional": "橋",
+      "simplified": "桥"
+    },
+    {
+      "traditional": "機",
+      "simplified": "机"
+    },
+    {
+      "traditional": "橢",
+      "simplified": "椭"
+    },
+    {
+      "traditional": "橫",
+      "simplified": "横"
+    },
+    {
+      "traditional": "檁",
+      "simplified": "檩"
+    },
+    {
+      "traditional": "檉",
+      "simplified": "柽"
+    },
+    {
+      "traditional": "檔",
+      "simplified": "档"
+    },
+    {
+      "traditional": "檜",
+      "simplified": "桧"
+    },
+    {
+      "traditional": "檟",
+      "simplified": "槚"
+    },
+    {
+      "traditional": "檢",
+      "simplified": "检"
+    },
+    {
+      "traditional": "檣",
+      "simplified": "樯"
+    },
+    {
+      "traditional": "檮",
+      "simplified": "梼"
+    },
+    {
+      "traditional": "檳",
+      "simplified": "槟"
+    },
+    {
+      "traditional": "檸",
+      "simplified": "柠"
+    },
+    {
+      "traditional": "檻",
+      "simplified": "槛"
+    },
+    {
+      "traditional": "櫃",
+      "simplified": "柜"
+    },
+    {
+      "traditional": "櫓",
+      "simplified": "橹"
+    },
+    {
+      "traditional": "櫚",
+      "simplified": "榈"
+    },
+    {
+      "traditional": "櫛",
+      "simplified": "栉"
+    },
+    {
+      "traditional": "櫝",
+      "simplified": "椟"
+    },
+    {
+      "traditional": "櫞",
+      "simplified": "橼"
+    },
+    {
+      "traditional": "櫟",
+      "simplified": "栎"
+    },
+    {
+      "traditional": "櫥",
+      "simplified": "橱"
+    },
+    {
+      "traditional": "櫧",
+      "simplified": "槠"
+    },
+    {
+      "traditional": "櫨",
+      "simplified": "栌"
+    },
+    {
+      "traditional": "櫪",
+      "simplified": "枥"
+    },
+    {
+      "traditional": "櫫",
+      "simplified": "橥"
+    },
+    {
+      "traditional": "櫬",
+      "simplified": "榇"
+    },
+    {
+      "traditional": "櫱",
+      "simplified": "蘖"
+    },
+    {
+      "traditional": "櫳",
+      "simplified": "栊"
+    },
+    {
+      "traditional": "櫻",
+      "simplified": "樱"
+    },
+    {
+      "traditional": "欄",
+      "simplified": "栏"
+    },
+    {
+      "traditional": "權",
+      "simplified": "权"
+    },
+    {
+      "traditional": "欏",
+      "simplified": "椤"
+    },
+    {
+      "traditional": "欒",
+      "simplified": "栾"
+    },
+    {
+      "traditional": "欖",
+      "simplified": "榄"
+    },
+    {
+      "traditional": "欞",
+      "simplified": "棂"
+    },
+    {
+      "traditional": "欽",
+      "simplified": "钦"
+    },
+    {
+      "traditional": "歐",
+      "simplified": "欧"
+    },
+    {
+      "traditional": "歟",
+      "simplified": "欤"
+    },
+    {
+      "traditional": "歡",
+      "simplified": "欢"
+    },
+    {
+      "traditional": "歸",
+      "simplified": "归"
+    },
+    {
+      "traditional": "歿",
+      "simplified": "殁"
+    },
+    {
+      "traditional": "殘",
+      "simplified": "残"
+    },
+    {
+      "traditional": "殞",
+      "simplified": "殒"
+    },
+    {
+      "traditional": "殤",
+      "simplified": "殇"
+    },
+    {
+      "traditional": "殨",
+      "simplified": "㱮"
+    },
+    {
+      "traditional": "殫",
+      "simplified": "殚"
+    },
+    {
+      "traditional": "殭",
+      "simplified": "僵"
+    },
+    {
+      "traditional": "殮",
+      "simplified": "殓"
+    },
+    {
+      "traditional": "殯",
+      "simplified": "殡"
+    },
+    {
+      "traditional": "殰",
+      "simplified": "㱩"
+    },
+    {
+      "traditional": "殲",
+      "simplified": "歼"
+    },
+    {
+      "traditional": "殺",
+      "simplified": "杀"
+    },
+    {
+      "traditional": "毆",
+      "simplified": "殴"
+    },
+    {
+      "traditional": "毿",
+      "simplified": "毵"
+    },
+    {
+      "traditional": "氈",
+      "simplified": "毡"
+    },
+    {
+      "traditional": "氌",
+      "simplified": "氇"
+    },
+    {
+      "traditional": "氣",
+      "simplified": "气"
+    },
+    {
+      "traditional": "氫",
+      "simplified": "氢"
+    },
+    {
+      "traditional": "氬",
+      "simplified": "氩"
+    },
+    {
+      "traditional": "氳",
+      "simplified": "氲"
+    },
+    {
+      "traditional": "汙",
+      "simplified": "污"
+    },
+    {
+      "traditional": "決",
+      "simplified": "决"
+    },
+    {
+      "traditional": "沒",
+      "simplified": "没"
+    },
+    {
+      "traditional": "況",
+      "simplified": "况"
+    },
+    {
+      "traditional": "洩",
+      "simplified": "泄"
+    },
+    {
+      "traditional": "洶",
+      "simplified": "汹"
+    },
+    {
+      "traditional": "浹",
+      "simplified": "浃"
+    },
+    {
+      "traditional": "涇",
+      "simplified": "泾"
+    },
+    {
+      "traditional": "涗",
+      "simplified": "涚"
+    },
+    {
+      "traditional": "涼",
+      "simplified": "凉"
+    },
+    {
+      "traditional": "淚",
+      "simplified": "泪"
+    },
+    {
+      "traditional": "淥",
+      "simplified": "渌"
+    },
+    {
+      "traditional": "淩",
+      "simplified": "凌"
+    },
+    {
+      "traditional": "淪",
+      "simplified": "沦"
+    },
+    {
+      "traditional": "淵",
+      "simplified": "渊"
+    },
+    {
+      "traditional": "淶",
+      "simplified": "涞"
+    },
+    {
+      "traditional": "淺",
+      "simplified": "浅"
+    },
+    {
+      "traditional": "渙",
+      "simplified": "涣"
+    },
+    {
+      "traditional": "減",
+      "simplified": "减"
+    },
+    {
+      "traditional": "渢",
+      "simplified": "沨"
+    },
+    {
+      "traditional": "渦",
+      "simplified": "涡"
+    },
+    {
+      "traditional": "測",
+      "simplified": "测"
+    },
+    {
+      "traditional": "渾",
+      "simplified": "浑"
+    },
+    {
+      "traditional": "湊",
+      "simplified": "凑"
+    },
+    {
+      "traditional": "湞",
+      "simplified": "浈"
+    },
+    {
+      "traditional": "湧",
+      "simplified": "涌"
+    },
+    {
+      "traditional": "湯",
+      "simplified": "汤"
+    },
+    {
+      "traditional": "準",
+      "simplified": "准"
+    },
+    {
+      "traditional": "溝",
+      "simplified": "沟"
+    },
+    {
+      "traditional": "溫",
+      "simplified": "温"
+    },
+    {
+      "traditional": "溮",
+      "simplified": "浉"
+    },
+    {
+      "traditional": "溳",
+      "simplified": "涢"
+    },
+    {
+      "traditional": "滄",
+      "simplified": "沧"
+    },
+    {
+      "traditional": "滅",
+      "simplified": "灭"
+    },
+    {
+      "traditional": "滌",
+      "simplified": "涤"
+    },
+    {
+      "traditional": "滎",
+      "simplified": "荥"
+    },
+    {
+      "traditional": "滬",
+      "simplified": "沪"
+    },
+    {
+      "traditional": "滯",
+      "simplified": "滞"
+    },
+    {
+      "traditional": "滲",
+      "simplified": "渗"
+    },
+    {
+      "traditional": "滸",
+      "simplified": "浒"
+    },
+    {
+      "traditional": "滻",
+      "simplified": "浐"
+    },
+    {
+      "traditional": "滾",
+      "simplified": "滚"
+    },
+    {
+      "traditional": "滿",
+      "simplified": "满"
+    },
+    {
+      "traditional": "漁",
+      "simplified": "渔"
+    },
+    {
+      "traditional": "漊",
+      "simplified": "溇"
+    },
+    {
+      "traditional": "漚",
+      "simplified": "沤"
+    },
+    {
+      "traditional": "漢",
+      "simplified": "汉"
+    },
+    {
+      "traditional": "漣",
+      "simplified": "涟"
+    },
+    {
+      "traditional": "漬",
+      "simplified": "渍"
+    },
+    {
+      "traditional": "漲",
+      "simplified": "涨"
+    },
+    {
+      "traditional": "漵",
+      "simplified": "溆"
+    },
+    {
+      "traditional": "漸",
+      "simplified": "渐"
+    },
+    {
+      "traditional": "漿",
+      "simplified": "浆"
+    },
+    {
+      "traditional": "潁",
+      "simplified": "颍"
+    },
+    {
+      "traditional": "潑",
+      "simplified": "泼"
+    },
+    {
+      "traditional": "潔",
+      "simplified": "洁"
+    },
+    {
+      "traditional": "潚",
+      "simplified": "㴋"
+    },
+    {
+      "traditional": "潛",
+      "simplified": "潜"
+    },
+    {
+      "traditional": "潤",
+      "simplified": "润"
+    },
+    {
+      "traditional": "潯",
+      "simplified": "浔"
+    },
+    {
+      "traditional": "潰",
+      "simplified": "溃"
+    },
+    {
+      "traditional": "潷",
+      "simplified": "滗"
+    },
+    {
+      "traditional": "潿",
+      "simplified": "涠"
+    },
+    {
+      "traditional": "澀",
+      "simplified": "涩"
+    },
+    {
+      "traditional": "澆",
+      "simplified": "浇"
+    },
+    {
+      "traditional": "澇",
+      "simplified": "涝"
+    },
+    {
+      "traditional": "澐",
+      "simplified": "沄"
+    },
+    {
+      "traditional": "澗",
+      "simplified": "涧"
+    },
+    {
+      "traditional": "澠",
+      "simplified": "渑"
+    },
+    {
+      "traditional": "澤",
+      "simplified": "泽"
+    },
+    {
+      "traditional": "澦",
+      "simplified": "滪"
+    },
+    {
+      "traditional": "澩",
+      "simplified": "泶"
+    },
+    {
+      "traditional": "澮",
+      "simplified": "浍"
+    },
+    {
+      "traditional": "澱",
+      "simplified": "淀"
+    },
+    {
+      "traditional": "澾",
+      "simplified": "㳠"
+    },
+    {
+      "traditional": "濁",
+      "simplified": "浊"
+    },
+    {
+      "traditional": "濃",
+      "simplified": "浓"
+    },
+    {
+      "traditional": "濄",
+      "simplified": "㳡"
+    },
+    {
+      "traditional": "濘",
+      "simplified": "泞"
+    },
+    {
+      "traditional": "濚",
+      "simplified": "溁"
+    },
+    {
+      "traditional": "濜",
+      "simplified": "浕"
+    },
+    {
+      "traditional": "濟",
+      "simplified": "济"
+    },
+    {
+      "traditional": "濤",
+      "simplified": "涛"
+    },
+    {
+      "traditional": "濧",
+      "simplified": "㳔"
+    },
+    {
+      "traditional": "濫",
+      "simplified": "滥"
+    },
+    {
+      "traditional": "濰",
+      "simplified": "潍"
+    },
+    {
+      "traditional": "濱",
+      "simplified": "滨"
+    },
+    {
+      "traditional": "濺",
+      "simplified": "溅"
+    },
+    {
+      "traditional": "濼",
+      "simplified": "泺"
+    },
+    {
+      "traditional": "濾",
+      "simplified": "滤"
+    },
+    {
+      "traditional": "瀂",
+      "simplified": "澛"
+    },
+    {
+      "traditional": "瀅",
+      "simplified": "滢"
+    },
+    {
+      "traditional": "瀆",
+      "simplified": "渎"
+    },
+    {
+      "traditional": "瀇",
+      "simplified": "㲿"
+    },
+    {
+      "traditional": "瀉",
+      "simplified": "泻"
+    },
+    {
+      "traditional": "瀋",
+      "simplified": "沈"
+    },
+    {
+      "traditional": "瀏",
+      "simplified": "浏"
+    },
+    {
+      "traditional": "瀕",
+      "simplified": "濒"
+    },
+    {
+      "traditional": "瀘",
+      "simplified": "泸"
+    },
+    {
+      "traditional": "瀝",
+      "simplified": "沥"
+    },
+    {
+      "traditional": "瀟",
+      "simplified": "潇"
+    },
+    {
+      "traditional": "瀠",
+      "simplified": "潆"
+    },
+    {
+      "traditional": "瀦",
+      "simplified": "潴"
+    },
+    {
+      "traditional": "瀧",
+      "simplified": "泷"
+    },
+    {
+      "traditional": "瀨",
+      "simplified": "濑"
+    },
+    {
+      "traditional": "瀲",
+      "simplified": "潋"
+    },
+    {
+      "traditional": "瀾",
+      "simplified": "澜"
+    },
+    {
+      "traditional": "灃",
+      "simplified": "沣"
+    },
+    {
+      "traditional": "灄",
+      "simplified": "滠"
+    },
+    {
+      "traditional": "灑",
+      "simplified": "洒"
+    },
+    {
+      "traditional": "灕",
+      "simplified": "漓"
+    },
+    {
+      "traditional": "灘",
+      "simplified": "滩"
+    },
+    {
+      "traditional": "灝",
+      "simplified": "灏"
+    },
+    {
+      "traditional": "灡",
+      "simplified": "㳕"
+    },
+    {
+      "traditional": "灣",
+      "simplified": "湾"
+    },
+    {
+      "traditional": "灤",
+      "simplified": "滦"
+    },
+    {
+      "traditional": "災",
+      "simplified": "灾"
+    },
+    {
+      "traditional": "烏",
+      "simplified": "乌"
+    },
+    {
+      "traditional": "烴",
+      "simplified": "烃"
+    },
+    {
+      "traditional": "無",
+      "simplified": "无"
+    },
+    {
+      "traditional": "煒",
+      "simplified": "炜"
+    },
+    {
+      "traditional": "煢",
+      "simplified": "茕"
+    },
+    {
+      "traditional": "煥",
+      "simplified": "焕"
+    },
+    {
+      "traditional": "煩",
+      "simplified": "烦"
+    },
+    {
+      "traditional": "煬",
+      "simplified": "炀"
+    },
+    {
+      "traditional": "煱",
+      "simplified": "㶽"
+    },
+    {
+      "traditional": "熅",
+      "simplified": "煴"
+    },
+    {
+      "traditional": "熒",
+      "simplified": "荧"
+    },
+    {
+      "traditional": "熗",
+      "simplified": "炝"
+    },
+    {
+      "traditional": "熱",
+      "simplified": "热"
+    },
+    {
+      "traditional": "熲",
+      "simplified": "颎"
+    },
+    {
+      "traditional": "熾",
+      "simplified": "炽"
+    },
+    {
+      "traditional": "燁",
+      "simplified": "烨"
+    },
+    {
+      "traditional": "燈",
+      "simplified": "灯"
+    },
+    {
+      "traditional": "燉",
+      "simplified": "炖"
+    },
+    {
+      "traditional": "燒",
+      "simplified": "烧"
+    },
+    {
+      "traditional": "燙",
+      "simplified": "烫"
+    },
+    {
+      "traditional": "燜",
+      "simplified": "焖"
+    },
+    {
+      "traditional": "營",
+      "simplified": "营"
+    },
+    {
+      "traditional": "燦",
+      "simplified": "灿"
+    },
+    {
+      "traditional": "燭",
+      "simplified": "烛"
+    },
+    {
+      "traditional": "燴",
+      "simplified": "烩"
+    },
+    {
+      "traditional": "燶",
+      "simplified": "㶶"
+    },
+    {
+      "traditional": "燻",
+      "simplified": "熏"
+    },
+    {
+      "traditional": "燼",
+      "simplified": "烬"
+    },
+    {
+      "traditional": "燾",
+      "simplified": "焘"
+    },
+    {
+      "traditional": "爍",
+      "simplified": "烁"
+    },
+    {
+      "traditional": "爐",
+      "simplified": "炉"
+    },
+    {
+      "traditional": "爛",
+      "simplified": "烂"
+    },
+    {
+      "traditional": "爭",
+      "simplified": "争"
+    },
+    {
+      "traditional": "爺",
+      "simplified": "爷"
+    },
+    {
+      "traditional": "爾",
+      "simplified": "尔"
+    },
+    {
+      "traditional": "牀",
+      "simplified": "床"
+    },
+    {
+      "traditional": "牘",
+      "simplified": "牍"
+    },
+    {
+      "traditional": "牽",
+      "simplified": "牵"
+    },
+    {
+      "traditional": "犖",
+      "simplified": "荦"
+    },
+    {
+      "traditional": "犢",
+      "simplified": "犊"
+    },
+    {
+      "traditional": "犧",
+      "simplified": "牺"
+    },
+    {
+      "traditional": "狀",
+      "simplified": "状"
+    },
+    {
+      "traditional": "狹",
+      "simplified": "狭"
+    },
+    {
+      "traditional": "狽",
+      "simplified": "狈"
+    },
+    {
+      "traditional": "猙",
+      "simplified": "狰"
+    },
+    {
+      "traditional": "猶",
+      "simplified": "犹"
+    },
+    {
+      "traditional": "猻",
+      "simplified": "狲"
+    },
+    {
+      "traditional": "獁",
+      "simplified": "犸"
+    },
+    {
+      "traditional": "獃",
+      "simplified": "呆"
+    },
+    {
+      "traditional": "獄",
+      "simplified": "狱"
+    },
+    {
+      "traditional": "獅",
+      "simplified": "狮"
+    },
+    {
+      "traditional": "獨",
+      "simplified": "独"
+    },
+    {
+      "traditional": "獪",
+      "simplified": "狯"
+    },
+    {
+      "traditional": "獫",
+      "simplified": "猃"
+    },
+    {
+      "traditional": "獮",
+      "simplified": "狝"
+    },
+    {
+      "traditional": "獰",
+      "simplified": "狞"
+    },
+    {
+      "traditional": "獱",
+      "simplified": "㺍"
+    },
+    {
+      "traditional": "獵",
+      "simplified": "猎"
+    },
+    {
+      "traditional": "獷",
+      "simplified": "犷"
+    },
+    {
+      "traditional": "獸",
+      "simplified": "兽"
+    },
+    {
+      "traditional": "獺",
+      "simplified": "獭"
+    },
+    {
+      "traditional": "獻",
+      "simplified": "献"
+    },
+    {
+      "traditional": "獼",
+      "simplified": "猕"
+    },
+    {
+      "traditional": "玀",
+      "simplified": "猡"
+    },
+    {
+      "traditional": "現",
+      "simplified": "现"
+    },
+    {
+      "traditional": "琺",
+      "simplified": "珐"
+    },
+    {
+      "traditional": "琿",
+      "simplified": "珲"
+    },
+    {
+      "traditional": "瑋",
+      "simplified": "玮"
+    },
+    {
+      "traditional": "瑒",
+      "simplified": "玚"
+    },
+    {
+      "traditional": "瑣",
+      "simplified": "琐"
+    },
+    {
+      "traditional": "瑤",
+      "simplified": "瑶"
+    },
+    {
+      "traditional": "瑩",
+      "simplified": "莹"
+    },
+    {
+      "traditional": "瑪",
+      "simplified": "玛"
+    },
+    {
+      "traditional": "瑲",
+      "simplified": "玱"
+    },
+    {
+      "traditional": "璉",
+      "simplified": "琏"
+    },
+    {
+      "traditional": "璡",
+      "simplified": "琎"
+    },
+    {
+      "traditional": "璣",
+      "simplified": "玑"
+    },
+    {
+      "traditional": "璦",
+      "simplified": "瑷"
+    },
+    {
+      "traditional": "璫",
+      "simplified": "珰"
+    },
+    {
+      "traditional": "璯",
+      "simplified": "㻅"
+    },
+    {
+      "traditional": "環",
+      "simplified": "环"
+    },
+    {
+      "traditional": "璵",
+      "simplified": "玙"
+    },
+    {
+      "traditional": "璸",
+      "simplified": "瑸"
+    },
+    {
+      "traditional": "璽",
+      "simplified": "玺"
+    },
+    {
+      "traditional": "璿",
+      "simplified": "璇"
+    },
+    {
+      "traditional": "瓊",
+      "simplified": "琼"
+    },
+    {
+      "traditional": "瓏",
+      "simplified": "珑"
+    },
+    {
+      "traditional": "瓔",
+      "simplified": "璎"
+    },
+    {
+      "traditional": "瓚",
+      "simplified": "瓒"
+    },
+    {
+      "traditional": "甌",
+      "simplified": "瓯"
+    },
+    {
+      "traditional": "甕",
+      "simplified": "瓮"
+    },
+    {
+      "traditional": "畝",
+      "simplified": "亩"
+    },
+    {
+      "traditional": "畢",
+      "simplified": "毕"
+    },
+    {
+      "traditional": "異",
+      "simplified": "异"
+    },
+    {
+      "traditional": "疇",
+      "simplified": "畴"
+    },
+    {
+      "traditional": "疊",
+      "simplified": "叠"
+    },
+    {
+      "traditional": "痙",
+      "simplified": "痉"
+    },
+    {
+      "traditional": "痠",
+      "simplified": "酸"
+    },
+    {
+      "traditional": "痾",
+      "simplified": "疴"
+    },
+    {
+      "traditional": "瘂",
+      "simplified": "痖"
+    },
+    {
+      "traditional": "瘋",
+      "simplified": "疯"
+    },
+    {
+      "traditional": "瘍",
+      "simplified": "疡"
+    },
+    {
+      "traditional": "瘓",
+      "simplified": "痪"
+    },
+    {
+      "traditional": "瘞",
+      "simplified": "瘗"
+    },
+    {
+      "traditional": "瘡",
+      "simplified": "疮"
+    },
+    {
+      "traditional": "瘧",
+      "simplified": "疟"
+    },
+    {
+      "traditional": "瘮",
+      "simplified": "瘆"
+    },
+    {
+      "traditional": "瘲",
+      "simplified": "疭"
+    },
+    {
+      "traditional": "療",
+      "simplified": "疗"
+    },
+    {
+      "traditional": "癆",
+      "simplified": "痨"
+    },
+    {
+      "traditional": "癇",
+      "simplified": "痫"
+    },
+    {
+      "traditional": "癉",
+      "simplified": "瘅"
+    },
+    {
+      "traditional": "癒",
+      "simplified": "愈"
+    },
+    {
+      "traditional": "癘",
+      "simplified": "疠"
+    },
+    {
+      "traditional": "癟",
+      "simplified": "瘪"
+    },
+    {
+      "traditional": "癡",
+      "simplified": "痴"
+    },
+    {
+      "traditional": "癢",
+      "simplified": "痒"
+    },
+    {
+      "traditional": "癤",
+      "simplified": "疖"
+    },
+    {
+      "traditional": "癥",
+      "simplified": "症"
+    },
+    {
+      "traditional": "癧",
+      "simplified": "疬"
+    },
+    {
+      "traditional": "癩",
+      "simplified": "癞"
+    },
+    {
+      "traditional": "癬",
+      "simplified": "癣"
+    },
+    {
+      "traditional": "癭",
+      "simplified": "瘿"
+    },
+    {
+      "traditional": "癮",
+      "simplified": "瘾"
+    },
+    {
+      "traditional": "癰",
+      "simplified": "痈"
+    },
+    {
+      "traditional": "癱",
+      "simplified": "瘫"
+    },
+    {
+      "traditional": "癲",
+      "simplified": "癫"
+    },
+    {
+      "traditional": "皁",
+      "simplified": "皂"
+    },
+    {
+      "traditional": "皚",
+      "simplified": "皑"
+    },
+    {
+      "traditional": "皰",
+      "simplified": "疱"
+    },
+    {
+      "traditional": "皸",
+      "simplified": "皲"
+    },
+    {
+      "traditional": "皺",
+      "simplified": "皱"
+    },
+    {
+      "traditional": "盃",
+      "simplified": "杯"
+    },
+    {
+      "traditional": "盜",
+      "simplified": "盗"
+    },
+    {
+      "traditional": "盞",
+      "simplified": "盏"
+    },
+    {
+      "traditional": "監",
+      "simplified": "监"
+    },
+    {
+      "traditional": "盤",
+      "simplified": "盘"
+    },
+    {
+      "traditional": "盧",
+      "simplified": "卢"
+    },
+    {
+      "traditional": "眞",
+      "simplified": "真"
+    },
+    {
+      "traditional": "眥",
+      "simplified": "眦"
+    },
+    {
+      "traditional": "睏",
+      "simplified": "困"
+    },
+    {
+      "traditional": "睜",
+      "simplified": "睁"
+    },
+    {
+      "traditional": "睞",
+      "simplified": "睐"
+    },
+    {
+      "traditional": "瞘",
+      "simplified": "眍"
+    },
+    {
+      "traditional": "瞜",
+      "simplified": "䁖"
+    },
+    {
+      "traditional": "瞞",
+      "simplified": "瞒"
+    },
+    {
+      "traditional": "瞶",
+      "simplified": "瞆"
+    },
+    {
+      "traditional": "瞼",
+      "simplified": "睑"
+    },
+    {
+      "traditional": "矓",
+      "simplified": "眬"
+    },
+    {
+      "traditional": "矚",
+      "simplified": "瞩"
+    },
+    {
+      "traditional": "矯",
+      "simplified": "矫"
+    },
+    {
+      "traditional": "硃",
+      "simplified": "朱"
+    },
+    {
+      "traditional": "硜",
+      "simplified": "硁"
+    },
+    {
+      "traditional": "硤",
+      "simplified": "硖"
+    },
+    {
+      "traditional": "硨",
+      "simplified": "砗"
+    },
+    {
+      "traditional": "硯",
+      "simplified": "砚"
+    },
+    {
+      "traditional": "碕",
+      "simplified": "埼"
+    },
+    {
+      "traditional": "碩",
+      "simplified": "硕"
+    },
+    {
+      "traditional": "碭",
+      "simplified": "砀"
+    },
+    {
+      "traditional": "碸",
+      "simplified": "砜"
+    },
+    {
+      "traditional": "確",
+      "simplified": "确"
+    },
+    {
+      "traditional": "碼",
+      "simplified": "码"
+    },
+    {
+      "traditional": "碽",
+      "simplified": "䂵"
+    },
+    {
+      "traditional": "磑",
+      "simplified": "硙"
+    },
+    {
+      "traditional": "磚",
+      "simplified": "砖"
+    },
+    {
+      "traditional": "磠",
+      "simplified": "硵"
+    },
+    {
+      "traditional": "磣",
+      "simplified": "碜"
+    },
+    {
+      "traditional": "磧",
+      "simplified": "碛"
+    },
+    {
+      "traditional": "磯",
+      "simplified": "矶"
+    },
+    {
+      "traditional": "磽",
+      "simplified": "硗"
+    },
+    {
+      "traditional": "磾",
+      "simplified": "䃅"
+    },
+    {
+      "traditional": "礄",
+      "simplified": "硚"
+    },
+    {
+      "traditional": "礆",
+      "simplified": "硷"
+    },
+    {
+      "traditional": "礎",
+      "simplified": "础"
+    },
+    {
+      "traditional": "礙",
+      "simplified": "碍"
+    },
+    {
+      "traditional": "礦",
+      "simplified": "矿"
+    },
+    {
+      "traditional": "礪",
+      "simplified": "砺"
+    },
+    {
+      "traditional": "礫",
+      "simplified": "砾"
+    },
+    {
+      "traditional": "礬",
+      "simplified": "矾"
+    },
+    {
+      "traditional": "礱",
+      "simplified": "砻"
+    },
+    {
+      "traditional": "祕",
+      "simplified": "秘"
+    },
+    {
+      "traditional": "祿",
+      "simplified": "禄"
+    },
+    {
+      "traditional": "禍",
+      "simplified": "祸"
+    },
+    {
+      "traditional": "禎",
+      "simplified": "祯"
+    },
+    {
+      "traditional": "禕",
+      "simplified": "祎"
+    },
+    {
+      "traditional": "禡",
+      "simplified": "祃"
+    },
+    {
+      "traditional": "禦",
+      "simplified": "御"
+    },
+    {
+      "traditional": "禪",
+      "simplified": "禅"
+    },
+    {
+      "traditional": "禮",
+      "simplified": "礼"
+    },
+    {
+      "traditional": "禰",
+      "simplified": "祢"
+    },
+    {
+      "traditional": "禱",
+      "simplified": "祷"
+    },
+    {
+      "traditional": "禿",
+      "simplified": "秃"
+    },
+    {
+      "traditional": "秈",
+      "simplified": "籼"
+    },
+    {
+      "traditional": "稅",
+      "simplified": "税"
+    },
+    {
+      "traditional": "稈",
+      "simplified": "秆"
+    },
+    {
+      "traditional": "稏",
+      "simplified": "䅉"
+    },
+    {
+      "traditional": "稜",
+      "simplified": "棱"
+    },
+    {
+      "traditional": "稟",
+      "simplified": "禀"
+    },
+    {
+      "traditional": "種",
+      "simplified": "种"
+    },
+    {
+      "traditional": "稱",
+      "simplified": "称"
+    },
+    {
+      "traditional": "穀",
+      "simplified": "谷"
+    },
+    {
+      "traditional": "穇",
+      "simplified": "䅟"
+    },
+    {
+      "traditional": "穌",
+      "simplified": "稣"
+    },
+    {
+      "traditional": "積",
+      "simplified": "积"
+    },
+    {
+      "traditional": "穎",
+      "simplified": "颖"
+    },
+    {
+      "traditional": "穠",
+      "simplified": "秾"
+    },
+    {
+      "traditional": "穡",
+      "simplified": "穑"
+    },
+    {
+      "traditional": "穢",
+      "simplified": "秽"
+    },
+    {
+      "traditional": "穩",
+      "simplified": "稳"
+    },
+    {
+      "traditional": "穭",
+      "simplified": "穞"
+    },
+    {
+      "traditional": "窩",
+      "simplified": "窝"
+    },
+    {
+      "traditional": "窪",
+      "simplified": "洼"
+    },
+    {
+      "traditional": "窮",
+      "simplified": "穷"
+    },
+    {
+      "traditional": "窯",
+      "simplified": "窑"
+    },
+    {
+      "traditional": "窵",
+      "simplified": "窎"
+    },
+    {
+      "traditional": "窶",
+      "simplified": "窭"
+    },
+    {
+      "traditional": "窺",
+      "simplified": "窥"
+    },
+    {
+      "traditional": "竄",
+      "simplified": "窜"
+    },
+    {
+      "traditional": "竅",
+      "simplified": "窍"
+    },
+    {
+      "traditional": "竇",
+      "simplified": "窦"
+    },
+    {
+      "traditional": "竈",
+      "simplified": "灶"
+    },
+    {
+      "traditional": "竊",
+      "simplified": "窃"
+    },
+    {
+      "traditional": "競",
+      "simplified": "竞"
+    },
+    {
+      "traditional": "筆",
+      "simplified": "笔"
+    },
+    {
+      "traditional": "筍",
+      "simplified": "笋"
+    },
+    {
+      "traditional": "筧",
+      "simplified": "笕"
+    },
+    {
+      "traditional": "筴",
+      "simplified": "䇲"
+    },
+    {
+      "traditional": "箋",
+      "simplified": "笺"
+    },
+    {
+      "traditional": "箏",
+      "simplified": "筝"
+    },
+    {
+      "traditional": "節",
+      "simplified": "节"
+    },
+    {
+      "traditional": "範",
+      "simplified": "范"
+    },
+    {
+      "traditional": "築",
+      "simplified": "筑"
+    },
+    {
+      "traditional": "篋",
+      "simplified": "箧"
+    },
+    {
+      "traditional": "篔",
+      "simplified": "筼"
+    },
+    {
+      "traditional": "篠",
+      "simplified": "筿"
+    },
+    {
+      "traditional": "篤",
+      "simplified": "笃"
+    },
+    {
+      "traditional": "篩",
+      "simplified": "筛"
+    },
+    {
+      "traditional": "篳",
+      "simplified": "筚"
+    },
+    {
+      "traditional": "簀",
+      "simplified": "箦"
+    },
+    {
+      "traditional": "簍",
+      "simplified": "篓"
+    },
+    {
+      "traditional": "簑",
+      "simplified": "蓑"
+    },
+    {
+      "traditional": "簞",
+      "simplified": "箪"
+    },
+    {
+      "traditional": "簡",
+      "simplified": "简"
+    },
+    {
+      "traditional": "簣",
+      "simplified": "篑"
+    },
+    {
+      "traditional": "簫",
+      "simplified": "箫"
+    },
+    {
+      "traditional": "簹",
+      "simplified": "筜"
+    },
+    {
+      "traditional": "簾",
+      "simplified": "帘"
+    },
+    {
+      "traditional": "籃",
+      "simplified": "篮"
+    },
+    {
+      "traditional": "籌",
+      "simplified": "筹"
+    },
+    {
+      "traditional": "籔",
+      "simplified": "䉤"
+    },
+    {
+      "traditional": "籙",
+      "simplified": "箓"
+    },
+    {
+      "traditional": "籛",
+      "simplified": "篯"
+    },
+    {
+      "traditional": "籜",
+      "simplified": "箨"
+    },
+    {
+      "traditional": "籟",
+      "simplified": "籁"
+    },
+    {
+      "traditional": "籠",
+      "simplified": "笼"
+    },
+    {
+      "traditional": "籩",
+      "simplified": "笾"
+    },
+    {
+      "traditional": "籪",
+      "simplified": "簖"
+    },
+    {
+      "traditional": "籬",
+      "simplified": "篱"
+    },
+    {
+      "traditional": "籮",
+      "simplified": "箩"
+    },
+    {
+      "traditional": "籲",
+      "simplified": "吁"
+    },
+    {
+      "traditional": "粵",
+      "simplified": "粤"
+    },
+    {
+      "traditional": "糉",
+      "simplified": "粽"
+    },
+    {
+      "traditional": "糝",
+      "simplified": "糁"
+    },
+    {
+      "traditional": "糞",
+      "simplified": "粪"
+    },
+    {
+      "traditional": "糧",
+      "simplified": "粮"
+    },
+    {
+      "traditional": "糲",
+      "simplified": "粝"
+    },
+    {
+      "traditional": "糴",
+      "simplified": "籴"
+    },
+    {
+      "traditional": "糶",
+      "simplified": "粜"
+    },
+    {
+      "traditional": "糹",
+      "simplified": "纟"
+    },
+    {
+      "traditional": "糾",
+      "simplified": "纠"
+    },
+    {
+      "traditional": "紀",
+      "simplified": "纪"
+    },
+    {
+      "traditional": "紂",
+      "simplified": "纣"
+    },
+    {
+      "traditional": "約",
+      "simplified": "约"
+    },
+    {
+      "traditional": "紅",
+      "simplified": "红"
+    },
+    {
+      "traditional": "紆",
+      "simplified": "纡"
+    },
+    {
+      "traditional": "紇",
+      "simplified": "纥"
+    },
+    {
+      "traditional": "紈",
+      "simplified": "纨"
+    },
+    {
+      "traditional": "紉",
+      "simplified": "纫"
+    },
+    {
+      "traditional": "紋",
+      "simplified": "纹"
+    },
+    {
+      "traditional": "納",
+      "simplified": "纳"
+    },
+    {
+      "traditional": "紐",
+      "simplified": "纽"
+    },
+    {
+      "traditional": "紓",
+      "simplified": "纾"
+    },
+    {
+      "traditional": "純",
+      "simplified": "纯"
+    },
+    {
+      "traditional": "紕",
+      "simplified": "纰"
+    },
+    {
+      "traditional": "紖",
+      "simplified": "纼"
+    },
+    {
+      "traditional": "紗",
+      "simplified": "纱"
+    },
+    {
+      "traditional": "紘",
+      "simplified": "纮"
+    },
+    {
+      "traditional": "紙",
+      "simplified": "纸"
+    },
+    {
+      "traditional": "級",
+      "simplified": "级"
+    },
+    {
+      "traditional": "紛",
+      "simplified": "纷"
+    },
+    {
+      "traditional": "紜",
+      "simplified": "纭"
+    },
+    {
+      "traditional": "紝",
+      "simplified": "纴"
+    },
+    {
+      "traditional": "紡",
+      "simplified": "纺"
+    },
+    {
+      "traditional": "紬",
+      "simplified": "䌷"
+    },
+    {
+      "traditional": "紮",
+      "simplified": "扎"
+    },
+    {
+      "traditional": "細",
+      "simplified": "细"
+    },
+    {
+      "traditional": "紱",
+      "simplified": "绂"
+    },
+    {
+      "traditional": "紲",
+      "simplified": "绁"
+    },
+    {
+      "traditional": "紳",
+      "simplified": "绅"
+    },
+    {
+      "traditional": "紵",
+      "simplified": "纻"
+    },
+    {
+      "traditional": "紹",
+      "simplified": "绍"
+    },
+    {
+      "traditional": "紺",
+      "simplified": "绀"
+    },
+    {
+      "traditional": "紼",
+      "simplified": "绋"
+    },
+    {
+      "traditional": "紿",
+      "simplified": "绐"
+    },
+    {
+      "traditional": "絀",
+      "simplified": "绌"
+    },
+    {
+      "traditional": "終",
+      "simplified": "终"
+    },
+    {
+      "traditional": "絃",
+      "simplified": "弦"
+    },
+    {
+      "traditional": "組",
+      "simplified": "组"
+    },
+    {
+      "traditional": "絅",
+      "simplified": "䌹"
+    },
+    {
+      "traditional": "絆",
+      "simplified": "绊"
+    },
+    {
+      "traditional": "絎",
+      "simplified": "绗"
+    },
+    {
+      "traditional": "結",
+      "simplified": "结"
+    },
+    {
+      "traditional": "絝",
+      "simplified": "绔"
+    },
+    {
+      "traditional": "絞",
+      "simplified": "绞"
+    },
+    {
+      "traditional": "絡",
+      "simplified": "络"
+    },
+    {
+      "traditional": "絢",
+      "simplified": "绚"
+    },
+    {
+      "traditional": "給",
+      "simplified": "给"
+    },
+    {
+      "traditional": "絨",
+      "simplified": "绒"
+    },
+    {
+      "traditional": "絰",
+      "simplified": "绖"
+    },
+    {
+      "traditional": "統",
+      "simplified": "统"
+    },
+    {
+      "traditional": "絲",
+      "simplified": "丝"
+    },
+    {
+      "traditional": "絳",
+      "simplified": "绛"
+    },
+    {
+      "traditional": "絹",
+      "simplified": "绢"
+    },
+    {
+      "traditional": "綁",
+      "simplified": "绑"
+    },
+    {
+      "traditional": "綃",
+      "simplified": "绡"
+    },
+    {
+      "traditional": "綆",
+      "simplified": "绠"
+    },
+    {
+      "traditional": "綈",
+      "simplified": "绨"
+    },
+    {
+      "traditional": "綌",
+      "simplified": "绤"
+    },
+    {
+      "traditional": "綏",
+      "simplified": "绥"
+    },
+    {
+      "traditional": "綐",
+      "simplified": "䌼"
+    },
+    {
+      "traditional": "綑",
+      "simplified": "捆"
+    },
+    {
+      "traditional": "經",
+      "simplified": "经"
+    },
+    {
+      "traditional": "綜",
+      "simplified": "综"
+    },
+    {
+      "traditional": "綞",
+      "simplified": "缍"
+    },
+    {
+      "traditional": "綢",
+      "simplified": "绸"
+    },
+    {
+      "traditional": "綣",
+      "simplified": "绻"
+    },
+    {
+      "traditional": "綬",
+      "simplified": "绶"
+    },
+    {
+      "traditional": "維",
+      "simplified": "维"
+    },
+    {
+      "traditional": "綯",
+      "simplified": "绹"
+    },
+    {
+      "traditional": "綰",
+      "simplified": "绾"
+    },
+    {
+      "traditional": "綱",
+      "simplified": "纲"
+    },
+    {
+      "traditional": "網",
+      "simplified": "网"
+    },
+    {
+      "traditional": "綴",
+      "simplified": "缀"
+    },
+    {
+      "traditional": "綵",
+      "simplified": "彩"
+    },
+    {
+      "traditional": "綸",
+      "simplified": "纶"
+    },
+    {
+      "traditional": "綹",
+      "simplified": "绺"
+    },
+    {
+      "traditional": "綺",
+      "simplified": "绮"
+    },
+    {
+      "traditional": "綻",
+      "simplified": "绽"
+    },
+    {
+      "traditional": "綽",
+      "simplified": "绰"
+    },
+    {
+      "traditional": "綾",
+      "simplified": "绫"
+    },
+    {
+      "traditional": "綿",
+      "simplified": "绵"
+    },
+    {
+      "traditional": "緄",
+      "simplified": "绲"
+    },
+    {
+      "traditional": "緇",
+      "simplified": "缁"
+    },
+    {
+      "traditional": "緊",
+      "simplified": "紧"
+    },
+    {
+      "traditional": "緋",
+      "simplified": "绯"
+    },
+    {
+      "traditional": "緒",
+      "simplified": "绪"
+    },
+    {
+      "traditional": "緓",
+      "simplified": "绬"
+    },
+    {
+      "traditional": "緗",
+      "simplified": "缃"
+    },
+    {
+      "traditional": "緘",
+      "simplified": "缄"
+    },
+    {
+      "traditional": "緙",
+      "simplified": "缂"
+    },
+    {
+      "traditional": "緝",
+      "simplified": "缉"
+    },
+    {
+      "traditional": "緞",
+      "simplified": "缎"
+    },
+    {
+      "traditional": "締",
+      "simplified": "缔"
+    },
+    {
+      "traditional": "緡",
+      "simplified": "缗"
+    },
+    {
+      "traditional": "緣",
+      "simplified": "缘"
+    },
+    {
+      "traditional": "緦",
+      "simplified": "缌"
+    },
+    {
+      "traditional": "編",
+      "simplified": "编"
+    },
+    {
+      "traditional": "緩",
+      "simplified": "缓"
+    },
+    {
+      "traditional": "緬",
+      "simplified": "缅"
+    },
+    {
+      "traditional": "緯",
+      "simplified": "纬"
+    },
+    {
+      "traditional": "緱",
+      "simplified": "缑"
+    },
+    {
+      "traditional": "緲",
+      "simplified": "缈"
+    },
+    {
+      "traditional": "練",
+      "simplified": "练"
+    },
+    {
+      "traditional": "緶",
+      "simplified": "缏"
+    },
+    {
+      "traditional": "緹",
+      "simplified": "缇"
+    },
+    {
+      "traditional": "緻",
+      "simplified": "致"
+    },
+    {
+      "traditional": "縈",
+      "simplified": "萦"
+    },
+    {
+      "traditional": "縉",
+      "simplified": "缙"
+    },
+    {
+      "traditional": "縊",
+      "simplified": "缢"
+    },
+    {
+      "traditional": "縋",
+      "simplified": "缒"
+    },
+    {
+      "traditional": "縐",
+      "simplified": "绉"
+    },
+    {
+      "traditional": "縑",
+      "simplified": "缣"
+    },
+    {
+      "traditional": "縗",
+      "simplified": "缞"
+    },
+    {
+      "traditional": "縛",
+      "simplified": "缚"
+    },
+    {
+      "traditional": "縝",
+      "simplified": "缜"
+    },
+    {
+      "traditional": "縞",
+      "simplified": "缟"
+    },
+    {
+      "traditional": "縟",
+      "simplified": "缛"
+    },
+    {
+      "traditional": "縣",
+      "simplified": "县"
+    },
+    {
+      "traditional": "縫",
+      "simplified": "缝"
+    },
+    {
+      "traditional": "縭",
+      "simplified": "缡"
+    },
+    {
+      "traditional": "縮",
+      "simplified": "缩"
+    },
+    {
+      "traditional": "縱",
+      "simplified": "纵"
+    },
+    {
+      "traditional": "縲",
+      "simplified": "缧"
+    },
+    {
+      "traditional": "縳",
+      "simplified": "䌸"
+    },
+    {
+      "traditional": "縵",
+      "simplified": "缦"
+    },
+    {
+      "traditional": "縶",
+      "simplified": "絷"
+    },
+    {
+      "traditional": "縷",
+      "simplified": "缕"
+    },
+    {
+      "traditional": "縹",
+      "simplified": "缥"
+    },
+    {
+      "traditional": "總",
+      "simplified": "总"
+    },
+    {
+      "traditional": "績",
+      "simplified": "绩"
+    },
+    {
+      "traditional": "繅",
+      "simplified": "缫"
+    },
+    {
+      "traditional": "繆",
+      "simplified": "缪"
+    },
+    {
+      "traditional": "繒",
+      "simplified": "缯"
+    },
+    {
+      "traditional": "織",
+      "simplified": "织"
+    },
+    {
+      "traditional": "繕",
+      "simplified": "缮"
+    },
+    {
+      "traditional": "繚",
+      "simplified": "缭"
+    },
+    {
+      "traditional": "繞",
+      "simplified": "绕"
+    },
+    {
+      "traditional": "繢",
+      "simplified": "缋"
+    },
+    {
+      "traditional": "繩",
+      "simplified": "绳"
+    },
+    {
+      "traditional": "繪",
+      "simplified": "绘"
+    },
+    {
+      "traditional": "繭",
+      "simplified": "茧"
+    },
+    {
+      "traditional": "繯",
+      "simplified": "缳"
+    },
+    {
+      "traditional": "繰",
+      "simplified": "缲"
+    },
+    {
+      "traditional": "繳",
+      "simplified": "缴"
+    },
+    {
+      "traditional": "繸",
+      "simplified": "䍁"
+    },
+    {
+      "traditional": "繹",
+      "simplified": "绎"
+    },
+    {
+      "traditional": "繼",
+      "simplified": "继"
+    },
+    {
+      "traditional": "繽",
+      "simplified": "缤"
+    },
+    {
+      "traditional": "繾",
+      "simplified": "缱"
+    },
+    {
+      "traditional": "繿",
+      "simplified": "䍀"
+    },
+    {
+      "traditional": "纇",
+      "simplified": "颣"
+    },
+    {
+      "traditional": "纈",
+      "simplified": "缬"
+    },
+    {
+      "traditional": "纊",
+      "simplified": "纩"
+    },
+    {
+      "traditional": "續",
+      "simplified": "续"
+    },
+    {
+      "traditional": "纍",
+      "simplified": "累"
+    },
+    {
+      "traditional": "纏",
+      "simplified": "缠"
+    },
+    {
+      "traditional": "纓",
+      "simplified": "缨"
+    },
+    {
+      "traditional": "纔",
+      "simplified": "才"
+    },
+    {
+      "traditional": "纘",
+      "simplified": "缵"
+    },
+    {
+      "traditional": "纜",
+      "simplified": "缆"
+    },
+    {
+      "traditional": "罃",
+      "simplified": "䓨"
+    },
+    {
+      "traditional": "罌",
+      "simplified": "罂"
+    },
+    {
+      "traditional": "罰",
+      "simplified": "罚"
+    },
+    {
+      "traditional": "罷",
+      "simplified": "罢"
+    },
+    {
+      "traditional": "羅",
+      "simplified": "罗"
+    },
+    {
+      "traditional": "羆",
+      "simplified": "罴"
+    },
+    {
+      "traditional": "羈",
+      "simplified": "羁"
+    },
+    {
+      "traditional": "羋",
+      "simplified": "芈"
+    },
+    {
+      "traditional": "羣",
+      "simplified": "群"
+    },
+    {
+      "traditional": "羥",
+      "simplified": "羟"
+    },
+    {
+      "traditional": "羨",
+      "simplified": "羡"
+    },
+    {
+      "traditional": "義",
+      "simplified": "义"
+    },
+    {
+      "traditional": "羶",
+      "simplified": "膻"
+    },
+    {
+      "traditional": "習",
+      "simplified": "习"
+    },
+    {
+      "traditional": "翫",
+      "simplified": "玩"
+    },
+    {
+      "traditional": "翬",
+      "simplified": "翚"
+    },
+    {
+      "traditional": "翹",
+      "simplified": "翘"
+    },
+    {
+      "traditional": "翽",
+      "simplified": "翙"
+    },
+    {
+      "traditional": "耬",
+      "simplified": "耧"
+    },
+    {
+      "traditional": "耮",
+      "simplified": "耢"
+    },
+    {
+      "traditional": "聖",
+      "simplified": "圣"
+    },
+    {
+      "traditional": "聞",
+      "simplified": "闻"
+    },
+    {
+      "traditional": "聯",
+      "simplified": "联"
+    },
+    {
+      "traditional": "聰",
+      "simplified": "聪"
+    },
+    {
+      "traditional": "聲",
+      "simplified": "声"
+    },
+    {
+      "traditional": "聳",
+      "simplified": "耸"
+    },
+    {
+      "traditional": "聵",
+      "simplified": "聩"
+    },
+    {
+      "traditional": "聶",
+      "simplified": "聂"
+    },
+    {
+      "traditional": "職",
+      "simplified": "职"
+    },
+    {
+      "traditional": "聹",
+      "simplified": "聍"
+    },
+    {
+      "traditional": "聽",
+      "simplified": "听"
+    },
+    {
+      "traditional": "聾",
+      "simplified": "聋"
+    },
+    {
+      "traditional": "肅",
+      "simplified": "肃"
+    },
+    {
+      "traditional": "脅",
+      "simplified": "胁"
+    },
+    {
+      "traditional": "脈",
+      "simplified": "脉"
+    },
+    {
+      "traditional": "脛",
+      "simplified": "胫"
+    },
+    {
+      "traditional": "脣",
+      "simplified": "唇"
+    },
+    {
+      "traditional": "脩",
+      "simplified": "修"
+    },
+    {
+      "traditional": "脫",
+      "simplified": "脱"
+    },
+    {
+      "traditional": "脹",
+      "simplified": "胀"
+    },
+    {
+      "traditional": "腎",
+      "simplified": "肾"
+    },
+    {
+      "traditional": "腖",
+      "simplified": "胨"
+    },
+    {
+      "traditional": "腡",
+      "simplified": "脶"
+    },
+    {
+      "traditional": "腦",
+      "simplified": "脑"
+    },
+    {
+      "traditional": "腫",
+      "simplified": "肿"
+    },
+    {
+      "traditional": "腳",
+      "simplified": "脚"
+    },
+    {
+      "traditional": "腸",
+      "simplified": "肠"
+    },
+    {
+      "traditional": "膃",
+      "simplified": "腽"
+    },
+    {
+      "traditional": "膕",
+      "simplified": "腘"
+    },
+    {
+      "traditional": "膚",
+      "simplified": "肤"
+    },
+    {
+      "traditional": "膞",
+      "simplified": "䏝"
+    },
+    {
+      "traditional": "膠",
+      "simplified": "胶"
+    },
+    {
+      "traditional": "膩",
+      "simplified": "腻"
+    },
+    {
+      "traditional": "膽",
+      "simplified": "胆"
+    },
+    {
+      "traditional": "膾",
+      "simplified": "脍"
+    },
+    {
+      "traditional": "膿",
+      "simplified": "脓"
+    },
+    {
+      "traditional": "臉",
+      "simplified": "脸"
+    },
+    {
+      "traditional": "臍",
+      "simplified": "脐"
+    },
+    {
+      "traditional": "臏",
+      "simplified": "膑"
+    },
+    {
+      "traditional": "臘",
+      "simplified": "腊"
+    },
+    {
+      "traditional": "臚",
+      "simplified": "胪"
+    },
+    {
+      "traditional": "臠",
+      "simplified": "脔"
+    },
+    {
+      "traditional": "臢",
+      "simplified": "臜"
+    },
+    {
+      "traditional": "臥",
+      "simplified": "卧"
+    },
+    {
+      "traditional": "臨",
+      "simplified": "临"
+    },
+    {
+      "traditional": "與",
+      "simplified": "与"
+    },
+    {
+      "traditional": "興",
+      "simplified": "兴"
+    },
+    {
+      "traditional": "舉",
+      "simplified": "举"
+    },
+    {
+      "traditional": "舊",
+      "simplified": "旧"
+    },
+    {
+      "traditional": "艙",
+      "simplified": "舱"
+    },
+    {
+      "traditional": "艤",
+      "simplified": "舣"
+    },
+    {
+      "traditional": "艦",
+      "simplified": "舰"
+    },
+    {
+      "traditional": "艫",
+      "simplified": "舻"
+    },
+    {
+      "traditional": "艱",
+      "simplified": "艰"
+    },
+    {
+      "traditional": "芻",
+      "simplified": "刍"
+    },
+    {
+      "traditional": "苧",
+      "simplified": "苎"
+    },
+    {
+      "traditional": "茲",
+      "simplified": "兹"
+    },
+    {
+      "traditional": "荊",
+      "simplified": "荆"
+    },
+    {
+      "traditional": "莊",
+      "simplified": "庄"
+    },
+    {
+      "traditional": "莖",
+      "simplified": "茎"
+    },
+    {
+      "traditional": "莢",
+      "simplified": "荚"
+    },
+    {
+      "traditional": "莧",
+      "simplified": "苋"
+    },
+    {
+      "traditional": "華",
+      "simplified": "华"
+    },
+    {
+      "traditional": "菴",
+      "simplified": "庵"
+    },
+    {
+      "traditional": "萇",
+      "simplified": "苌"
+    },
+    {
+      "traditional": "萊",
+      "simplified": "莱"
+    },
+    {
+      "traditional": "萬",
+      "simplified": "万"
+    },
+    {
+      "traditional": "萴",
+      "simplified": "荝"
+    },
+    {
+      "traditional": "萵",
+      "simplified": "莴"
+    },
+    {
+      "traditional": "葉",
+      "simplified": "叶"
+    },
+    {
+      "traditional": "葒",
+      "simplified": "荭"
+    },
+    {
+      "traditional": "葤",
+      "simplified": "荮"
+    },
+    {
+      "traditional": "葦",
+      "simplified": "苇"
+    },
+    {
+      "traditional": "葷",
+      "simplified": "荤"
+    },
+    {
+      "traditional": "蒐",
+      "simplified": "搜"
+    },
+    {
+      "traditional": "蒔",
+      "simplified": "莳"
+    },
+    {
+      "traditional": "蒕",
+      "simplified": "蒀"
+    },
+    {
+      "traditional": "蒞",
+      "simplified": "莅"
+    },
+    {
+      "traditional": "蒼",
+      "simplified": "苍"
+    },
+    {
+      "traditional": "蓀",
+      "simplified": "荪"
+    },
+    {
+      "traditional": "蓆",
+      "simplified": "席"
+    },
+    {
+      "traditional": "蓋",
+      "simplified": "盖"
+    },
+    {
+      "traditional": "蓮",
+      "simplified": "莲"
+    },
+    {
+      "traditional": "蓯",
+      "simplified": "苁"
+    },
+    {
+      "traditional": "蓽",
+      "simplified": "荜"
+    },
+    {
+      "traditional": "蔔",
+      "simplified": "卜"
+    },
+    {
+      "traditional": "蔞",
+      "simplified": "蒌"
+    },
+    {
+      "traditional": "蔣",
+      "simplified": "蒋"
+    },
+    {
+      "traditional": "蔥",
+      "simplified": "葱"
+    },
+    {
+      "traditional": "蔦",
+      "simplified": "茑"
+    },
+    {
+      "traditional": "蕁",
+      "simplified": "荨"
+    },
+    {
+      "traditional": "蕆",
+      "simplified": "蒇"
+    },
+    {
+      "traditional": "蕎",
+      "simplified": "荞"
+    },
+    {
+      "traditional": "蕒",
+      "simplified": "荬"
+    },
+    {
+      "traditional": "蕓",
+      "simplified": "芸"
+    },
+    {
+      "traditional": "蕕",
+      "simplified": "莸"
+    },
+    {
+      "traditional": "蕘",
+      "simplified": "荛"
+    },
+    {
+      "traditional": "蕢",
+      "simplified": "蒉"
+    },
+    {
+      "traditional": "蕪",
+      "simplified": "芜"
+    },
+    {
+      "traditional": "蕭",
+      "simplified": "萧"
+    },
+    {
+      "traditional": "蕷",
+      "simplified": "蓣"
+    },
+    {
+      "traditional": "薀",
+      "simplified": "蕰"
+    },
+    {
+      "traditional": "薈",
+      "simplified": "荟"
+    },
+    {
+      "traditional": "薊",
+      "simplified": "蓟"
+    },
+    {
+      "traditional": "薌",
+      "simplified": "芗"
+    },
+    {
+      "traditional": "薑",
+      "simplified": "姜"
+    },
+    {
+      "traditional": "薔",
+      "simplified": "蔷"
+    },
+    {
+      "traditional": "薘",
+      "simplified": "荙"
+    },
+    {
+      "traditional": "薟",
+      "simplified": "莶"
+    },
+    {
+      "traditional": "薦",
+      "simplified": "荐"
+    },
+    {
+      "traditional": "薩",
+      "simplified": "萨"
+    },
+    {
+      "traditional": "薳",
+      "simplified": "䓕"
+    },
+    {
+      "traditional": "薴",
+      "simplified": "苧"
+    },
+    {
+      "traditional": "薵",
+      "simplified": "䓓"
+    },
+    {
+      "traditional": "薹",
+      "simplified": "苔"
+    },
+    {
+      "traditional": "薺",
+      "simplified": "荠"
+    },
+    {
+      "traditional": "藍",
+      "simplified": "蓝"
+    },
+    {
+      "traditional": "藎",
+      "simplified": "荩"
+    },
+    {
+      "traditional": "藝",
+      "simplified": "艺"
+    },
+    {
+      "traditional": "藪",
+      "simplified": "薮"
+    },
+    {
+      "traditional": "藭",
+      "simplified": "䓖"
+    },
+    {
+      "traditional": "藶",
+      "simplified": "苈"
+    },
+    {
+      "traditional": "藹",
+      "simplified": "蔼"
+    },
+    {
+      "traditional": "藺",
+      "simplified": "蔺"
+    },
+    {
+      "traditional": "蘀",
+      "simplified": "萚"
+    },
+    {
+      "traditional": "蘄",
+      "simplified": "蕲"
+    },
+    {
+      "traditional": "蘆",
+      "simplified": "芦"
+    },
+    {
+      "traditional": "蘋",
+      "simplified": "苹"
+    },
+    {
+      "traditional": "蘚",
+      "simplified": "藓"
+    },
+    {
+      "traditional": "蘞",
+      "simplified": "蔹"
+    },
+    {
+      "traditional": "蘢",
+      "simplified": "茏"
+    },
+    {
+      "traditional": "蘭",
+      "simplified": "兰"
+    },
+    {
+      "traditional": "蘺",
+      "simplified": "蓠"
+    },
+    {
+      "traditional": "蘿",
+      "simplified": "萝"
+    },
+    {
+      "traditional": "虆",
+      "simplified": "蔂"
+    },
+    {
+      "traditional": "處",
+      "simplified": "处"
+    },
+    {
+      "traditional": "虛",
+      "simplified": "虚"
+    },
+    {
+      "traditional": "虜",
+      "simplified": "虏"
+    },
+    {
+      "traditional": "號",
+      "simplified": "号"
+    },
+    {
+      "traditional": "虧",
+      "simplified": "亏"
+    },
+    {
+      "traditional": "虯",
+      "simplified": "虬"
+    },
+    {
+      "traditional": "蛺",
+      "simplified": "蛱"
+    },
+    {
+      "traditional": "蛻",
+      "simplified": "蜕"
+    },
+    {
+      "traditional": "蜆",
+      "simplified": "蚬"
+    },
+    {
+      "traditional": "蝕",
+      "simplified": "蚀"
+    },
+    {
+      "traditional": "蝟",
+      "simplified": "猬"
+    },
+    {
+      "traditional": "蝦",
+      "simplified": "虾"
+    },
+    {
+      "traditional": "蝨",
+      "simplified": "虱"
+    },
+    {
+      "traditional": "蝸",
+      "simplified": "蜗"
+    },
+    {
+      "traditional": "螄",
+      "simplified": "蛳"
+    },
+    {
+      "traditional": "螞",
+      "simplified": "蚂"
+    },
+    {
+      "traditional": "螢",
+      "simplified": "萤"
+    },
+    {
+      "traditional": "螮",
+      "simplified": "䗖"
+    },
+    {
+      "traditional": "螻",
+      "simplified": "蝼"
+    },
+    {
+      "traditional": "螿",
+      "simplified": "螀"
+    },
+    {
+      "traditional": "蟄",
+      "simplified": "蛰"
+    },
+    {
+      "traditional": "蟈",
+      "simplified": "蝈"
+    },
+    {
+      "traditional": "蟎",
+      "simplified": "螨"
+    },
+    {
+      "traditional": "蟣",
+      "simplified": "虮"
+    },
+    {
+      "traditional": "蟬",
+      "simplified": "蝉"
+    },
+    {
+      "traditional": "蟯",
+      "simplified": "蛲"
+    },
+    {
+      "traditional": "蟲",
+      "simplified": "虫"
+    },
+    {
+      "traditional": "蟶",
+      "simplified": "蛏"
+    },
+    {
+      "traditional": "蟻",
+      "simplified": "蚁"
+    },
+    {
+      "traditional": "蠁",
+      "simplified": "蚃"
+    },
+    {
+      "traditional": "蠅",
+      "simplified": "蝇"
+    },
+    {
+      "traditional": "蠆",
+      "simplified": "虿"
+    },
+    {
+      "traditional": "蠍",
+      "simplified": "蝎"
+    },
+    {
+      "traditional": "蠐",
+      "simplified": "蛴"
+    },
+    {
+      "traditional": "蠑",
+      "simplified": "蝾"
+    },
+    {
+      "traditional": "蠔",
+      "simplified": "蚝"
+    },
+    {
+      "traditional": "蠟",
+      "simplified": "蜡"
+    },
+    {
+      "traditional": "蠣",
+      "simplified": "蛎"
+    },
+    {
+      "traditional": "蠨",
+      "simplified": "蟏"
+    },
+    {
+      "traditional": "蠱",
+      "simplified": "蛊"
+    },
+    {
+      "traditional": "蠶",
+      "simplified": "蚕"
+    },
+    {
+      "traditional": "蠻",
+      "simplified": "蛮"
+    },
+    {
+      "traditional": "衊",
+      "simplified": "蔑"
+    },
+    {
+      "traditional": "衕",
+      "simplified": "同"
+    },
+    {
+      "traditional": "衛",
+      "simplified": "卫"
+    },
+    {
+      "traditional": "袞",
+      "simplified": "衮"
+    },
+    {
+      "traditional": "補",
+      "simplified": "补"
+    },
+    {
+      "traditional": "裝",
+      "simplified": "装"
+    },
+    {
+      "traditional": "製",
+      "simplified": "制"
+    },
+    {
+      "traditional": "褌",
+      "simplified": "裈"
+    },
+    {
+      "traditional": "褘",
+      "simplified": "袆"
+    },
+    {
+      "traditional": "褲",
+      "simplified": "裤"
+    },
+    {
+      "traditional": "褳",
+      "simplified": "裢"
+    },
+    {
+      "traditional": "褸",
+      "simplified": "褛"
+    },
+    {
+      "traditional": "褻",
+      "simplified": "亵"
+    },
+    {
+      "traditional": "襏",
+      "simplified": "袯"
+    },
+    {
+      "traditional": "襖",
+      "simplified": "袄"
+    },
+    {
+      "traditional": "襝",
+      "simplified": "裣"
+    },
+    {
+      "traditional": "襠",
+      "simplified": "裆"
+    },
+    {
+      "traditional": "襤",
+      "simplified": "褴"
+    },
+    {
+      "traditional": "襪",
+      "simplified": "袜"
+    },
+    {
+      "traditional": "襯",
+      "simplified": "衬"
+    },
+    {
+      "traditional": "襲",
+      "simplified": "袭"
+    },
+    {
+      "traditional": "襴",
+      "simplified": "襕"
+    },
+    {
+      "traditional": "覈",
+      "simplified": "核"
+    },
+    {
+      "traditional": "見",
+      "simplified": "见"
+    },
+    {
+      "traditional": "覎",
+      "simplified": "觃"
+    },
+    {
+      "traditional": "規",
+      "simplified": "规"
+    },
+    {
+      "traditional": "覓",
+      "simplified": "觅"
+    },
+    {
+      "traditional": "視",
+      "simplified": "视"
+    },
+    {
+      "traditional": "覘",
+      "simplified": "觇"
+    },
+    {
+      "traditional": "覡",
+      "simplified": "觋"
+    },
+    {
+      "traditional": "覥",
+      "simplified": "觍"
+    },
+    {
+      "traditional": "覦",
+      "simplified": "觎"
+    },
+    {
+      "traditional": "親",
+      "simplified": "亲"
+    },
+    {
+      "traditional": "覬",
+      "simplified": "觊"
+    },
+    {
+      "traditional": "覯",
+      "simplified": "觏"
+    },
+    {
+      "traditional": "覲",
+      "simplified": "觐"
+    },
+    {
+      "traditional": "覷",
+      "simplified": "觑"
+    },
+    {
+      "traditional": "覺",
+      "simplified": "觉"
+    },
+    {
+      "traditional": "覽",
+      "simplified": "览"
+    },
+    {
+      "traditional": "覿",
+      "simplified": "觌"
+    },
+    {
+      "traditional": "觀",
+      "simplified": "观"
+    },
+    {
+      "traditional": "觴",
+      "simplified": "觞"
+    },
+    {
+      "traditional": "觶",
+      "simplified": "觯"
+    },
+    {
+      "traditional": "觸",
+      "simplified": "触"
+    },
+    {
+      "traditional": "訁",
+      "simplified": "讠"
+    },
+    {
+      "traditional": "訂",
+      "simplified": "订"
+    },
+    {
+      "traditional": "訃",
+      "simplified": "讣"
+    },
+    {
+      "traditional": "計",
+      "simplified": "计"
+    },
+    {
+      "traditional": "訊",
+      "simplified": "讯"
+    },
+    {
+      "traditional": "訌",
+      "simplified": "讧"
+    },
+    {
+      "traditional": "討",
+      "simplified": "讨"
+    },
+    {
+      "traditional": "訐",
+      "simplified": "讦"
+    },
+    {
+      "traditional": "訒",
+      "simplified": "讱"
+    },
+    {
+      "traditional": "訓",
+      "simplified": "训"
+    },
+    {
+      "traditional": "訕",
+      "simplified": "讪"
+    },
+    {
+      "traditional": "訖",
+      "simplified": "讫"
+    },
+    {
+      "traditional": "託",
+      "simplified": "托"
+    },
+    {
+      "traditional": "記",
+      "simplified": "记"
+    },
+    {
+      "traditional": "訛",
+      "simplified": "讹"
+    },
+    {
+      "traditional": "訝",
+      "simplified": "讶"
+    },
+    {
+      "traditional": "訟",
+      "simplified": "讼"
+    },
+    {
+      "traditional": "訢",
+      "simplified": "䜣"
+    },
+    {
+      "traditional": "訣",
+      "simplified": "诀"
+    },
+    {
+      "traditional": "訥",
+      "simplified": "讷"
+    },
+    {
+      "traditional": "訩",
+      "simplified": "讻"
+    },
+    {
+      "traditional": "訪",
+      "simplified": "访"
+    },
+    {
+      "traditional": "設",
+      "simplified": "设"
+    },
+    {
+      "traditional": "許",
+      "simplified": "许"
+    },
+    {
+      "traditional": "訴",
+      "simplified": "诉"
+    },
+    {
+      "traditional": "訶",
+      "simplified": "诃"
+    },
+    {
+      "traditional": "診",
+      "simplified": "诊"
+    },
+    {
+      "traditional": "註",
+      "simplified": "注"
+    },
+    {
+      "traditional": "詁",
+      "simplified": "诂"
+    },
+    {
+      "traditional": "詆",
+      "simplified": "诋"
+    },
+    {
+      "traditional": "詎",
+      "simplified": "讵"
+    },
+    {
+      "traditional": "詐",
+      "simplified": "诈"
+    },
+    {
+      "traditional": "詒",
+      "simplified": "诒"
+    },
+    {
+      "traditional": "詔",
+      "simplified": "诏"
+    },
+    {
+      "traditional": "評",
+      "simplified": "评"
+    },
+    {
+      "traditional": "詖",
+      "simplified": "诐"
+    },
+    {
+      "traditional": "詗",
+      "simplified": "诇"
+    },
+    {
+      "traditional": "詘",
+      "simplified": "诎"
+    },
+    {
+      "traditional": "詛",
+      "simplified": "诅"
+    },
+    {
+      "traditional": "詞",
+      "simplified": "词"
+    },
+    {
+      "traditional": "詠",
+      "simplified": "咏"
+    },
+    {
+      "traditional": "詡",
+      "simplified": "诩"
+    },
+    {
+      "traditional": "詢",
+      "simplified": "询"
+    },
+    {
+      "traditional": "詣",
+      "simplified": "诣"
+    },
+    {
+      "traditional": "試",
+      "simplified": "试"
+    },
+    {
+      "traditional": "詩",
+      "simplified": "诗"
+    },
+    {
+      "traditional": "詫",
+      "simplified": "诧"
+    },
+    {
+      "traditional": "詬",
+      "simplified": "诟"
+    },
+    {
+      "traditional": "詭",
+      "simplified": "诡"
+    },
+    {
+      "traditional": "詮",
+      "simplified": "诠"
+    },
+    {
+      "traditional": "詰",
+      "simplified": "诘"
+    },
+    {
+      "traditional": "話",
+      "simplified": "话"
+    },
+    {
+      "traditional": "該",
+      "simplified": "该"
+    },
+    {
+      "traditional": "詳",
+      "simplified": "详"
+    },
+    {
+      "traditional": "詵",
+      "simplified": "诜"
+    },
+    {
+      "traditional": "詼",
+      "simplified": "诙"
+    },
+    {
+      "traditional": "詿",
+      "simplified": "诖"
+    },
+    {
+      "traditional": "誄",
+      "simplified": "诔"
+    },
+    {
+      "traditional": "誅",
+      "simplified": "诛"
+    },
+    {
+      "traditional": "誆",
+      "simplified": "诓"
+    },
+    {
+      "traditional": "誇",
+      "simplified": "夸"
+    },
+    {
+      "traditional": "誌",
+      "simplified": "志"
+    },
+    {
+      "traditional": "認",
+      "simplified": "认"
+    },
+    {
+      "traditional": "誑",
+      "simplified": "诳"
+    },
+    {
+      "traditional": "誒",
+      "simplified": "诶"
+    },
+    {
+      "traditional": "誕",
+      "simplified": "诞"
+    },
+    {
+      "traditional": "誘",
+      "simplified": "诱"
+    },
+    {
+      "traditional": "誚",
+      "simplified": "诮"
+    },
+    {
+      "traditional": "語",
+      "simplified": "语"
+    },
+    {
+      "traditional": "誠",
+      "simplified": "诚"
+    },
+    {
+      "traditional": "誡",
+      "simplified": "诫"
+    },
+    {
+      "traditional": "誣",
+      "simplified": "诬"
+    },
+    {
+      "traditional": "誤",
+      "simplified": "误"
+    },
+    {
+      "traditional": "誥",
+      "simplified": "诰"
+    },
+    {
+      "traditional": "誦",
+      "simplified": "诵"
+    },
+    {
+      "traditional": "誨",
+      "simplified": "诲"
+    },
+    {
+      "traditional": "誰",
+      "simplified": "谁"
+    },
+    {
+      "traditional": "課",
+      "simplified": "课"
+    },
+    {
+      "traditional": "誶",
+      "simplified": "谇"
+    },
+    {
+      "traditional": "誹",
+      "simplified": "诽"
+    },
+    {
+      "traditional": "誼",
+      "simplified": "谊"
+    },
+    {
+      "traditional": "誾",
+      "simplified": "訚"
+    },
+    {
+      "traditional": "調",
+      "simplified": "调"
+    },
+    {
+      "traditional": "諂",
+      "simplified": "谄"
+    },
+    {
+      "traditional": "諄",
+      "simplified": "谆"
+    },
+    {
+      "traditional": "談",
+      "simplified": "谈"
+    },
+    {
+      "traditional": "諉",
+      "simplified": "诿"
+    },
+    {
+      "traditional": "請",
+      "simplified": "请"
+    },
+    {
+      "traditional": "諍",
+      "simplified": "诤"
+    },
+    {
+      "traditional": "諏",
+      "simplified": "诹"
+    },
+    {
+      "traditional": "諑",
+      "simplified": "诼"
+    },
+    {
+      "traditional": "諒",
+      "simplified": "谅"
+    },
+    {
+      "traditional": "論",
+      "simplified": "论"
+    },
+    {
+      "traditional": "諗",
+      "simplified": "谂"
+    },
+    {
+      "traditional": "諛",
+      "simplified": "谀"
+    },
+    {
+      "traditional": "諜",
+      "simplified": "谍"
+    },
+    {
+      "traditional": "諝",
+      "simplified": "谞"
+    },
+    {
+      "traditional": "諞",
+      "simplified": "谝"
+    },
+    {
+      "traditional": "諢",
+      "simplified": "诨"
+    },
+    {
+      "traditional": "諤",
+      "simplified": "谔"
+    },
+    {
+      "traditional": "諦",
+      "simplified": "谛"
+    },
+    {
+      "traditional": "諧",
+      "simplified": "谐"
+    },
+    {
+      "traditional": "諫",
+      "simplified": "谏"
+    },
+    {
+      "traditional": "諭",
+      "simplified": "谕"
+    },
+    {
+      "traditional": "諮",
+      "simplified": "咨"
+    },
+    {
+      "traditional": "諱",
+      "simplified": "讳"
+    },
+    {
+      "traditional": "諳",
+      "simplified": "谙"
+    },
+    {
+      "traditional": "諶",
+      "simplified": "谌"
+    },
+    {
+      "traditional": "諷",
+      "simplified": "讽"
+    },
+    {
+      "traditional": "諸",
+      "simplified": "诸"
+    },
+    {
+      "traditional": "諺",
+      "simplified": "谚"
+    },
+    {
+      "traditional": "諼",
+      "simplified": "谖"
+    },
+    {
+      "traditional": "諾",
+      "simplified": "诺"
+    },
+    {
+      "traditional": "謀",
+      "simplified": "谋"
+    },
+    {
+      "traditional": "謁",
+      "simplified": "谒"
+    },
+    {
+      "traditional": "謂",
+      "simplified": "谓"
+    },
+    {
+      "traditional": "謄",
+      "simplified": "誊"
+    },
+    {
+      "traditional": "謅",
+      "simplified": "诌"
+    },
+    {
+      "traditional": "謊",
+      "simplified": "谎"
+    },
+    {
+      "traditional": "謎",
+      "simplified": "谜"
+    },
+    {
+      "traditional": "謐",
+      "simplified": "谧"
+    },
+    {
+      "traditional": "謔",
+      "simplified": "谑"
+    },
+    {
+      "traditional": "謖",
+      "simplified": "谡"
+    },
+    {
+      "traditional": "謗",
+      "simplified": "谤"
+    },
+    {
+      "traditional": "謙",
+      "simplified": "谦"
+    },
+    {
+      "traditional": "講",
+      "simplified": "讲"
+    },
+    {
+      "traditional": "謝",
+      "simplified": "谢"
+    },
+    {
+      "traditional": "謨",
+      "simplified": "谟"
+    },
+    {
+      "traditional": "謫",
+      "simplified": "谪"
+    },
+    {
+      "traditional": "謬",
+      "simplified": "谬"
+    },
+    {
+      "traditional": "謳",
+      "simplified": "讴"
+    },
+    {
+      "traditional": "謹",
+      "simplified": "谨"
+    },
+    {
+      "traditional": "謾",
+      "simplified": "谩"
+    },
+    {
+      "traditional": "譎",
+      "simplified": "谲"
+    },
+    {
+      "traditional": "譏",
+      "simplified": "讥"
+    },
+    {
+      "traditional": "譖",
+      "simplified": "谮"
+    },
+    {
+      "traditional": "識",
+      "simplified": "识"
+    },
+    {
+      "traditional": "譙",
+      "simplified": "谯"
+    },
+    {
+      "traditional": "譚",
+      "simplified": "谭"
+    },
+    {
+      "traditional": "譜",
+      "simplified": "谱"
+    },
+    {
+      "traditional": "譟",
+      "simplified": "噪"
+    },
+    {
+      "traditional": "譫",
+      "simplified": "谵"
+    },
+    {
+      "traditional": "譯",
+      "simplified": "译"
+    },
+    {
+      "traditional": "議",
+      "simplified": "议"
+    },
+    {
+      "traditional": "譴",
+      "simplified": "谴"
+    },
+    {
+      "traditional": "護",
+      "simplified": "护"
+    },
+    {
+      "traditional": "譸",
+      "simplified": "诪"
+    },
+    {
+      "traditional": "譽",
+      "simplified": "誉"
+    },
+    {
+      "traditional": "讀",
+      "simplified": "读"
+    },
+    {
+      "traditional": "讅",
+      "simplified": "谉"
+    },
+    {
+      "traditional": "變",
+      "simplified": "变"
+    },
+    {
+      "traditional": "讋",
+      "simplified": "詟"
+    },
+    {
+      "traditional": "讌",
+      "simplified": "䜩"
+    },
+    {
+      "traditional": "讎",
+      "simplified": "雠"
+    },
+    {
+      "traditional": "讒",
+      "simplified": "谗"
+    },
+    {
+      "traditional": "讓",
+      "simplified": "让"
+    },
+    {
+      "traditional": "讕",
+      "simplified": "谰"
+    },
+    {
+      "traditional": "讖",
+      "simplified": "谶"
+    },
+    {
+      "traditional": "讜",
+      "simplified": "谠"
+    },
+    {
+      "traditional": "讞",
+      "simplified": "谳"
+    },
+    {
+      "traditional": "豈",
+      "simplified": "岂"
+    },
+    {
+      "traditional": "豐",
+      "simplified": "丰"
+    },
+    {
+      "traditional": "豬",
+      "simplified": "猪"
+    },
+    {
+      "traditional": "豶",
+      "simplified": "豮"
+    },
+    {
+      "traditional": "貓",
+      "simplified": "猫"
+    },
+    {
+      "traditional": "貙",
+      "simplified": "䝙"
+    },
+    {
+      "traditional": "貝",
+      "simplified": "贝"
+    },
+    {
+      "traditional": "貞",
+      "simplified": "贞"
+    },
+    {
+      "traditional": "貟",
+      "simplified": "贠"
+    },
+    {
+      "traditional": "負",
+      "simplified": "负"
+    },
+    {
+      "traditional": "財",
+      "simplified": "财"
+    },
+    {
+      "traditional": "貢",
+      "simplified": "贡"
+    },
+    {
+      "traditional": "貧",
+      "simplified": "贫"
+    },
+    {
+      "traditional": "貨",
+      "simplified": "货"
+    },
+    {
+      "traditional": "販",
+      "simplified": "贩"
+    },
+    {
+      "traditional": "貪",
+      "simplified": "贪"
+    },
+    {
+      "traditional": "貫",
+      "simplified": "贯"
+    },
+    {
+      "traditional": "責",
+      "simplified": "责"
+    },
+    {
+      "traditional": "貯",
+      "simplified": "贮"
+    },
+    {
+      "traditional": "貰",
+      "simplified": "贳"
+    },
+    {
+      "traditional": "貲",
+      "simplified": "赀"
+    },
+    {
+      "traditional": "貳",
+      "simplified": "贰"
+    },
+    {
+      "traditional": "貴",
+      "simplified": "贵"
+    },
+    {
+      "traditional": "貶",
+      "simplified": "贬"
+    },
+    {
+      "traditional": "買",
+      "simplified": "买"
+    },
+    {
+      "traditional": "貸",
+      "simplified": "贷"
+    },
+    {
+      "traditional": "貺",
+      "simplified": "贶"
+    },
+    {
+      "traditional": "費",
+      "simplified": "费"
+    },
+    {
+      "traditional": "貼",
+      "simplified": "贴"
+    },
+    {
+      "traditional": "貽",
+      "simplified": "贻"
+    },
+    {
+      "traditional": "貿",
+      "simplified": "贸"
+    },
+    {
+      "traditional": "賀",
+      "simplified": "贺"
+    },
+    {
+      "traditional": "賁",
+      "simplified": "贲"
+    },
+    {
+      "traditional": "賂",
+      "simplified": "赂"
+    },
+    {
+      "traditional": "賃",
+      "simplified": "赁"
+    },
+    {
+      "traditional": "賄",
+      "simplified": "贿"
+    },
+    {
+      "traditional": "賅",
+      "simplified": "赅"
+    },
+    {
+      "traditional": "資",
+      "simplified": "资"
+    },
+    {
+      "traditional": "賈",
+      "simplified": "贾"
+    },
+    {
+      "traditional": "賊",
+      "simplified": "贼"
+    },
+    {
+      "traditional": "賑",
+      "simplified": "赈"
+    },
+    {
+      "traditional": "賒",
+      "simplified": "赊"
+    },
+    {
+      "traditional": "賓",
+      "simplified": "宾"
+    },
+    {
+      "traditional": "賕",
+      "simplified": "赇"
+    },
+    {
+      "traditional": "賙",
+      "simplified": "赒"
+    },
+    {
+      "traditional": "賚",
+      "simplified": "赉"
+    },
+    {
+      "traditional": "賜",
+      "simplified": "赐"
+    },
+    {
+      "traditional": "賞",
+      "simplified": "赏"
+    },
+    {
+      "traditional": "賠",
+      "simplified": "赔"
+    },
+    {
+      "traditional": "賡",
+      "simplified": "赓"
+    },
+    {
+      "traditional": "賢",
+      "simplified": "贤"
+    },
+    {
+      "traditional": "賣",
+      "simplified": "卖"
+    },
+    {
+      "traditional": "賤",
+      "simplified": "贱"
+    },
+    {
+      "traditional": "賦",
+      "simplified": "赋"
+    },
+    {
+      "traditional": "賧",
+      "simplified": "赕"
+    },
+    {
+      "traditional": "質",
+      "simplified": "质"
+    },
+    {
+      "traditional": "賬",
+      "simplified": "账"
+    },
+    {
+      "traditional": "賭",
+      "simplified": "赌"
+    },
+    {
+      "traditional": "賰",
+      "simplified": "䞐"
+    },
+    {
+      "traditional": "賴",
+      "simplified": "赖"
+    },
+    {
+      "traditional": "賵",
+      "simplified": "赗"
+    },
+    {
+      "traditional": "賺",
+      "simplified": "赚"
+    },
+    {
+      "traditional": "賻",
+      "simplified": "赙"
+    },
+    {
+      "traditional": "購",
+      "simplified": "购"
+    },
+    {
+      "traditional": "賽",
+      "simplified": "赛"
+    },
+    {
+      "traditional": "賾",
+      "simplified": "赜"
+    },
+    {
+      "traditional": "贄",
+      "simplified": "贽"
+    },
+    {
+      "traditional": "贅",
+      "simplified": "赘"
+    },
+    {
+      "traditional": "贇",
+      "simplified": "赟"
+    },
+    {
+      "traditional": "贈",
+      "simplified": "赠"
+    },
+    {
+      "traditional": "贍",
+      "simplified": "赡"
+    },
+    {
+      "traditional": "贏",
+      "simplified": "赢"
+    },
+    {
+      "traditional": "贐",
+      "simplified": "赆"
+    },
+    {
+      "traditional": "贔",
+      "simplified": "赑"
+    },
+    {
+      "traditional": "贖",
+      "simplified": "赎"
+    },
+    {
+      "traditional": "贛",
+      "simplified": "赣"
+    },
+    {
+      "traditional": "赬",
+      "simplified": "赪"
+    },
+    {
+      "traditional": "趕",
+      "simplified": "赶"
+    },
+    {
+      "traditional": "趙",
+      "simplified": "赵"
+    },
+    {
+      "traditional": "趨",
+      "simplified": "趋"
+    },
+    {
+      "traditional": "趲",
+      "simplified": "趱"
+    },
+    {
+      "traditional": "踐",
+      "simplified": "践"
+    },
+    {
+      "traditional": "踰",
+      "simplified": "逾"
+    },
+    {
+      "traditional": "踴",
+      "simplified": "踊"
+    },
+    {
+      "traditional": "蹌",
+      "simplified": "跄"
+    },
+    {
+      "traditional": "蹕",
+      "simplified": "跸"
+    },
+    {
+      "traditional": "蹠",
+      "simplified": "跖"
+    },
+    {
+      "traditional": "蹣",
+      "simplified": "蹒"
+    },
+    {
+      "traditional": "蹤",
+      "simplified": "踪"
+    },
+    {
+      "traditional": "蹺",
+      "simplified": "跷"
+    },
+    {
+      "traditional": "躂",
+      "simplified": "跶"
+    },
+    {
+      "traditional": "躉",
+      "simplified": "趸"
+    },
+    {
+      "traditional": "躊",
+      "simplified": "踌"
+    },
+    {
+      "traditional": "躋",
+      "simplified": "跻"
+    },
+    {
+      "traditional": "躍",
+      "simplified": "跃"
+    },
+    {
+      "traditional": "躎",
+      "simplified": "䟢"
+    },
+    {
+      "traditional": "躑",
+      "simplified": "踯"
+    },
+    {
+      "traditional": "躒",
+      "simplified": "跞"
+    },
+    {
+      "traditional": "躓",
+      "simplified": "踬"
+    },
+    {
+      "traditional": "躕",
+      "simplified": "蹰"
+    },
+    {
+      "traditional": "躚",
+      "simplified": "跹"
+    },
+    {
+      "traditional": "躡",
+      "simplified": "蹑"
+    },
+    {
+      "traditional": "躥",
+      "simplified": "蹿"
+    },
+    {
+      "traditional": "躦",
+      "simplified": "躜"
+    },
+    {
+      "traditional": "躪",
+      "simplified": "躏"
+    },
+    {
+      "traditional": "軀",
+      "simplified": "躯"
+    },
+    {
+      "traditional": "車",
+      "simplified": "车"
+    },
+    {
+      "traditional": "軋",
+      "simplified": "轧"
+    },
+    {
+      "traditional": "軌",
+      "simplified": "轨"
+    },
+    {
+      "traditional": "軍",
+      "simplified": "军"
+    },
+    {
+      "traditional": "軑",
+      "simplified": "轪"
+    },
+    {
+      "traditional": "軒",
+      "simplified": "轩"
+    },
+    {
+      "traditional": "軔",
+      "simplified": "轫"
+    },
+    {
+      "traditional": "軛",
+      "simplified": "轭"
+    },
+    {
+      "traditional": "軟",
+      "simplified": "软"
+    },
+    {
+      "traditional": "軤",
+      "simplified": "轷"
+    },
+    {
+      "traditional": "軫",
+      "simplified": "轸"
+    },
+    {
+      "traditional": "軲",
+      "simplified": "轱"
+    },
+    {
+      "traditional": "軸",
+      "simplified": "轴"
+    },
+    {
+      "traditional": "軹",
+      "simplified": "轵"
+    },
+    {
+      "traditional": "軺",
+      "simplified": "轺"
+    },
+    {
+      "traditional": "軻",
+      "simplified": "轲"
+    },
+    {
+      "traditional": "軼",
+      "simplified": "轶"
+    },
+    {
+      "traditional": "軾",
+      "simplified": "轼"
+    },
+    {
+      "traditional": "較",
+      "simplified": "较"
+    },
+    {
+      "traditional": "輅",
+      "simplified": "辂"
+    },
+    {
+      "traditional": "輇",
+      "simplified": "辁"
+    },
+    {
+      "traditional": "輈",
+      "simplified": "辀"
+    },
+    {
+      "traditional": "載",
+      "simplified": "载"
+    },
+    {
+      "traditional": "輊",
+      "simplified": "轾"
+    },
+    {
+      "traditional": "輒",
+      "simplified": "辄"
+    },
+    {
+      "traditional": "輓",
+      "simplified": "挽"
+    },
+    {
+      "traditional": "輔",
+      "simplified": "辅"
+    },
+    {
+      "traditional": "輕",
+      "simplified": "轻"
+    },
+    {
+      "traditional": "輛",
+      "simplified": "辆"
+    },
+    {
+      "traditional": "輜",
+      "simplified": "辎"
+    },
+    {
+      "traditional": "輝",
+      "simplified": "辉"
+    },
+    {
+      "traditional": "輞",
+      "simplified": "辋"
+    },
+    {
+      "traditional": "輟",
+      "simplified": "辍"
+    },
+    {
+      "traditional": "輥",
+      "simplified": "辊"
+    },
+    {
+      "traditional": "輦",
+      "simplified": "辇"
+    },
+    {
+      "traditional": "輩",
+      "simplified": "辈"
+    },
+    {
+      "traditional": "輪",
+      "simplified": "轮"
+    },
+    {
+      "traditional": "輬",
+      "simplified": "辌"
+    },
+    {
+      "traditional": "輯",
+      "simplified": "辑"
+    },
+    {
+      "traditional": "輳",
+      "simplified": "辏"
+    },
+    {
+      "traditional": "輸",
+      "simplified": "输"
+    },
+    {
+      "traditional": "輻",
+      "simplified": "辐"
+    },
+    {
+      "traditional": "輾",
+      "simplified": "辗"
+    },
+    {
+      "traditional": "輿",
+      "simplified": "舆"
+    },
+    {
+      "traditional": "轂",
+      "simplified": "毂"
+    },
+    {
+      "traditional": "轄",
+      "simplified": "辖"
+    },
+    {
+      "traditional": "轅",
+      "simplified": "辕"
+    },
+    {
+      "traditional": "轆",
+      "simplified": "辘"
+    },
+    {
+      "traditional": "轉",
+      "simplified": "转"
+    },
+    {
+      "traditional": "轍",
+      "simplified": "辙"
+    },
+    {
+      "traditional": "轎",
+      "simplified": "轿"
+    },
+    {
+      "traditional": "轔",
+      "simplified": "辚"
+    },
+    {
+      "traditional": "轟",
+      "simplified": "轰"
+    },
+    {
+      "traditional": "轡",
+      "simplified": "辔"
+    },
+    {
+      "traditional": "轢",
+      "simplified": "轹"
+    },
+    {
+      "traditional": "轤",
+      "simplified": "轳"
+    },
+    {
+      "traditional": "辦",
+      "simplified": "办"
+    },
+    {
+      "traditional": "辭",
+      "simplified": "辞"
+    },
+    {
+      "traditional": "辮",
+      "simplified": "辫"
+    },
+    {
+      "traditional": "辯",
+      "simplified": "辩"
+    },
+    {
+      "traditional": "農",
+      "simplified": "农"
+    },
+    {
+      "traditional": "迴",
+      "simplified": "回"
+    },
+    {
+      "traditional": "逕",
+      "simplified": "迳"
+    },
+    {
+      "traditional": "這",
+      "simplified": "这"
+    },
+    {
+      "traditional": "連",
+      "simplified": "连"
+    },
+    {
+      "traditional": "週",
+      "simplified": "周"
+    },
+    {
+      "traditional": "進",
+      "simplified": "进"
+    },
+    {
+      "traditional": "遊",
+      "simplified": "游"
+    },
+    {
+      "traditional": "運",
+      "simplified": "运"
+    },
+    {
+      "traditional": "過",
+      "simplified": "过"
+    },
+    {
+      "traditional": "達",
+      "simplified": "达"
+    },
+    {
+      "traditional": "違",
+      "simplified": "违"
+    },
+    {
+      "traditional": "遙",
+      "simplified": "遥"
+    },
+    {
+      "traditional": "遜",
+      "simplified": "逊"
+    },
+    {
+      "traditional": "遞",
+      "simplified": "递"
+    },
+    {
+      "traditional": "遠",
+      "simplified": "远"
+    },
+    {
+      "traditional": "適",
+      "simplified": "适"
+    },
+    {
+      "traditional": "遲",
+      "simplified": "迟"
+    },
+    {
+      "traditional": "遷",
+      "simplified": "迁"
+    },
+    {
+      "traditional": "選",
+      "simplified": "选"
+    },
+    {
+      "traditional": "遺",
+      "simplified": "遗"
+    },
+    {
+      "traditional": "遼",
+      "simplified": "辽"
+    },
+    {
+      "traditional": "邁",
+      "simplified": "迈"
+    },
+    {
+      "traditional": "還",
+      "simplified": "还"
+    },
+    {
+      "traditional": "邇",
+      "simplified": "迩"
+    },
+    {
+      "traditional": "邊",
+      "simplified": "边"
+    },
+    {
+      "traditional": "邏",
+      "simplified": "逻"
+    },
+    {
+      "traditional": "邐",
+      "simplified": "逦"
+    },
+    {
+      "traditional": "郟",
+      "simplified": "郏"
+    },
+    {
+      "traditional": "郵",
+      "simplified": "邮"
+    },
+    {
+      "traditional": "鄆",
+      "simplified": "郓"
+    },
+    {
+      "traditional": "鄉",
+      "simplified": "乡"
+    },
+    {
+      "traditional": "鄒",
+      "simplified": "邹"
+    },
+    {
+      "traditional": "鄔",
+      "simplified": "邬"
+    },
+    {
+      "traditional": "鄖",
+      "simplified": "郧"
+    },
+    {
+      "traditional": "鄧",
+      "simplified": "邓"
+    },
+    {
+      "traditional": "鄭",
+      "simplified": "郑"
+    },
+    {
+      "traditional": "鄰",
+      "simplified": "邻"
+    },
+    {
+      "traditional": "鄲",
+      "simplified": "郸"
+    },
+    {
+      "traditional": "鄴",
+      "simplified": "邺"
+    },
+    {
+      "traditional": "鄶",
+      "simplified": "郐"
+    },
+    {
+      "traditional": "鄺",
+      "simplified": "邝"
+    },
+    {
+      "traditional": "酇",
+      "simplified": "酂"
+    },
+    {
+      "traditional": "酈",
+      "simplified": "郦"
+    },
+    {
+      "traditional": "醃",
+      "simplified": "腌"
+    },
+    {
+      "traditional": "醜",
+      "simplified": "丑"
+    },
+    {
+      "traditional": "醟",
+      "simplified": "蒏"
+    },
+    {
+      "traditional": "醣",
+      "simplified": "糖"
+    },
+    {
+      "traditional": "醫",
+      "simplified": "医"
+    },
+    {
+      "traditional": "醬",
+      "simplified": "酱"
+    },
+    {
+      "traditional": "醱",
+      "simplified": "酦"
+    },
+    {
+      "traditional": "釀",
+      "simplified": "酿"
+    },
+    {
+      "traditional": "釁",
+      "simplified": "衅"
+    },
+    {
+      "traditional": "釃",
+      "simplified": "酾"
+    },
+    {
+      "traditional": "釅",
+      "simplified": "酽"
+    },
+    {
+      "traditional": "釋",
+      "simplified": "释"
+    },
+    {
+      "traditional": "釐",
+      "simplified": "厘"
+    },
+    {
+      "traditional": "釒",
+      "simplified": "钅"
+    },
+    {
+      "traditional": "釓",
+      "simplified": "钆"
+    },
+    {
+      "traditional": "釔",
+      "simplified": "钇"
+    },
+    {
+      "traditional": "釕",
+      "simplified": "钌"
+    },
+    {
+      "traditional": "釗",
+      "simplified": "钊"
+    },
+    {
+      "traditional": "釘",
+      "simplified": "钉"
+    },
+    {
+      "traditional": "釙",
+      "simplified": "钋"
+    },
+    {
+      "traditional": "釣",
+      "simplified": "钓"
+    },
+    {
+      "traditional": "釤",
+      "simplified": "钐"
+    },
+    {
+      "traditional": "釦",
+      "simplified": "扣"
+    },
+    {
+      "traditional": "釧",
+      "simplified": "钏"
+    },
+    {
+      "traditional": "釩",
+      "simplified": "钒"
+    },
+    {
+      "traditional": "釵",
+      "simplified": "钗"
+    },
+    {
+      "traditional": "釷",
+      "simplified": "钍"
+    },
+    {
+      "traditional": "釹",
+      "simplified": "钕"
+    },
+    {
+      "traditional": "釺",
+      "simplified": "钎"
+    },
+    {
+      "traditional": "釾",
+      "simplified": "䥺"
+    },
+    {
+      "traditional": "鈀",
+      "simplified": "钯"
+    },
+    {
+      "traditional": "鈃",
+      "simplified": "钘"
+    },
+    {
+      "traditional": "鈄",
+      "simplified": "钭"
+    },
+    {
+      "traditional": "鈈",
+      "simplified": "钚"
+    },
+    {
+      "traditional": "鈉",
+      "simplified": "钠"
+    },
+    {
+      "traditional": "鈍",
+      "simplified": "钝"
+    },
+    {
+      "traditional": "鈐",
+      "simplified": "钤"
+    },
+    {
+      "traditional": "鈑",
+      "simplified": "钣"
+    },
+    {
+      "traditional": "鈒",
+      "simplified": "钑"
+    },
+    {
+      "traditional": "鈔",
+      "simplified": "钞"
+    },
+    {
+      "traditional": "鈕",
+      "simplified": "钮"
+    },
+    {
+      "traditional": "鈞",
+      "simplified": "钧"
+    },
+    {
+      "traditional": "鈣",
+      "simplified": "钙"
+    },
+    {
+      "traditional": "鈥",
+      "simplified": "钬"
+    },
+    {
+      "traditional": "鈦",
+      "simplified": "钛"
+    },
+    {
+      "traditional": "鈧",
+      "simplified": "钪"
+    },
+    {
+      "traditional": "鈮",
+      "simplified": "铌"
+    },
+    {
+      "traditional": "鈰",
+      "simplified": "铈"
+    },
+    {
+      "traditional": "鈳",
+      "simplified": "钶"
+    },
+    {
+      "traditional": "鈴",
+      "simplified": "铃"
+    },
+    {
+      "traditional": "鈷",
+      "simplified": "钴"
+    },
+    {
+      "traditional": "鈸",
+      "simplified": "钹"
+    },
+    {
+      "traditional": "鈹",
+      "simplified": "铍"
+    },
+    {
+      "traditional": "鈺",
+      "simplified": "钰"
+    },
+    {
+      "traditional": "鈽",
+      "simplified": "钸"
+    },
+    {
+      "traditional": "鈾",
+      "simplified": "铀"
+    },
+    {
+      "traditional": "鈿",
+      "simplified": "钿"
+    },
+    {
+      "traditional": "鉀",
+      "simplified": "钾"
+    },
+    {
+      "traditional": "鉅",
+      "simplified": "巨"
+    },
+    {
+      "traditional": "鉈",
+      "simplified": "铊"
+    },
+    {
+      "traditional": "鉉",
+      "simplified": "铉"
+    },
+    {
+      "traditional": "鉋",
+      "simplified": "铇"
+    },
+    {
+      "traditional": "鉍",
+      "simplified": "铋"
+    },
+    {
+      "traditional": "鉑",
+      "simplified": "铂"
+    },
+    {
+      "traditional": "鉕",
+      "simplified": "钷"
+    },
+    {
+      "traditional": "鉗",
+      "simplified": "钳"
+    },
+    {
+      "traditional": "鉚",
+      "simplified": "铆"
+    },
+    {
+      "traditional": "鉛",
+      "simplified": "铅"
+    },
+    {
+      "traditional": "鉞",
+      "simplified": "钺"
+    },
+    {
+      "traditional": "鉦",
+      "simplified": "钲"
+    },
+    {
+      "traditional": "鉬",
+      "simplified": "钼"
+    },
+    {
+      "traditional": "鉭",
+      "simplified": "钽"
+    },
+    {
+      "traditional": "鉶",
+      "simplified": "铏"
+    },
+    {
+      "traditional": "鉸",
+      "simplified": "铰"
+    },
+    {
+      "traditional": "鉺",
+      "simplified": "铒"
+    },
+    {
+      "traditional": "鉻",
+      "simplified": "铬"
+    },
+    {
+      "traditional": "鉿",
+      "simplified": "铪"
+    },
+    {
+      "traditional": "銀",
+      "simplified": "银"
+    },
+    {
+      "traditional": "銃",
+      "simplified": "铳"
+    },
+    {
+      "traditional": "銅",
+      "simplified": "铜"
+    },
+    {
+      "traditional": "銍",
+      "simplified": "铚"
+    },
+    {
+      "traditional": "銑",
+      "simplified": "铣"
+    },
+    {
+      "traditional": "銓",
+      "simplified": "铨"
+    },
+    {
+      "traditional": "銖",
+      "simplified": "铢"
+    },
+    {
+      "traditional": "銘",
+      "simplified": "铭"
+    },
+    {
+      "traditional": "銚",
+      "simplified": "铫"
+    },
+    {
+      "traditional": "銛",
+      "simplified": "铦"
+    },
+    {
+      "traditional": "銜",
+      "simplified": "衔"
+    },
+    {
+      "traditional": "銠",
+      "simplified": "铑"
+    },
+    {
+      "traditional": "銣",
+      "simplified": "铷"
+    },
+    {
+      "traditional": "銥",
+      "simplified": "铱"
+    },
+    {
+      "traditional": "銦",
+      "simplified": "铟"
+    },
+    {
+      "traditional": "銨",
+      "simplified": "铵"
+    },
+    {
+      "traditional": "銩",
+      "simplified": "铥"
+    },
+    {
+      "traditional": "銪",
+      "simplified": "铕"
+    },
+    {
+      "traditional": "銫",
+      "simplified": "铯"
+    },
+    {
+      "traditional": "銬",
+      "simplified": "铐"
+    },
+    {
+      "traditional": "銱",
+      "simplified": "铞"
+    },
+    {
+      "traditional": "銷",
+      "simplified": "销"
+    },
+    {
+      "traditional": "銻",
+      "simplified": "锑"
+    },
+    {
+      "traditional": "銼",
+      "simplified": "锉"
+    },
+    {
+      "traditional": "鋁",
+      "simplified": "铝"
+    },
+    {
+      "traditional": "鋃",
+      "simplified": "锒"
+    },
+    {
+      "traditional": "鋅",
+      "simplified": "锌"
+    },
+    {
+      "traditional": "鋇",
+      "simplified": "钡"
+    },
+    {
+      "traditional": "鋌",
+      "simplified": "铤"
+    },
+    {
+      "traditional": "鋏",
+      "simplified": "铗"
+    },
+    {
+      "traditional": "鋒",
+      "simplified": "锋"
+    },
+    {
+      "traditional": "鋙",
+      "simplified": "铻"
+    },
+    {
+      "traditional": "鋝",
+      "simplified": "锊"
+    },
+    {
+      "traditional": "鋟",
+      "simplified": "锓"
+    },
+    {
+      "traditional": "鋣",
+      "simplified": "铘"
+    },
+    {
+      "traditional": "鋤",
+      "simplified": "锄"
+    },
+    {
+      "traditional": "鋥",
+      "simplified": "锃"
+    },
+    {
+      "traditional": "鋦",
+      "simplified": "锔"
+    },
+    {
+      "traditional": "鋨",
+      "simplified": "锇"
+    },
+    {
+      "traditional": "鋩",
+      "simplified": "铓"
+    },
+    {
+      "traditional": "鋪",
+      "simplified": "铺"
+    },
+    {
+      "traditional": "鋮",
+      "simplified": "铖"
+    },
+    {
+      "traditional": "鋯",
+      "simplified": "锆"
+    },
+    {
+      "traditional": "鋰",
+      "simplified": "锂"
+    },
+    {
+      "traditional": "鋱",
+      "simplified": "铽"
+    },
+    {
+      "traditional": "鋶",
+      "simplified": "锍"
+    },
+    {
+      "traditional": "鋸",
+      "simplified": "锯"
+    },
+    {
+      "traditional": "鋼",
+      "simplified": "钢"
+    },
+    {
+      "traditional": "錁",
+      "simplified": "锞"
+    },
+    {
+      "traditional": "錆",
+      "simplified": "锖"
+    },
+    {
+      "traditional": "錈",
+      "simplified": "锩"
+    },
+    {
+      "traditional": "錏",
+      "simplified": "铔"
+    },
+    {
+      "traditional": "錐",
+      "simplified": "锥"
+    },
+    {
+      "traditional": "錒",
+      "simplified": "锕"
+    },
+    {
+      "traditional": "錕",
+      "simplified": "锟"
+    },
+    {
+      "traditional": "錙",
+      "simplified": "锱"
+    },
+    {
+      "traditional": "錚",
+      "simplified": "铮"
+    },
+    {
+      "traditional": "錛",
+      "simplified": "锛"
+    },
+    {
+      "traditional": "錟",
+      "simplified": "锬"
+    },
+    {
+      "traditional": "錠",
+      "simplified": "锭"
+    },
+    {
+      "traditional": "錡",
+      "simplified": "锜"
+    },
+    {
+      "traditional": "錢",
+      "simplified": "钱"
+    },
+    {
+      "traditional": "錦",
+      "simplified": "锦"
+    },
+    {
+      "traditional": "錨",
+      "simplified": "锚"
+    },
+    {
+      "traditional": "錩",
+      "simplified": "锠"
+    },
+    {
+      "traditional": "錫",
+      "simplified": "锡"
+    },
+    {
+      "traditional": "錮",
+      "simplified": "锢"
+    },
+    {
+      "traditional": "錯",
+      "simplified": "错"
+    },
+    {
+      "traditional": "錳",
+      "simplified": "锰"
+    },
+    {
+      "traditional": "錶",
+      "simplified": "表"
+    },
+    {
+      "traditional": "錸",
+      "simplified": "铼"
+    },
+    {
+      "traditional": "鍀",
+      "simplified": "锝"
+    },
+    {
+      "traditional": "鍁",
+      "simplified": "锨"
+    },
+    {
+      "traditional": "鍃",
+      "simplified": "锪"
+    },
+    {
+      "traditional": "鍆",
+      "simplified": "钔"
+    },
+    {
+      "traditional": "鍇",
+      "simplified": "锴"
+    },
+    {
+      "traditional": "鍈",
+      "simplified": "锳"
+    },
+    {
+      "traditional": "鍋",
+      "simplified": "锅"
+    },
+    {
+      "traditional": "鍍",
+      "simplified": "镀"
+    },
+    {
+      "traditional": "鍔",
+      "simplified": "锷"
+    },
+    {
+      "traditional": "鍘",
+      "simplified": "铡"
+    },
+    {
+      "traditional": "鍚",
+      "simplified": "钖"
+    },
+    {
+      "traditional": "鍛",
+      "simplified": "锻"
+    },
+    {
+      "traditional": "鍠",
+      "simplified": "锽"
+    },
+    {
+      "traditional": "鍤",
+      "simplified": "锸"
+    },
+    {
+      "traditional": "鍥",
+      "simplified": "锲"
+    },
+    {
+      "traditional": "鍩",
+      "simplified": "锘"
+    },
+    {
+      "traditional": "鍬",
+      "simplified": "锹"
+    },
+    {
+      "traditional": "鍰",
+      "simplified": "锾"
+    },
+    {
+      "traditional": "鍵",
+      "simplified": "键"
+    },
+    {
+      "traditional": "鍶",
+      "simplified": "锶"
+    },
+    {
+      "traditional": "鍺",
+      "simplified": "锗"
+    },
+    {
+      "traditional": "鎂",
+      "simplified": "镁"
+    },
+    {
+      "traditional": "鎄",
+      "simplified": "锿"
+    },
+    {
+      "traditional": "鎇",
+      "simplified": "镅"
+    },
+    {
+      "traditional": "鎊",
+      "simplified": "镑"
+    },
+    {
+      "traditional": "鎔",
+      "simplified": "镕"
+    },
+    {
+      "traditional": "鎖",
+      "simplified": "锁"
+    },
+    {
+      "traditional": "鎘",
+      "simplified": "镉"
+    },
+    {
+      "traditional": "鎛",
+      "simplified": "镈"
+    },
+    {
+      "traditional": "鎡",
+      "simplified": "镃"
+    },
+    {
+      "traditional": "鎢",
+      "simplified": "钨"
+    },
+    {
+      "traditional": "鎣",
+      "simplified": "蓥"
+    },
+    {
+      "traditional": "鎦",
+      "simplified": "镏"
+    },
+    {
+      "traditional": "鎧",
+      "simplified": "铠"
+    },
+    {
+      "traditional": "鎩",
+      "simplified": "铩"
+    },
+    {
+      "traditional": "鎪",
+      "simplified": "锼"
+    },
+    {
+      "traditional": "鎬",
+      "simplified": "镐"
+    },
+    {
+      "traditional": "鎰",
+      "simplified": "镒"
+    },
+    {
+      "traditional": "鎳",
+      "simplified": "镍"
+    },
+    {
+      "traditional": "鎵",
+      "simplified": "镓"
+    },
+    {
+      "traditional": "鎶",
+      "simplified": "鿔"
+    },
+    {
+      "traditional": "鏃",
+      "simplified": "镞"
+    },
+    {
+      "traditional": "鏇",
+      "simplified": "旋"
+    },
+    {
+      "traditional": "鏈",
+      "simplified": "链"
+    },
+    {
+      "traditional": "鏌",
+      "simplified": "镆"
+    },
+    {
+      "traditional": "鏍",
+      "simplified": "镙"
+    },
+    {
+      "traditional": "鏐",
+      "simplified": "镠"
+    },
+    {
+      "traditional": "鏑",
+      "simplified": "镝"
+    },
+    {
+      "traditional": "鏗",
+      "simplified": "铿"
+    },
+    {
+      "traditional": "鏘",
+      "simplified": "锵"
+    },
+    {
+      "traditional": "鏜",
+      "simplified": "镗"
+    },
+    {
+      "traditional": "鏝",
+      "simplified": "镘"
+    },
+    {
+      "traditional": "鏞",
+      "simplified": "镛"
+    },
+    {
+      "traditional": "鏡",
+      "simplified": "镜"
+    },
+    {
+      "traditional": "鏢",
+      "simplified": "镖"
+    },
+    {
+      "traditional": "鏤",
+      "simplified": "镂"
+    },
+    {
+      "traditional": "鏨",
+      "simplified": "錾"
+    },
+    {
+      "traditional": "鏰",
+      "simplified": "镚"
+    },
+    {
+      "traditional": "鏵",
+      "simplified": "铧"
+    },
+    {
+      "traditional": "鏷",
+      "simplified": "镤"
+    },
+    {
+      "traditional": "鏹",
+      "simplified": "镪"
+    },
+    {
+      "traditional": "鏺",
+      "simplified": "䥽"
+    },
+    {
+      "traditional": "鐃",
+      "simplified": "铙"
+    },
+    {
+      "traditional": "鐋",
+      "simplified": "铴"
+    },
+    {
+      "traditional": "鐐",
+      "simplified": "镣"
+    },
+    {
+      "traditional": "鐒",
+      "simplified": "铹"
+    },
+    {
+      "traditional": "鐓",
+      "simplified": "镦"
+    },
+    {
+      "traditional": "鐔",
+      "simplified": "镡"
+    },
+    {
+      "traditional": "鐙",
+      "simplified": "镫"
+    },
+    {
+      "traditional": "鐠",
+      "simplified": "镨"
+    },
+    {
+      "traditional": "鐥",
+      "simplified": "䦅"
+    },
+    {
+      "traditional": "鐦",
+      "simplified": "锎"
+    },
+    {
+      "traditional": "鐧",
+      "simplified": "锏"
+    },
+    {
+      "traditional": "鐨",
+      "simplified": "镄"
+    },
+    {
+      "traditional": "鐯",
+      "simplified": "䦃"
+    },
+    {
+      "traditional": "鐲",
+      "simplified": "镯"
+    },
+    {
+      "traditional": "鐳",
+      "simplified": "镭"
+    },
+    {
+      "traditional": "鐵",
+      "simplified": "铁"
+    },
+    {
+      "traditional": "鐶",
+      "simplified": "镮"
+    },
+    {
+      "traditional": "鐸",
+      "simplified": "铎"
+    },
+    {
+      "traditional": "鐺",
+      "simplified": "铛"
+    },
+    {
+      "traditional": "鐿",
+      "simplified": "镱"
+    },
+    {
+      "traditional": "鑄",
+      "simplified": "铸"
+    },
+    {
+      "traditional": "鑊",
+      "simplified": "镬"
+    },
+    {
+      "traditional": "鑌",
+      "simplified": "镔"
+    },
+    {
+      "traditional": "鑔",
+      "simplified": "镲"
+    },
+    {
+      "traditional": "鑕",
+      "simplified": "锧"
+    },
+    {
+      "traditional": "鑞",
+      "simplified": "镴"
+    },
+    {
+      "traditional": "鑠",
+      "simplified": "铄"
+    },
+    {
+      "traditional": "鑣",
+      "simplified": "镳"
+    },
+    {
+      "traditional": "鑥",
+      "simplified": "镥"
+    },
+    {
+      "traditional": "鑭",
+      "simplified": "镧"
+    },
+    {
+      "traditional": "鑱",
+      "simplified": "镵"
+    },
+    {
+      "traditional": "鑲",
+      "simplified": "镶"
+    },
+    {
+      "traditional": "鑷",
+      "simplified": "镊"
+    },
+    {
+      "traditional": "鑹",
+      "simplified": "镩"
+    },
+    {
+      "traditional": "鑼",
+      "simplified": "锣"
+    },
+    {
+      "traditional": "鑾",
+      "simplified": "銮"
+    },
+    {
+      "traditional": "鑿",
+      "simplified": "凿"
+    },
+    {
+      "traditional": "長",
+      "simplified": "长"
+    },
+    {
+      "traditional": "門",
+      "simplified": "门"
+    },
+    {
+      "traditional": "閂",
+      "simplified": "闩"
+    },
+    {
+      "traditional": "閃",
+      "simplified": "闪"
+    },
+    {
+      "traditional": "閆",
+      "simplified": "闫"
+    },
+    {
+      "traditional": "閈",
+      "simplified": "闬"
+    },
+    {
+      "traditional": "閉",
+      "simplified": "闭"
+    },
+    {
+      "traditional": "開",
+      "simplified": "开"
+    },
+    {
+      "traditional": "閌",
+      "simplified": "闶"
+    },
+    {
+      "traditional": "閎",
+      "simplified": "闳"
+    },
+    {
+      "traditional": "閏",
+      "simplified": "闰"
+    },
+    {
+      "traditional": "間",
+      "simplified": "间"
+    },
+    {
+      "traditional": "閔",
+      "simplified": "闵"
+    },
+    {
+      "traditional": "閘",
+      "simplified": "闸"
+    },
+    {
+      "traditional": "閡",
+      "simplified": "阂"
+    },
+    {
+      "traditional": "閣",
+      "simplified": "阁"
+    },
+    {
+      "traditional": "閤",
+      "simplified": "合"
+    },
+    {
+      "traditional": "閥",
+      "simplified": "阀"
+    },
+    {
+      "traditional": "閨",
+      "simplified": "闺"
+    },
+    {
+      "traditional": "閩",
+      "simplified": "闽"
+    },
+    {
+      "traditional": "閫",
+      "simplified": "阃"
+    },
+    {
+      "traditional": "閬",
+      "simplified": "阆"
+    },
+    {
+      "traditional": "閭",
+      "simplified": "闾"
+    },
+    {
+      "traditional": "閶",
+      "simplified": "阊"
+    },
+    {
+      "traditional": "閹",
+      "simplified": "阉"
+    },
+    {
+      "traditional": "閻",
+      "simplified": "阎"
+    },
+    {
+      "traditional": "閼",
+      "simplified": "阏"
+    },
+    {
+      "traditional": "閽",
+      "simplified": "阍"
+    },
+    {
+      "traditional": "閾",
+      "simplified": "阈"
+    },
+    {
+      "traditional": "閿",
+      "simplified": "阌"
+    },
+    {
+      "traditional": "闃",
+      "simplified": "阒"
+    },
+    {
+      "traditional": "闆",
+      "simplified": "板"
+    },
+    {
+      "traditional": "闇",
+      "simplified": "暗"
+    },
+    {
+      "traditional": "闈",
+      "simplified": "闱"
+    },
+    {
+      "traditional": "闊",
+      "simplified": "阔"
+    },
+    {
+      "traditional": "闋",
+      "simplified": "阕"
+    },
+    {
+      "traditional": "闌",
+      "simplified": "阑"
+    },
+    {
+      "traditional": "闍",
+      "simplified": "阇"
+    },
+    {
+      "traditional": "闐",
+      "simplified": "阗"
+    },
+    {
+      "traditional": "闒",
+      "simplified": "阘"
+    },
+    {
+      "traditional": "闓",
+      "simplified": "闿"
+    },
+    {
+      "traditional": "闔",
+      "simplified": "阖"
+    },
+    {
+      "traditional": "闕",
+      "simplified": "阙"
+    },
+    {
+      "traditional": "闖",
+      "simplified": "闯"
+    },
+    {
+      "traditional": "關",
+      "simplified": "关"
+    },
+    {
+      "traditional": "闞",
+      "simplified": "阚"
+    },
+    {
+      "traditional": "闠",
+      "simplified": "阓"
+    },
+    {
+      "traditional": "闡",
+      "simplified": "阐"
+    },
+    {
+      "traditional": "闢",
+      "simplified": "辟"
+    },
+    {
+      "traditional": "闤",
+      "simplified": "阛"
+    },
+    {
+      "traditional": "闥",
+      "simplified": "闼"
+    },
+    {
+      "traditional": "陘",
+      "simplified": "陉"
+    },
+    {
+      "traditional": "陝",
+      "simplified": "陕"
+    },
+    {
+      "traditional": "陣",
+      "simplified": "阵"
+    },
+    {
+      "traditional": "陰",
+      "simplified": "阴"
+    },
+    {
+      "traditional": "陳",
+      "simplified": "陈"
+    },
+    {
+      "traditional": "陸",
+      "simplified": "陆"
+    },
+    {
+      "traditional": "陽",
+      "simplified": "阳"
+    },
+    {
+      "traditional": "隉",
+      "simplified": "陧"
+    },
+    {
+      "traditional": "隊",
+      "simplified": "队"
+    },
+    {
+      "traditional": "階",
+      "simplified": "阶"
+    },
+    {
+      "traditional": "隕",
+      "simplified": "陨"
+    },
+    {
+      "traditional": "際",
+      "simplified": "际"
+    },
+    {
+      "traditional": "隨",
+      "simplified": "随"
+    },
+    {
+      "traditional": "險",
+      "simplified": "险"
+    },
+    {
+      "traditional": "隯",
+      "simplified": "陦"
+    },
+    {
+      "traditional": "隱",
+      "simplified": "隐"
+    },
+    {
+      "traditional": "隴",
+      "simplified": "陇"
+    },
+    {
+      "traditional": "隸",
+      "simplified": "隶"
+    },
+    {
+      "traditional": "隻",
+      "simplified": "只"
+    },
+    {
+      "traditional": "雋",
+      "simplified": "隽"
+    },
+    {
+      "traditional": "雖",
+      "simplified": "虽"
+    },
+    {
+      "traditional": "雙",
+      "simplified": "双"
+    },
+    {
+      "traditional": "雛",
+      "simplified": "雏"
+    },
+    {
+      "traditional": "雜",
+      "simplified": "杂"
+    },
+    {
+      "traditional": "離",
+      "simplified": "离"
+    },
+    {
+      "traditional": "難",
+      "simplified": "难"
+    },
+    {
+      "traditional": "雲",
+      "simplified": "云"
+    },
+    {
+      "traditional": "電",
+      "simplified": "电"
+    },
+    {
+      "traditional": "霑",
+      "simplified": "沾"
+    },
+    {
+      "traditional": "霢",
+      "simplified": "霡"
+    },
+    {
+      "traditional": "霧",
+      "simplified": "雾"
+    },
+    {
+      "traditional": "霽",
+      "simplified": "霁"
+    },
+    {
+      "traditional": "靂",
+      "simplified": "雳"
+    },
+    {
+      "traditional": "靄",
+      "simplified": "霭"
+    },
+    {
+      "traditional": "靆",
+      "simplified": "叇"
+    },
+    {
+      "traditional": "靈",
+      "simplified": "灵"
+    },
+    {
+      "traditional": "靉",
+      "simplified": "叆"
+    },
+    {
+      "traditional": "靚",
+      "simplified": "靓"
+    },
+    {
+      "traditional": "靜",
+      "simplified": "静"
+    },
+    {
+      "traditional": "靝",
+      "simplified": "靔"
+    },
+    {
+      "traditional": "靦",
+      "simplified": "腼"
+    },
+    {
+      "traditional": "靨",
+      "simplified": "靥"
+    },
+    {
+      "traditional": "鞏",
+      "simplified": "巩"
+    },
+    {
+      "traditional": "鞦",
+      "simplified": "秋"
+    },
+    {
+      "traditional": "鞽",
+      "simplified": "鞒"
+    },
+    {
+      "traditional": "韃",
+      "simplified": "鞑"
+    },
+    {
+      "traditional": "韆",
+      "simplified": "千"
+    },
+    {
+      "traditional": "韉",
+      "simplified": "鞯"
+    },
+    {
+      "traditional": "韋",
+      "simplified": "韦"
+    },
+    {
+      "traditional": "韌",
+      "simplified": "韧"
+    },
+    {
+      "traditional": "韍",
+      "simplified": "韨"
+    },
+    {
+      "traditional": "韓",
+      "simplified": "韩"
+    },
+    {
+      "traditional": "韙",
+      "simplified": "韪"
+    },
+    {
+      "traditional": "韜",
+      "simplified": "韬"
+    },
+    {
+      "traditional": "韝",
+      "simplified": "鞲"
+    },
+    {
+      "traditional": "韞",
+      "simplified": "韫"
+    },
+    {
+      "traditional": "韻",
+      "simplified": "韵"
+    },
+    {
+      "traditional": "響",
+      "simplified": "响"
+    },
+    {
+      "traditional": "頁",
+      "simplified": "页"
+    },
+    {
+      "traditional": "頂",
+      "simplified": "顶"
+    },
+    {
+      "traditional": "頃",
+      "simplified": "顷"
+    },
+    {
+      "traditional": "項",
+      "simplified": "项"
+    },
+    {
+      "traditional": "順",
+      "simplified": "顺"
+    },
+    {
+      "traditional": "頇",
+      "simplified": "顸"
+    },
+    {
+      "traditional": "頊",
+      "simplified": "顼"
+    },
+    {
+      "traditional": "頌",
+      "simplified": "颂"
+    },
+    {
+      "traditional": "頎",
+      "simplified": "颀"
+    },
+    {
+      "traditional": "頏",
+      "simplified": "颃"
+    },
+    {
+      "traditional": "預",
+      "simplified": "预"
+    },
+    {
+      "traditional": "頑",
+      "simplified": "顽"
+    },
+    {
+      "traditional": "頒",
+      "simplified": "颁"
+    },
+    {
+      "traditional": "頓",
+      "simplified": "顿"
+    },
+    {
+      "traditional": "頗",
+      "simplified": "颇"
+    },
+    {
+      "traditional": "領",
+      "simplified": "领"
+    },
+    {
+      "traditional": "頜",
+      "simplified": "颌"
+    },
+    {
+      "traditional": "頡",
+      "simplified": "颉"
+    },
+    {
+      "traditional": "頤",
+      "simplified": "颐"
+    },
+    {
+      "traditional": "頦",
+      "simplified": "颏"
+    },
+    {
+      "traditional": "頭",
+      "simplified": "头"
+    },
+    {
+      "traditional": "頮",
+      "simplified": "颒"
+    },
+    {
+      "traditional": "頰",
+      "simplified": "颊"
+    },
+    {
+      "traditional": "頲",
+      "simplified": "颋"
+    },
+    {
+      "traditional": "頴",
+      "simplified": "颕"
+    },
+    {
+      "traditional": "頷",
+      "simplified": "颔"
+    },
+    {
+      "traditional": "頸",
+      "simplified": "颈"
+    },
+    {
+      "traditional": "頻",
+      "simplified": "频"
+    },
+    {
+      "traditional": "顆",
+      "simplified": "颗"
+    },
+    {
+      "traditional": "題",
+      "simplified": "题"
+    },
+    {
+      "traditional": "額",
+      "simplified": "额"
+    },
+    {
+      "traditional": "顎",
+      "simplified": "颚"
+    },
+    {
+      "traditional": "顒",
+      "simplified": "颙"
+    },
+    {
+      "traditional": "顓",
+      "simplified": "颛"
+    },
+    {
+      "traditional": "願",
+      "simplified": "愿"
+    },
+    {
+      "traditional": "顙",
+      "simplified": "颡"
+    },
+    {
+      "traditional": "顛",
+      "simplified": "颠"
+    },
+    {
+      "traditional": "類",
+      "simplified": "类"
+    },
+    {
+      "traditional": "顢",
+      "simplified": "颟"
+    },
+    {
+      "traditional": "顥",
+      "simplified": "颢"
+    },
+    {
+      "traditional": "顧",
+      "simplified": "顾"
+    },
+    {
+      "traditional": "顫",
+      "simplified": "颤"
+    },
+    {
+      "traditional": "顬",
+      "simplified": "颥"
+    },
+    {
+      "traditional": "顯",
+      "simplified": "显"
+    },
+    {
+      "traditional": "顰",
+      "simplified": "颦"
+    },
+    {
+      "traditional": "顱",
+      "simplified": "颅"
+    },
+    {
+      "traditional": "顳",
+      "simplified": "颞"
+    },
+    {
+      "traditional": "顴",
+      "simplified": "颧"
+    },
+    {
+      "traditional": "風",
+      "simplified": "风"
+    },
+    {
+      "traditional": "颭",
+      "simplified": "飐"
+    },
+    {
+      "traditional": "颮",
+      "simplified": "飑"
+    },
+    {
+      "traditional": "颯",
+      "simplified": "飒"
+    },
+    {
+      "traditional": "颳",
+      "simplified": "刮"
+    },
+    {
+      "traditional": "颶",
+      "simplified": "飓"
+    },
+    {
+      "traditional": "颸",
+      "simplified": "飔"
+    },
+    {
+      "traditional": "颺",
+      "simplified": "飏"
+    },
+    {
+      "traditional": "颻",
+      "simplified": "飖"
+    },
+    {
+      "traditional": "颼",
+      "simplified": "飕"
+    },
+    {
+      "traditional": "飀",
+      "simplified": "飗"
+    },
+    {
+      "traditional": "飄",
+      "simplified": "飘"
+    },
+    {
+      "traditional": "飆",
+      "simplified": "飙"
+    },
+    {
+      "traditional": "飈",
+      "simplified": "飚"
+    },
+    {
+      "traditional": "飛",
+      "simplified": "飞"
+    },
+    {
+      "traditional": "飠",
+      "simplified": "饣"
+    },
+    {
+      "traditional": "飣",
+      "simplified": "饤"
+    },
+    {
+      "traditional": "飥",
+      "simplified": "饦"
+    },
+    {
+      "traditional": "飩",
+      "simplified": "饨"
+    },
+    {
+      "traditional": "飪",
+      "simplified": "饪"
+    },
+    {
+      "traditional": "飫",
+      "simplified": "饫"
+    },
+    {
+      "traditional": "飭",
+      "simplified": "饬"
+    },
+    {
+      "traditional": "飯",
+      "simplified": "饭"
+    },
+    {
+      "traditional": "飱",
+      "simplified": "飧"
+    },
+    {
+      "traditional": "飲",
+      "simplified": "饮"
+    },
+    {
+      "traditional": "飴",
+      "simplified": "饴"
+    },
+    {
+      "traditional": "飼",
+      "simplified": "饲"
+    },
+    {
+      "traditional": "飽",
+      "simplified": "饱"
+    },
+    {
+      "traditional": "飾",
+      "simplified": "饰"
+    },
+    {
+      "traditional": "飿",
+      "simplified": "饳"
+    },
+    {
+      "traditional": "餃",
+      "simplified": "饺"
+    },
+    {
+      "traditional": "餄",
+      "simplified": "饸"
+    },
+    {
+      "traditional": "餅",
+      "simplified": "饼"
+    },
+    {
+      "traditional": "餈",
+      "simplified": "糍"
+    },
+    {
+      "traditional": "餉",
+      "simplified": "饷"
+    },
+    {
+      "traditional": "養",
+      "simplified": "养"
+    },
+    {
+      "traditional": "餌",
+      "simplified": "饵"
+    },
+    {
+      "traditional": "餎",
+      "simplified": "饹"
+    },
+    {
+      "traditional": "餏",
+      "simplified": "饻"
+    },
+    {
+      "traditional": "餑",
+      "simplified": "饽"
+    },
+    {
+      "traditional": "餒",
+      "simplified": "馁"
+    },
+    {
+      "traditional": "餓",
+      "simplified": "饿"
+    },
+    {
+      "traditional": "餕",
+      "simplified": "馂"
+    },
+    {
+      "traditional": "餖",
+      "simplified": "饾"
+    },
+    {
+      "traditional": "餘",
+      "simplified": "余"
+    },
+    {
+      "traditional": "餚",
+      "simplified": "肴"
+    },
+    {
+      "traditional": "餛",
+      "simplified": "馄"
+    },
+    {
+      "traditional": "餜",
+      "simplified": "馃"
+    },
+    {
+      "traditional": "餞",
+      "simplified": "饯"
+    },
+    {
+      "traditional": "餡",
+      "simplified": "馅"
+    },
+    {
+      "traditional": "餬",
+      "simplified": "糊"
+    },
+    {
+      "traditional": "餱",
+      "simplified": "糇"
+    },
+    {
+      "traditional": "餳",
+      "simplified": "饧"
+    },
+    {
+      "traditional": "餵",
+      "simplified": "喂"
+    },
+    {
+      "traditional": "餶",
+      "simplified": "馉"
+    },
+    {
+      "traditional": "餷",
+      "simplified": "馇"
+    },
+    {
+      "traditional": "餺",
+      "simplified": "馎"
+    },
+    {
+      "traditional": "餼",
+      "simplified": "饩"
+    },
+    {
+      "traditional": "餾",
+      "simplified": "馏"
+    },
+    {
+      "traditional": "餿",
+      "simplified": "馊"
+    },
+    {
+      "traditional": "饁",
+      "simplified": "馌"
+    },
+    {
+      "traditional": "饃",
+      "simplified": "馍"
+    },
+    {
+      "traditional": "饅",
+      "simplified": "馒"
+    },
+    {
+      "traditional": "饈",
+      "simplified": "馐"
+    },
+    {
+      "traditional": "饉",
+      "simplified": "馑"
+    },
+    {
+      "traditional": "饊",
+      "simplified": "馓"
+    },
+    {
+      "traditional": "饋",
+      "simplified": "馈"
+    },
+    {
+      "traditional": "饌",
+      "simplified": "馔"
+    },
+    {
+      "traditional": "饒",
+      "simplified": "饶"
+    },
+    {
+      "traditional": "饗",
+      "simplified": "飨"
+    },
+    {
+      "traditional": "饜",
+      "simplified": "餍"
+    },
+    {
+      "traditional": "饞",
+      "simplified": "馋"
+    },
+    {
+      "traditional": "饢",
+      "simplified": "馕"
+    },
+    {
+      "traditional": "馬",
+      "simplified": "马"
+    },
+    {
+      "traditional": "馭",
+      "simplified": "驭"
+    },
+    {
+      "traditional": "馮",
+      "simplified": "冯"
+    },
+    {
+      "traditional": "馱",
+      "simplified": "驮"
+    },
+    {
+      "traditional": "馳",
+      "simplified": "驰"
+    },
+    {
+      "traditional": "馴",
+      "simplified": "驯"
+    },
+    {
+      "traditional": "馹",
+      "simplified": "驲"
+    },
+    {
+      "traditional": "駁",
+      "simplified": "驳"
+    },
+    {
+      "traditional": "駐",
+      "simplified": "驻"
+    },
+    {
+      "traditional": "駑",
+      "simplified": "驽"
+    },
+    {
+      "traditional": "駒",
+      "simplified": "驹"
+    },
+    {
+      "traditional": "駔",
+      "simplified": "驵"
+    },
+    {
+      "traditional": "駕",
+      "simplified": "驾"
+    },
+    {
+      "traditional": "駘",
+      "simplified": "骀"
+    },
+    {
+      "traditional": "駙",
+      "simplified": "驸"
+    },
+    {
+      "traditional": "駛",
+      "simplified": "驶"
+    },
+    {
+      "traditional": "駝",
+      "simplified": "驼"
+    },
+    {
+      "traditional": "駟",
+      "simplified": "驷"
+    },
+    {
+      "traditional": "駢",
+      "simplified": "骈"
+    },
+    {
+      "traditional": "駭",
+      "simplified": "骇"
+    },
+    {
+      "traditional": "駰",
+      "simplified": "骃"
+    },
+    {
+      "traditional": "駱",
+      "simplified": "骆"
+    },
+    {
+      "traditional": "駸",
+      "simplified": "骎"
+    },
+    {
+      "traditional": "駿",
+      "simplified": "骏"
+    },
+    {
+      "traditional": "騁",
+      "simplified": "骋"
+    },
+    {
+      "traditional": "騂",
+      "simplified": "骍"
+    },
+    {
+      "traditional": "騅",
+      "simplified": "骓"
+    },
+    {
+      "traditional": "騌",
+      "simplified": "骔"
+    },
+    {
+      "traditional": "騍",
+      "simplified": "骒"
+    },
+    {
+      "traditional": "騎",
+      "simplified": "骑"
+    },
+    {
+      "traditional": "騏",
+      "simplified": "骐"
+    },
+    {
+      "traditional": "騖",
+      "simplified": "骛"
+    },
+    {
+      "traditional": "騙",
+      "simplified": "骗"
+    },
+    {
+      "traditional": "騤",
+      "simplified": "骙"
+    },
+    {
+      "traditional": "騧",
+      "simplified": "䯄"
+    },
+    {
+      "traditional": "騫",
+      "simplified": "骞"
+    },
+    {
+      "traditional": "騭",
+      "simplified": "骘"
+    },
+    {
+      "traditional": "騮",
+      "simplified": "骝"
+    },
+    {
+      "traditional": "騰",
+      "simplified": "腾"
+    },
+    {
+      "traditional": "騶",
+      "simplified": "驺"
+    },
+    {
+      "traditional": "騷",
+      "simplified": "骚"
+    },
+    {
+      "traditional": "騸",
+      "simplified": "骟"
+    },
+    {
+      "traditional": "騾",
+      "simplified": "骡"
+    },
+    {
+      "traditional": "驀",
+      "simplified": "蓦"
+    },
+    {
+      "traditional": "驁",
+      "simplified": "骜"
+    },
+    {
+      "traditional": "驂",
+      "simplified": "骖"
+    },
+    {
+      "traditional": "驃",
+      "simplified": "骠"
+    },
+    {
+      "traditional": "驄",
+      "simplified": "骢"
+    },
+    {
+      "traditional": "驅",
+      "simplified": "驱"
+    },
+    {
+      "traditional": "驊",
+      "simplified": "骅"
+    },
+    {
+      "traditional": "驌",
+      "simplified": "骕"
+    },
+    {
+      "traditional": "驍",
+      "simplified": "骁"
+    },
+    {
+      "traditional": "驏",
+      "simplified": "骣"
+    },
+    {
+      "traditional": "驕",
+      "simplified": "骄"
+    },
+    {
+      "traditional": "驗",
+      "simplified": "验"
+    },
+    {
+      "traditional": "驚",
+      "simplified": "惊"
+    },
+    {
+      "traditional": "驛",
+      "simplified": "驿"
+    },
+    {
+      "traditional": "驟",
+      "simplified": "骤"
+    },
+    {
+      "traditional": "驢",
+      "simplified": "驴"
+    },
+    {
+      "traditional": "驤",
+      "simplified": "骧"
+    },
+    {
+      "traditional": "驥",
+      "simplified": "骥"
+    },
+    {
+      "traditional": "驦",
+      "simplified": "骦"
+    },
+    {
+      "traditional": "驪",
+      "simplified": "骊"
+    },
+    {
+      "traditional": "驫",
+      "simplified": "骉"
+    },
+    {
+      "traditional": "骯",
+      "simplified": "肮"
+    },
+    {
+      "traditional": "髏",
+      "simplified": "髅"
+    },
+    {
+      "traditional": "體",
+      "simplified": "体"
+    },
+    {
+      "traditional": "髕",
+      "simplified": "髌"
+    },
+    {
+      "traditional": "髖",
+      "simplified": "髋"
+    },
+    {
+      "traditional": "鬆",
+      "simplified": "松"
+    },
+    {
+      "traditional": "鬢",
+      "simplified": "鬓"
+    },
+    {
+      "traditional": "鬥",
+      "simplified": "斗"
+    },
+    {
+      "traditional": "鬧",
+      "simplified": "闹"
+    },
+    {
+      "traditional": "鬨",
+      "simplified": "哄"
+    },
+    {
+      "traditional": "鬩",
+      "simplified": "阋"
+    },
+    {
+      "traditional": "鬮",
+      "simplified": "阄"
+    },
+    {
+      "traditional": "鬱",
+      "simplified": "郁"
+    },
+    {
+      "traditional": "鬹",
+      "simplified": "鬶"
+    },
+    {
+      "traditional": "魎",
+      "simplified": "魉"
+    },
+    {
+      "traditional": "魘",
+      "simplified": "魇"
+    },
+    {
+      "traditional": "魚",
+      "simplified": "鱼"
+    },
+    {
+      "traditional": "魛",
+      "simplified": "鱽"
+    },
+    {
+      "traditional": "魢",
+      "simplified": "鱾"
+    },
+    {
+      "traditional": "魨",
+      "simplified": "鲀"
+    },
+    {
+      "traditional": "魯",
+      "simplified": "鲁"
+    },
+    {
+      "traditional": "魴",
+      "simplified": "鲂"
+    },
+    {
+      "traditional": "魷",
+      "simplified": "鱿"
+    },
+    {
+      "traditional": "魺",
+      "simplified": "鲄"
+    },
+    {
+      "traditional": "鮁",
+      "simplified": "鲅"
+    },
+    {
+      "traditional": "鮃",
+      "simplified": "鲆"
+    },
+    {
+      "traditional": "鮊",
+      "simplified": "鲌"
+    },
+    {
+      "traditional": "鮋",
+      "simplified": "鲉"
+    },
+    {
+      "traditional": "鮍",
+      "simplified": "鲏"
+    },
+    {
+      "traditional": "鮎",
+      "simplified": "鲇"
+    },
+    {
+      "traditional": "鮐",
+      "simplified": "鲐"
+    },
+    {
+      "traditional": "鮑",
+      "simplified": "鲍"
+    },
+    {
+      "traditional": "鮒",
+      "simplified": "鲋"
+    },
+    {
+      "traditional": "鮓",
+      "simplified": "鲊"
+    },
+    {
+      "traditional": "鮚",
+      "simplified": "鲒"
+    },
+    {
+      "traditional": "鮜",
+      "simplified": "鲘"
+    },
+    {
+      "traditional": "鮞",
+      "simplified": "鲕"
+    },
+    {
+      "traditional": "鮣",
+      "simplified": "䲟"
+    },
+    {
+      "traditional": "鮦",
+      "simplified": "鲖"
+    },
+    {
+      "traditional": "鮪",
+      "simplified": "鲔"
+    },
+    {
+      "traditional": "鮫",
+      "simplified": "鲛"
+    },
+    {
+      "traditional": "鮭",
+      "simplified": "鲑"
+    },
+    {
+      "traditional": "鮮",
+      "simplified": "鲜"
+    },
+    {
+      "traditional": "鮳",
+      "simplified": "鲓"
+    },
+    {
+      "traditional": "鮶",
+      "simplified": "鲪"
+    },
+    {
+      "traditional": "鮺",
+      "simplified": "鲝"
+    },
+    {
+      "traditional": "鯀",
+      "simplified": "鲧"
+    },
+    {
+      "traditional": "鯁",
+      "simplified": "鲠"
+    },
+    {
+      "traditional": "鯇",
+      "simplified": "鲩"
+    },
+    {
+      "traditional": "鯉",
+      "simplified": "鲤"
+    },
+    {
+      "traditional": "鯊",
+      "simplified": "鲨"
+    },
+    {
+      "traditional": "鯒",
+      "simplified": "鲬"
+    },
+    {
+      "traditional": "鯔",
+      "simplified": "鲻"
+    },
+    {
+      "traditional": "鯕",
+      "simplified": "鲯"
+    },
+    {
+      "traditional": "鯖",
+      "simplified": "鲭"
+    },
+    {
+      "traditional": "鯛",
+      "simplified": "鲷"
+    },
+    {
+      "traditional": "鯝",
+      "simplified": "鲴"
+    },
+    {
+      "traditional": "鯡",
+      "simplified": "鲱"
+    },
+    {
+      "traditional": "鯢",
+      "simplified": "鲵"
+    },
+    {
+      "traditional": "鯤",
+      "simplified": "鲲"
+    },
+    {
+      "traditional": "鯧",
+      "simplified": "鲳"
+    },
+    {
+      "traditional": "鯨",
+      "simplified": "鲸"
+    },
+    {
+      "traditional": "鯪",
+      "simplified": "鲮"
+    },
+    {
+      "traditional": "鯫",
+      "simplified": "鲰"
+    },
+    {
+      "traditional": "鯰",
+      "simplified": "鲶"
+    },
+    {
+      "traditional": "鯴",
+      "simplified": "鲺"
+    },
+    {
+      "traditional": "鯷",
+      "simplified": "鳀"
+    },
+    {
+      "traditional": "鯽",
+      "simplified": "鲫"
+    },
+    {
+      "traditional": "鯿",
+      "simplified": "鳊"
+    },
+    {
+      "traditional": "鰁",
+      "simplified": "鳈"
+    },
+    {
+      "traditional": "鰂",
+      "simplified": "鲗"
+    },
+    {
+      "traditional": "鰃",
+      "simplified": "鳂"
+    },
+    {
+      "traditional": "鰆",
+      "simplified": "䲠"
+    },
+    {
+      "traditional": "鰈",
+      "simplified": "鲽"
+    },
+    {
+      "traditional": "鰉",
+      "simplified": "鳇"
+    },
+    {
+      "traditional": "鰌",
+      "simplified": "䲡"
+    },
+    {
+      "traditional": "鰍",
+      "simplified": "鳅"
+    },
+    {
+      "traditional": "鰏",
+      "simplified": "鲾"
+    },
+    {
+      "traditional": "鰒",
+      "simplified": "鳆"
+    },
+    {
+      "traditional": "鰓",
+      "simplified": "鳃"
+    },
+    {
+      "traditional": "鰜",
+      "simplified": "鳒"
+    },
+    {
+      "traditional": "鰟",
+      "simplified": "鳑"
+    },
+    {
+      "traditional": "鰠",
+      "simplified": "鳋"
+    },
+    {
+      "traditional": "鰣",
+      "simplified": "鲥"
+    },
+    {
+      "traditional": "鰥",
+      "simplified": "鳏"
+    },
+    {
+      "traditional": "鰧",
+      "simplified": "䲢"
+    },
+    {
+      "traditional": "鰨",
+      "simplified": "鳎"
+    },
+    {
+      "traditional": "鰩",
+      "simplified": "鳐"
+    },
+    {
+      "traditional": "鰭",
+      "simplified": "鳍"
+    },
+    {
+      "traditional": "鰱",
+      "simplified": "鲢"
+    },
+    {
+      "traditional": "鰲",
+      "simplified": "鳌"
+    },
+    {
+      "traditional": "鰳",
+      "simplified": "鳓"
+    },
+    {
+      "traditional": "鰵",
+      "simplified": "鳘"
+    },
+    {
+      "traditional": "鰷",
+      "simplified": "鲦"
+    },
+    {
+      "traditional": "鰹",
+      "simplified": "鲣"
+    },
+    {
+      "traditional": "鰺",
+      "simplified": "鲹"
+    },
+    {
+      "traditional": "鰻",
+      "simplified": "鳗"
+    },
+    {
+      "traditional": "鰼",
+      "simplified": "鳛"
+    },
+    {
+      "traditional": "鰾",
+      "simplified": "鳔"
+    },
+    {
+      "traditional": "鱂",
+      "simplified": "鳉"
+    },
+    {
+      "traditional": "鱅",
+      "simplified": "鳙"
+    },
+    {
+      "traditional": "鱈",
+      "simplified": "鳕"
+    },
+    {
+      "traditional": "鱉",
+      "simplified": "鳖"
+    },
+    {
+      "traditional": "鱒",
+      "simplified": "鳟"
+    },
+    {
+      "traditional": "鱔",
+      "simplified": "鳝"
+    },
+    {
+      "traditional": "鱖",
+      "simplified": "鳜"
+    },
+    {
+      "traditional": "鱗",
+      "simplified": "鳞"
+    },
+    {
+      "traditional": "鱘",
+      "simplified": "鲟"
+    },
+    {
+      "traditional": "鱝",
+      "simplified": "鲼"
+    },
+    {
+      "traditional": "鱟",
+      "simplified": "鲎"
+    },
+    {
+      "traditional": "鱠",
+      "simplified": "鲙"
+    },
+    {
+      "traditional": "鱣",
+      "simplified": "鳣"
+    },
+    {
+      "traditional": "鱤",
+      "simplified": "鳡"
+    },
+    {
+      "traditional": "鱧",
+      "simplified": "鳢"
+    },
+    {
+      "traditional": "鱨",
+      "simplified": "鲿"
+    },
+    {
+      "traditional": "鱭",
+      "simplified": "鲚"
+    },
+    {
+      "traditional": "鱯",
+      "simplified": "鳠"
+    },
+    {
+      "traditional": "鱸",
+      "simplified": "鲈"
+    },
+    {
+      "traditional": "鱺",
+      "simplified": "鲡"
+    },
+    {
+      "traditional": "鳥",
+      "simplified": "鸟"
+    },
+    {
+      "traditional": "鳩",
+      "simplified": "鸠"
+    },
+    {
+      "traditional": "鳲",
+      "simplified": "鸤"
+    },
+    {
+      "traditional": "鳳",
+      "simplified": "凤"
+    },
+    {
+      "traditional": "鳴",
+      "simplified": "鸣"
+    },
+    {
+      "traditional": "鳶",
+      "simplified": "鸢"
+    },
+    {
+      "traditional": "鳾",
+      "simplified": "䴓"
+    },
+    {
+      "traditional": "鴆",
+      "simplified": "鸩"
+    },
+    {
+      "traditional": "鴇",
+      "simplified": "鸨"
+    },
+    {
+      "traditional": "鴉",
+      "simplified": "鸦"
+    },
+    {
+      "traditional": "鴒",
+      "simplified": "鸰"
+    },
+    {
+      "traditional": "鴕",
+      "simplified": "鸵"
+    },
+    {
+      "traditional": "鴛",
+      "simplified": "鸳"
+    },
+    {
+      "traditional": "鴝",
+      "simplified": "鸲"
+    },
+    {
+      "traditional": "鴞",
+      "simplified": "鸮"
+    },
+    {
+      "traditional": "鴟",
+      "simplified": "鸱"
+    },
+    {
+      "traditional": "鴣",
+      "simplified": "鸪"
+    },
+    {
+      "traditional": "鴦",
+      "simplified": "鸯"
+    },
+    {
+      "traditional": "鴨",
+      "simplified": "鸭"
+    },
+    {
+      "traditional": "鴯",
+      "simplified": "鸸"
+    },
+    {
+      "traditional": "鴰",
+      "simplified": "鸹"
+    },
+    {
+      "traditional": "鴴",
+      "simplified": "鸻"
+    },
+    {
+      "traditional": "鴷",
+      "simplified": "䴕"
+    },
+    {
+      "traditional": "鴻",
+      "simplified": "鸿"
+    },
+    {
+      "traditional": "鴿",
+      "simplified": "鸽"
+    },
+    {
+      "traditional": "鵁",
+      "simplified": "䴔"
+    },
+    {
+      "traditional": "鵂",
+      "simplified": "鸺"
+    },
+    {
+      "traditional": "鵃",
+      "simplified": "鸼"
+    },
+    {
+      "traditional": "鵐",
+      "simplified": "鹀"
+    },
+    {
+      "traditional": "鵑",
+      "simplified": "鹃"
+    },
+    {
+      "traditional": "鵒",
+      "simplified": "鹆"
+    },
+    {
+      "traditional": "鵓",
+      "simplified": "鹁"
+    },
+    {
+      "traditional": "鵜",
+      "simplified": "鹈"
+    },
+    {
+      "traditional": "鵝",
+      "simplified": "鹅"
+    },
+    {
+      "traditional": "鵠",
+      "simplified": "鹄"
+    },
+    {
+      "traditional": "鵡",
+      "simplified": "鹉"
+    },
+    {
+      "traditional": "鵪",
+      "simplified": "鹌"
+    },
+    {
+      "traditional": "鵬",
+      "simplified": "鹏"
+    },
+    {
+      "traditional": "鵮",
+      "simplified": "鹐"
+    },
+    {
+      "traditional": "鵯",
+      "simplified": "鹎"
+    },
+    {
+      "traditional": "鵲",
+      "simplified": "鹊"
+    },
+    {
+      "traditional": "鵷",
+      "simplified": "鹓"
+    },
+    {
+      "traditional": "鵾",
+      "simplified": "鹍"
+    },
+    {
+      "traditional": "鶄",
+      "simplified": "䴖"
+    },
+    {
+      "traditional": "鶇",
+      "simplified": "鸫"
+    },
+    {
+      "traditional": "鶉",
+      "simplified": "鹑"
+    },
+    {
+      "traditional": "鶊",
+      "simplified": "鹒"
+    },
+    {
+      "traditional": "鶓",
+      "simplified": "鹋"
+    },
+    {
+      "traditional": "鶖",
+      "simplified": "鹙"
+    },
+    {
+      "traditional": "鶘",
+      "simplified": "鹕"
+    },
+    {
+      "traditional": "鶚",
+      "simplified": "鹗"
+    },
+    {
+      "traditional": "鶡",
+      "simplified": "鹖"
+    },
+    {
+      "traditional": "鶥",
+      "simplified": "鹛"
+    },
+    {
+      "traditional": "鶩",
+      "simplified": "鹜"
+    },
+    {
+      "traditional": "鶪",
+      "simplified": "䴗"
+    },
+    {
+      "traditional": "鶬",
+      "simplified": "鸧"
+    },
+    {
+      "traditional": "鶯",
+      "simplified": "莺"
+    },
+    {
+      "traditional": "鶲",
+      "simplified": "鹟"
+    },
+    {
+      "traditional": "鶴",
+      "simplified": "鹤"
+    },
+    {
+      "traditional": "鶹",
+      "simplified": "鹠"
+    },
+    {
+      "traditional": "鶺",
+      "simplified": "鹡"
+    },
+    {
+      "traditional": "鶻",
+      "simplified": "鹘"
+    },
+    {
+      "traditional": "鶼",
+      "simplified": "鹣"
+    },
+    {
+      "traditional": "鷁",
+      "simplified": "鹢"
+    },
+    {
+      "traditional": "鷂",
+      "simplified": "鹞"
+    },
+    {
+      "traditional": "鷉",
+      "simplified": "䴘"
+    },
+    {
+      "traditional": "鷊",
+      "simplified": "鹝"
+    },
+    {
+      "traditional": "鷓",
+      "simplified": "鹧"
+    },
+    {
+      "traditional": "鷖",
+      "simplified": "鹥"
+    },
+    {
+      "traditional": "鷗",
+      "simplified": "鸥"
+    },
+    {
+      "traditional": "鷙",
+      "simplified": "鸷"
+    },
+    {
+      "traditional": "鷚",
+      "simplified": "鹨"
+    },
+    {
+      "traditional": "鷥",
+      "simplified": "鸶"
+    },
+    {
+      "traditional": "鷦",
+      "simplified": "鹪"
+    },
+    {
+      "traditional": "鷫",
+      "simplified": "鹔"
+    },
+    {
+      "traditional": "鷯",
+      "simplified": "鹩"
+    },
+    {
+      "traditional": "鷲",
+      "simplified": "鹫"
+    },
+    {
+      "traditional": "鷸",
+      "simplified": "鹬"
+    },
+    {
+      "traditional": "鷹",
+      "simplified": "鹰"
+    },
+    {
+      "traditional": "鷺",
+      "simplified": "鹭"
+    },
+    {
+      "traditional": "鷽",
+      "simplified": "鸴"
+    },
+    {
+      "traditional": "鸂",
+      "simplified": "㶉"
+    },
+    {
+      "traditional": "鸇",
+      "simplified": "鹯"
+    },
+    {
+      "traditional": "鸊",
+      "simplified": "䴙"
+    },
+    {
+      "traditional": "鸌",
+      "simplified": "鹱"
+    },
+    {
+      "traditional": "鸏",
+      "simplified": "鹲"
+    },
+    {
+      "traditional": "鸕",
+      "simplified": "鸬"
+    },
+    {
+      "traditional": "鸘",
+      "simplified": "鹴"
+    },
+    {
+      "traditional": "鸚",
+      "simplified": "鹦"
+    },
+    {
+      "traditional": "鸛",
+      "simplified": "鹳"
+    },
+    {
+      "traditional": "鸝",
+      "simplified": "鹂"
+    },
+    {
+      "traditional": "鸞",
+      "simplified": "鸾"
+    },
+    {
+      "traditional": "鹹",
+      "simplified": "咸"
+    },
+    {
+      "traditional": "鹺",
+      "simplified": "鹾"
+    },
+    {
+      "traditional": "鹼",
+      "simplified": "碱"
+    },
+    {
+      "traditional": "鹽",
+      "simplified": "盐"
+    },
+    {
+      "traditional": "麗",
+      "simplified": "丽"
+    },
+    {
+      "traditional": "麥",
+      "simplified": "麦"
+    },
+    {
+      "traditional": "麩",
+      "simplified": "麸"
+    },
+    {
+      "traditional": "黃",
+      "simplified": "黄"
+    },
+    {
+      "traditional": "黌",
+      "simplified": "黉"
+    },
+    {
+      "traditional": "點",
+      "simplified": "点"
+    },
+    {
+      "traditional": "黨",
+      "simplified": "党"
+    },
+    {
+      "traditional": "黲",
+      "simplified": "黪"
+    },
+    {
+      "traditional": "黴",
+      "simplified": "霉"
+    },
+    {
+      "traditional": "黶",
+      "simplified": "黡"
+    },
+    {
+      "traditional": "黷",
+      "simplified": "黩"
+    },
+    {
+      "traditional": "黽",
+      "simplified": "黾"
+    },
+    {
+      "traditional": "黿",
+      "simplified": "鼋"
+    },
+    {
+      "traditional": "鼂",
+      "simplified": "鼌"
+    },
+    {
+      "traditional": "鼉",
+      "simplified": "鼍"
+    },
+    {
+      "traditional": "鼕",
+      "simplified": "冬"
+    },
+    {
+      "traditional": "鼴",
+      "simplified": "鼹"
+    },
+    {
+      "traditional": "齊",
+      "simplified": "齐"
+    },
+    {
+      "traditional": "齋",
+      "simplified": "斋"
+    },
+    {
+      "traditional": "齏",
+      "simplified": "齑"
+    },
+    {
+      "traditional": "齒",
+      "simplified": "齿"
+    },
+    {
+      "traditional": "齔",
+      "simplified": "龀"
+    },
+    {
+      "traditional": "齕",
+      "simplified": "龁"
+    },
+    {
+      "traditional": "齗",
+      "simplified": "龂"
+    },
+    {
+      "traditional": "齙",
+      "simplified": "龅"
+    },
+    {
+      "traditional": "齜",
+      "simplified": "龇"
+    },
+    {
+      "traditional": "齟",
+      "simplified": "龃"
+    },
+    {
+      "traditional": "齠",
+      "simplified": "龆"
+    },
+    {
+      "traditional": "齡",
+      "simplified": "龄"
+    },
+    {
+      "traditional": "齣",
+      "simplified": "出"
+    },
+    {
+      "traditional": "齦",
+      "simplified": "龈"
+    },
+    {
+      "traditional": "齪",
+      "simplified": "龊"
+    },
+    {
+      "traditional": "齬",
+      "simplified": "龉"
+    },
+    {
+      "traditional": "齲",
+      "simplified": "龋"
+    },
+    {
+      "traditional": "齶",
+      "simplified": "腭"
+    },
+    {
+      "traditional": "齷",
+      "simplified": "龌"
+    },
+    {
+      "traditional": "龍",
+      "simplified": "龙"
+    },
+    {
+      "traditional": "龎",
+      "simplified": "厐"
+    },
+    {
+      "traditional": "龐",
+      "simplified": "庞"
+    },
+    {
+      "traditional": "龑",
+      "simplified": "䶮"
+    },
+    {
+      "traditional": "龔",
+      "simplified": "龚"
+    },
+    {
+      "traditional": "龕",
+      "simplified": "龛"
+    },
+    {
+      "traditional": "龜",
+      "simplified": "龟"
+    },
+    {
+      "traditional": "鿁",
+      "simplified": "䜤"
+    },
+    {
+      "traditional": "鿓",
+      "simplified": "鿒"
+    }
+  ],
+  "sources": [],
+  "cleaning": {
+    "keep_non_bmp": false
+  }
+}

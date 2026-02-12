@@ -20,9 +20,37 @@ SUMMARY_PATH = BASE_DIR / "base_data_summary.txt"
 REORGANIZED_PATH = BASE_DIR / "base_data_reorganized.json"
 
 
-def load_data(path: Path) -> dict:
+def load_data(path: Path) -> list:
+    """Load the raw list-of-dicts structure from base_data.json."""
+
     with path.open(encoding="utf-8") as handle:
         return json.load(handle)
+
+
+def normalize(records: list) -> dict:
+    """Merge duplicate simplified entries and de-duplicate variant lists."""
+
+    merged: dict = {}
+
+    for entry in records:
+        simplified = entry.get("simplified")
+        variants = entry.get("traditional", []) or []
+
+        if not simplified:
+            continue
+
+        if simplified not in merged:
+            merged[simplified] = []
+
+        existing = merged[simplified]
+        seen = set(existing)
+
+        for char in variants:
+            if char not in seen:
+                existing.append(char)
+                seen.add(char)
+
+    return merged
 
 
 def summarize(data: dict) -> dict:
@@ -32,13 +60,20 @@ def summarize(data: dict) -> dict:
     identical_to_simplified = 0
 
     for simplified, variants in data.items():
-        unique_chars.update(variants)
-        unique_variants = list(dict.fromkeys(variants))  # preserve order, drop dupes
+        unique_chars.add(simplified)
 
-        traditional_only = {char for char in unique_variants if char != simplified}
+        unique_variants = []
+        seen = set()
+        for char in variants:
+            if char not in seen:
+                unique_variants.append(char)
+                seen.add(char)
+                unique_chars.add(char)
+
+        traditional_only = [char for char in unique_variants if char != simplified]
         traditional_counts[len(traditional_only)] += 1
 
-        if simplified in variants:
+        if simplified in seen:
             identical_to_simplified += 1
 
     percentage_identical = (identical_to_simplified / total_entries) * 100 if total_entries else 0
@@ -78,26 +113,19 @@ def write_summary(stats: dict, path: Path) -> None:
 
 
 def reorganize(data: dict) -> list:
+    """Return a sorted list of entries with de-duplicated variants."""
+
     reorganized = []
     for simplified, variants in sorted(data.items()):
         seen = set()
-        traditional_list = []
+        cleaned = []
         for char in variants:
-            if char == simplified:
-                continue
             if char not in seen:
+                cleaned.append(char)
                 seen.add(char)
-                traditional_list.append(char)
 
-        if len(traditional_list) == 1:
-            traditional_list.append(simplified)
+        reorganized.append({"simplified": simplified, "traditional": cleaned})
 
-        reorganized.append(
-            {
-                "simplified": simplified,
-                "traditional": traditional_list,
-            }
-        )
     return reorganized
 
 
@@ -107,11 +135,13 @@ def write_reorganized(data: list, path: Path) -> None:
 
 
 def main() -> None:
-    data = load_data(DATA_PATH)
-    stats = summarize(data)
+    records = load_data(DATA_PATH)
+    normalized = normalize(records)
+
+    stats = summarize(normalized)
     write_summary(stats, SUMMARY_PATH)
 
-    reorganized = reorganize(data)
+    reorganized = reorganize(normalized)
     write_reorganized(reorganized, REORGANIZED_PATH)
 
 

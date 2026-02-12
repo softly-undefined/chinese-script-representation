@@ -1,0 +1,4592 @@
+{
+  "summary": {
+    "entries": 197,
+    "target_characters": 434,
+    "hans_total_hits": 13475717,
+    "hant_total_hits": 20901912
+  },
+  "entries": [
+    {
+      "simplified": "万",
+      "traditional": [
+        "万",
+        "萬"
+      ],
+      "hans": {
+        "simplified_count": 118154,
+        "traditional_counts": {
+          "万": 118154,
+          "萬": 0
+        },
+        "total_all_forms": 236308
+      },
+      "hant": {
+        "simplified_count": 21856,
+        "traditional_counts": {
+          "万": 21856,
+          "萬": 157130
+        },
+        "total_all_forms": 200842
+      }
+    },
+    {
+      "simplified": "丑",
+      "traditional": [
+        "丑",
+        "醜"
+      ],
+      "hans": {
+        "simplified_count": 4603,
+        "traditional_counts": {
+          "丑": 4603,
+          "醜": 0
+        },
+        "total_all_forms": 9206
+      },
+      "hant": {
+        "simplified_count": 11472,
+        "traditional_counts": {
+          "丑": 11472,
+          "醜": 4368
+        },
+        "total_all_forms": 27312
+      }
+    },
+    {
+      "simplified": "丰",
+      "traditional": [
+        "丰",
+        "豐"
+      ],
+      "hans": {
+        "simplified_count": 32775,
+        "traditional_counts": {
+          "丰": 32775,
+          "豐": 0
+        },
+        "total_all_forms": 65550
+      },
+      "hant": {
+        "simplified_count": 5349,
+        "traditional_counts": {
+          "丰": 5349,
+          "豐": 52807
+        },
+        "total_all_forms": 63505
+      }
+    },
+    {
+      "simplified": "于",
+      "traditional": [
+        "于",
+        "於"
+      ],
+      "hans": {
+        "simplified_count": 967223,
+        "traditional_counts": {
+          "于": 967223,
+          "於": 67
+        },
+        "total_all_forms": 1934513
+      },
+      "hant": {
+        "simplified_count": 161909,
+        "traditional_counts": {
+          "于": 161909,
+          "於": 1487108
+        },
+        "total_all_forms": 1810926
+      }
+    },
+    {
+      "simplified": "云",
+      "traditional": [
+        "云",
+        "雲"
+      ],
+      "hans": {
+        "simplified_count": 68394,
+        "traditional_counts": {
+          "云": 68394,
+          "雲": 0
+        },
+        "total_all_forms": 136788
+      },
+      "hant": {
+        "simplified_count": 10682,
+        "traditional_counts": {
+          "云": 10682,
+          "雲": 71852
+        },
+        "total_all_forms": 93216
+      }
+    },
+    {
+      "simplified": "亘",
+      "traditional": [
+        "亘",
+        "亙"
+      ],
+      "hans": {
+        "simplified_count": 695,
+        "traditional_counts": {
+          "亘": 695,
+          "亙": 0
+        },
+        "total_all_forms": 1390
+      },
+      "hant": {
+        "simplified_count": 373,
+        "traditional_counts": {
+          "亘": 373,
+          "亙": 288
+        },
+        "total_all_forms": 1034
+      }
+    },
+    {
+      "simplified": "仆",
+      "traditional": [
+        "仆",
+        "僕"
+      ],
+      "hans": {
+        "simplified_count": 4965,
+        "traditional_counts": {
+          "仆": 4965,
+          "僕": 0
+        },
+        "total_all_forms": 9930
+      },
+      "hant": {
+        "simplified_count": 1765,
+        "traditional_counts": {
+          "仆": 1765,
+          "僕": 8165
+        },
+        "total_all_forms": 11695
+      }
+    },
+    {
+      "simplified": "仑",
+      "traditional": [
+        "侖",
+        "崙"
+      ],
+      "hans": {
+        "simplified_count": 7259,
+        "traditional_counts": {
+          "侖": 0,
+          "崙": 0
+        },
+        "total_all_forms": 7259
+      },
+      "hant": {
+        "simplified_count": 1284,
+        "traditional_counts": {
+          "侖": 1441,
+          "崙": 10593
+        },
+        "total_all_forms": 13318
+      }
+    },
+    {
+      "simplified": "价",
+      "traditional": [
+        "价",
+        "價"
+      ],
+      "hans": {
+        "simplified_count": 41881,
+        "traditional_counts": {
+          "价": 41881,
+          "價": 0
+        },
+        "total_all_forms": 83762
+      },
+      "hant": {
+        "simplified_count": 4922,
+        "traditional_counts": {
+          "价": 4922,
+          "價": 55774
+        },
+        "total_all_forms": 65618
+      }
+    },
+    {
+      "simplified": "仿",
+      "traditional": [
+        "彷",
+        "徬"
+      ],
+      "hans": {
+        "simplified_count": 8614,
+        "traditional_counts": {
+          "彷": 98,
+          "徬": 14
+        },
+        "total_all_forms": 8726
+      },
+      "hant": {
+        "simplified_count": 12256,
+        "traditional_counts": {
+          "彷": 1211,
+          "徬": 205
+        },
+        "total_all_forms": 13672
+      }
+    },
+    {
+      "simplified": "优",
+      "traditional": [
+        "优",
+        "優"
+      ],
+      "hans": {
+        "simplified_count": 37226,
+        "traditional_counts": {
+          "优": 37226,
+          "優": 0
+        },
+        "total_all_forms": 74452
+      },
+      "hant": {
+        "simplified_count": 4426,
+        "traditional_counts": {
+          "优": 4426,
+          "優": 75119
+        },
+        "total_all_forms": 83971
+      }
+    },
+    {
+      "simplified": "体",
+      "traditional": [
+        "体",
+        "體"
+      ],
+      "hans": {
+        "simplified_count": 268620,
+        "traditional_counts": {
+          "体": 268620,
+          "體": 0
+        },
+        "total_all_forms": 537240
+      },
+      "hant": {
+        "simplified_count": 40965,
+        "traditional_counts": {
+          "体": 40965,
+          "體": 373468
+        },
+        "total_all_forms": 455398
+      }
+    },
+    {
+      "simplified": "佣",
+      "traditional": [
+        "佣",
+        "傭"
+      ],
+      "hans": {
+        "simplified_count": 2778,
+        "traditional_counts": {
+          "佣": 2778,
+          "傭": 0
+        },
+        "total_all_forms": 5556
+      },
+      "hant": {
+        "simplified_count": 856,
+        "traditional_counts": {
+          "佣": 856,
+          "傭": 5108
+        },
+        "total_all_forms": 6820
+      }
+    },
+    {
+      "simplified": "克",
+      "traditional": [
+        "克",
+        "剋"
+      ],
+      "hans": {
+        "simplified_count": 379171,
+        "traditional_counts": {
+          "克": 379171,
+          "剋": 0
+        },
+        "total_all_forms": 758342
+      },
+      "hant": {
+        "simplified_count": 520110,
+        "traditional_counts": {
+          "克": 520110,
+          "剋": 1141
+        },
+        "total_all_forms": 1041361
+      }
+    },
+    {
+      "simplified": "党",
+      "traditional": [
+        "党",
+        "黨"
+      ],
+      "hans": {
+        "simplified_count": 218937,
+        "traditional_counts": {
+          "党": 218937,
+          "黨": 0
+        },
+        "total_all_forms": 437874
+      },
+      "hant": {
+        "simplified_count": 28744,
+        "traditional_counts": {
+          "党": 28744,
+          "黨": 194928
+        },
+        "total_all_forms": 252416
+      }
+    },
+    {
+      "simplified": "冬",
+      "traditional": [
+        "冬",
+        "鼕"
+      ],
+      "hans": {
+        "simplified_count": 27397,
+        "traditional_counts": {
+          "冬": 27397,
+          "鼕": 0
+        },
+        "total_all_forms": 54794
+      },
+      "hant": {
+        "simplified_count": 27549,
+        "traditional_counts": {
+          "冬": 27549,
+          "鼕": 8
+        },
+        "total_all_forms": 55106
+      }
+    },
+    {
+      "simplified": "冲",
+      "traditional": [
+        "沖",
+        "衝"
+      ],
+      "hans": {
+        "simplified_count": 33723,
+        "traditional_counts": {
+          "沖": 0,
+          "衝": 0
+        },
+        "total_all_forms": 33723
+      },
+      "hant": {
+        "simplified_count": 6392,
+        "traditional_counts": {
+          "沖": 15505,
+          "衝": 41499
+        },
+        "total_all_forms": 63396
+      }
+    },
+    {
+      "simplified": "准",
+      "traditional": [
+        "准",
+        "準"
+      ],
+      "hans": {
+        "simplified_count": 72768,
+        "traditional_counts": {
+          "准": 72768,
+          "準": 0
+        },
+        "total_all_forms": 145536
+      },
+      "hant": {
+        "simplified_count": 30282,
+        "traditional_counts": {
+          "准": 30282,
+          "準": 72445
+        },
+        "total_all_forms": 133009
+      }
+    },
+    {
+      "simplified": "几",
+      "traditional": [
+        "几",
+        "幾"
+      ],
+      "hans": {
+        "simplified_count": 62325,
+        "traditional_counts": {
+          "几": 62325,
+          "幾": 0
+        },
+        "total_all_forms": 124650
+      },
+      "hant": {
+        "simplified_count": 8164,
+        "traditional_counts": {
+          "几": 8164,
+          "幾": 65384
+        },
+        "total_all_forms": 81712
+      }
+    },
+    {
+      "simplified": "出",
+      "traditional": [
+        "出",
+        "齣"
+      ],
+      "hans": {
+        "simplified_count": 519439,
+        "traditional_counts": {
+          "出": 519439,
+          "齣": 0
+        },
+        "total_all_forms": 1038878
+      },
+      "hant": {
+        "simplified_count": 969460,
+        "traditional_counts": {
+          "出": 969460,
+          "齣": 1638
+        },
+        "total_all_forms": 1940558
+      }
+    },
+    {
+      "simplified": "划",
+      "traditional": [
+        "划",
+        "劃"
+      ],
+      "hans": {
+        "simplified_count": 109779,
+        "traditional_counts": {
+          "划": 109779,
+          "劃": 0
+        },
+        "total_all_forms": 219558
+      },
+      "hant": {
+        "simplified_count": 12680,
+        "traditional_counts": {
+          "划": 12680,
+          "劃": 100651
+        },
+        "total_all_forms": 126011
+      }
+    },
+    {
+      "simplified": "别",
+      "traditional": [
+        "别",
+        "彆"
+      ],
+      "hans": {
+        "simplified_count": 103641,
+        "traditional_counts": {
+          "别": 103641,
+          "彆": 0
+        },
+        "total_all_forms": 207282
+      },
+      "hant": {
+        "simplified_count": 17871,
+        "traditional_counts": {
+          "别": 17871,
+          "彆": 159
+        },
+        "total_all_forms": 35901
+      }
+    },
+    {
+      "simplified": "刮",
+      "traditional": [
+        "刮",
+        "颳"
+      ],
+      "hans": {
+        "simplified_count": 1042,
+        "traditional_counts": {
+          "刮": 1042,
+          "颳": 0
+        },
+        "total_all_forms": 2084
+      },
+      "hant": {
+        "simplified_count": 1384,
+        "traditional_counts": {
+          "刮": 1384,
+          "颳": 128
+        },
+        "total_all_forms": 2896
+      }
+    },
+    {
+      "simplified": "制",
+      "traditional": [
+        "制",
+        "製"
+      ],
+      "hans": {
+        "simplified_count": 247212,
+        "traditional_counts": {
+          "制": 247212,
+          "製": 0
+        },
+        "total_all_forms": 494424
+      },
+      "hant": {
+        "simplified_count": 283166,
+        "traditional_counts": {
+          "制": 283166,
+          "製": 153965
+        },
+        "total_all_forms": 720297
+      }
+    },
+    {
+      "simplified": "千",
+      "traditional": [
+        "千",
+        "韆"
+      ],
+      "hans": {
+        "simplified_count": 48904,
+        "traditional_counts": {
+          "千": 48904,
+          "韆": 0
+        },
+        "total_all_forms": 97808
+      },
+      "hant": {
+        "simplified_count": 95727,
+        "traditional_counts": {
+          "千": 95727,
+          "韆": 241
+        },
+        "total_all_forms": 191695
+      }
+    },
+    {
+      "simplified": "卜",
+      "traditional": [
+        "卜",
+        "蔔"
+      ],
+      "hans": {
+        "simplified_count": 9117,
+        "traditional_counts": {
+          "卜": 9117,
+          "蔔": 0
+        },
+        "total_all_forms": 18234
+      },
+      "hant": {
+        "simplified_count": 11666,
+        "traditional_counts": {
+          "卜": 11666,
+          "蔔": 1199
+        },
+        "total_all_forms": 24531
+      }
+    },
+    {
+      "simplified": "卤",
+      "traditional": [
+        "鹵",
+        "滷"
+      ],
+      "hans": {
+        "simplified_count": 1723,
+        "traditional_counts": {
+          "鹵": 0,
+          "滷": 0
+        },
+        "total_all_forms": 1723
+      },
+      "hant": {
+        "simplified_count": 216,
+        "traditional_counts": {
+          "鹵": 839,
+          "滷": 499
+        },
+        "total_all_forms": 1554
+      }
+    },
+    {
+      "simplified": "卷",
+      "traditional": [
+        "卷",
+        "捲"
+      ],
+      "hans": {
+        "simplified_count": 42243,
+        "traditional_counts": {
+          "卷": 42243,
+          "捲": 0
+        },
+        "total_all_forms": 84486
+      },
+      "hant": {
+        "simplified_count": 53423,
+        "traditional_counts": {
+          "卷": 53423,
+          "捲": 8902
+        },
+        "total_all_forms": 115748
+      }
+    },
+    {
+      "simplified": "历",
+      "traditional": [
+        "歷",
+        "曆"
+      ],
+      "hans": {
+        "simplified_count": 141339,
+        "traditional_counts": {
+          "歷": 0,
+          "曆": 0
+        },
+        "total_all_forms": 141339
+      },
+      "hant": {
+        "simplified_count": 23820,
+        "traditional_counts": {
+          "歷": 133262,
+          "曆": 32997
+        },
+        "total_all_forms": 190079
+      }
+    },
+    {
+      "simplified": "发",
+      "traditional": [
+        "發",
+        "髮"
+      ],
+      "hans": {
+        "simplified_count": 470883,
+        "traditional_counts": {
+          "發": 0,
+          "髮": 0
+        },
+        "total_all_forms": 470883
+      },
+      "hant": {
+        "simplified_count": 67303,
+        "traditional_counts": {
+          "發": 643056,
+          "髮": 23828
+        },
+        "total_all_forms": 734187
+      }
+    },
+    {
+      "simplified": "叠",
+      "traditional": [
+        "曡",
+        "疊"
+      ],
+      "hans": {
+        "simplified_count": 5539,
+        "traditional_counts": {
+          "曡": 0,
+          "疊": 0
+        },
+        "total_all_forms": 5539
+      },
+      "hant": {
+        "simplified_count": 758,
+        "traditional_counts": {
+          "曡": 17,
+          "疊": 7951
+        },
+        "total_all_forms": 8726
+      }
+    },
+    {
+      "simplified": "只",
+      "traditional": [
+        "衹",
+        "隻"
+      ],
+      "hans": {
+        "simplified_count": 89494,
+        "traditional_counts": {
+          "衹": 6,
+          "隻": 0
+        },
+        "total_all_forms": 89500
+      },
+      "hant": {
+        "simplified_count": 163216,
+        "traditional_counts": {
+          "衹": 210,
+          "隻": 26800
+        },
+        "total_all_forms": 190226
+      }
+    },
+    {
+      "simplified": "叶",
+      "traditional": [
+        "叶",
+        "葉"
+      ],
+      "hans": {
+        "simplified_count": 49528,
+        "traditional_counts": {
+          "叶": 49528,
+          "葉": 0
+        },
+        "total_all_forms": 99056
+      },
+      "hant": {
+        "simplified_count": 7026,
+        "traditional_counts": {
+          "叶": 7026,
+          "葉": 70774
+        },
+        "total_all_forms": 84826
+      }
+    },
+    {
+      "simplified": "吁",
+      "traditional": [
+        "吁",
+        "籲"
+      ],
+      "hans": {
+        "simplified_count": 5565,
+        "traditional_counts": {
+          "吁": 5565,
+          "籲": 0
+        },
+        "total_all_forms": 11130
+      },
+      "hant": {
+        "simplified_count": 1113,
+        "traditional_counts": {
+          "吁": 1113,
+          "籲": 8961
+        },
+        "total_all_forms": 11187
+      }
+    },
+    {
+      "simplified": "合",
+      "traditional": [
+        "合",
+        "閤"
+      ],
+      "hans": {
+        "simplified_count": 274617,
+        "traditional_counts": {
+          "合": 274617,
+          "閤": 0
+        },
+        "total_all_forms": 549234
+      },
+      "hant": {
+        "simplified_count": 409158,
+        "traditional_counts": {
+          "合": 409158,
+          "閤": 705
+        },
+        "total_all_forms": 819021
+      }
+    },
+    {
+      "simplified": "吊",
+      "traditional": [
+        "吊",
+        "弔"
+      ],
+      "hans": {
+        "simplified_count": 4272,
+        "traditional_counts": {
+          "吊": 4272,
+          "弔": 0
+        },
+        "total_all_forms": 8544
+      },
+      "hant": {
+        "simplified_count": 5826,
+        "traditional_counts": {
+          "吊": 5826,
+          "弔": 983
+        },
+        "total_all_forms": 12635
+      }
+    },
+    {
+      "simplified": "同",
+      "traditional": [
+        "同",
+        "衕"
+      ],
+      "hans": {
+        "simplified_count": 364108,
+        "traditional_counts": {
+          "同": 364108,
+          "衕": 0
+        },
+        "total_all_forms": 728216
+      },
+      "hant": {
+        "simplified_count": 624999,
+        "traditional_counts": {
+          "同": 624999,
+          "衕": 86
+        },
+        "total_all_forms": 1250084
+      }
+    },
+    {
+      "simplified": "后",
+      "traditional": [
+        "后",
+        "後"
+      ],
+      "hans": {
+        "simplified_count": 696212,
+        "traditional_counts": {
+          "后": 696212,
+          "後": 0
+        },
+        "total_all_forms": 1392424
+      },
+      "hant": {
+        "simplified_count": 154764,
+        "traditional_counts": {
+          "后": 154764,
+          "後": 1149282
+        },
+        "total_all_forms": 1458810
+      }
+    },
+    {
+      "simplified": "向",
+      "traditional": [
+        "向",
+        "嚮"
+      ],
+      "hans": {
+        "simplified_count": 346016,
+        "traditional_counts": {
+          "向": 346016,
+          "嚮": 0
+        },
+        "total_all_forms": 692032
+      },
+      "hant": {
+        "simplified_count": 361484,
+        "traditional_counts": {
+          "向": 361484,
+          "嚮": 1581
+        },
+        "total_all_forms": 724549
+      }
+    },
+    {
+      "simplified": "吨",
+      "traditional": [
+        "吨",
+        "噸"
+      ],
+      "hans": {
+        "simplified_count": 8073,
+        "traditional_counts": {
+          "吨": 8073,
+          "噸": 0
+        },
+        "total_all_forms": 16146
+      },
+      "hant": {
+        "simplified_count": 612,
+        "traditional_counts": {
+          "吨": 612,
+          "噸": 5188
+        },
+        "total_all_forms": 6412
+      }
+    },
+    {
+      "simplified": "听",
+      "traditional": [
+        "听",
+        "聽"
+      ],
+      "hans": {
+        "simplified_count": 20983,
+        "traditional_counts": {
+          "听": 20983,
+          "聽": 0
+        },
+        "total_all_forms": 41966
+      },
+      "hant": {
+        "simplified_count": 3595,
+        "traditional_counts": {
+          "听": 3595,
+          "聽": 35414
+        },
+        "total_all_forms": 42604
+      }
+    },
+    {
+      "simplified": "周",
+      "traditional": [
+        "周",
+        "週"
+      ],
+      "hans": {
+        "simplified_count": 110383,
+        "traditional_counts": {
+          "周": 110383,
+          "週": 0
+        },
+        "total_all_forms": 220766
+      },
+      "hant": {
+        "simplified_count": 107814,
+        "traditional_counts": {
+          "周": 107814,
+          "週": 42063
+        },
+        "total_all_forms": 257691
+      }
+    },
+    {
+      "simplified": "咸",
+      "traditional": [
+        "咸",
+        "鹹"
+      ],
+      "hans": {
+        "simplified_count": 10007,
+        "traditional_counts": {
+          "咸": 10007,
+          "鹹": 0
+        },
+        "total_all_forms": 20014
+      },
+      "hant": {
+        "simplified_count": 15126,
+        "traditional_counts": {
+          "咸": 15126,
+          "鹹": 2521
+        },
+        "total_all_forms": 32773
+      }
+    },
+    {
+      "simplified": "咽",
+      "traditional": [
+        "咽",
+        "嚥"
+      ],
+      "hans": {
+        "simplified_count": 1602,
+        "traditional_counts": {
+          "咽": 1602,
+          "嚥": 0
+        },
+        "total_all_forms": 3204
+      },
+      "hant": {
+        "simplified_count": 1246,
+        "traditional_counts": {
+          "咽": 1246,
+          "嚥": 350
+        },
+        "total_all_forms": 2842
+      }
+    },
+    {
+      "simplified": "哄",
+      "traditional": [
+        "哄",
+        "鬨"
+      ],
+      "hans": {
+        "simplified_count": 304,
+        "traditional_counts": {
+          "哄": 304,
+          "鬨": 0
+        },
+        "total_all_forms": 608
+      },
+      "hant": {
+        "simplified_count": 474,
+        "traditional_counts": {
+          "哄": 474,
+          "鬨": 329
+        },
+        "total_all_forms": 1277
+      }
+    },
+    {
+      "simplified": "喂",
+      "traditional": [
+        "喂",
+        "餵"
+      ],
+      "hans": {
+        "simplified_count": 884,
+        "traditional_counts": {
+          "喂": 884,
+          "餵": 0
+        },
+        "total_all_forms": 1768
+      },
+      "hant": {
+        "simplified_count": 321,
+        "traditional_counts": {
+          "喂": 321,
+          "餵": 1662
+        },
+        "total_all_forms": 2304
+      }
+    },
+    {
+      "simplified": "回",
+      "traditional": [
+        "回",
+        "迴"
+      ],
+      "hans": {
+        "simplified_count": 129949,
+        "traditional_counts": {
+          "回": 129949,
+          "迴": 0
+        },
+        "total_all_forms": 259898
+      },
+      "hant": {
+        "simplified_count": 217584,
+        "traditional_counts": {
+          "回": 217584,
+          "迴": 19555
+        },
+        "total_all_forms": 454723
+      }
+    },
+    {
+      "simplified": "团",
+      "traditional": [
+        "團",
+        "糰"
+      ],
+      "hans": {
+        "simplified_count": 195346,
+        "traditional_counts": {
+          "團": 0,
+          "糰": 0
+        },
+        "total_all_forms": 195346
+      },
+      "hant": {
+        "simplified_count": 23309,
+        "traditional_counts": {
+          "團": 210491,
+          "糰": 571
+        },
+        "total_all_forms": 234371
+      }
+    },
+    {
+      "simplified": "困",
+      "traditional": [
+        "困",
+        "睏"
+      ],
+      "hans": {
+        "simplified_count": 16268,
+        "traditional_counts": {
+          "困": 16268,
+          "睏": 0
+        },
+        "total_all_forms": 32536
+      },
+      "hant": {
+        "simplified_count": 26293,
+        "traditional_counts": {
+          "困": 26293,
+          "睏": 45
+        },
+        "total_all_forms": 52631
+      }
+    },
+    {
+      "simplified": "圣",
+      "traditional": [
+        "圣",
+        "聖"
+      ],
+      "hans": {
+        "simplified_count": 90962,
+        "traditional_counts": {
+          "圣": 90962,
+          "聖": 0
+        },
+        "total_all_forms": 181924
+      },
+      "hant": {
+        "simplified_count": 15438,
+        "traditional_counts": {
+          "圣": 15438,
+          "聖": 125737
+        },
+        "total_all_forms": 156613
+      }
+    },
+    {
+      "simplified": "坏",
+      "traditional": [
+        "坏",
+        "壞"
+      ],
+      "hans": {
+        "simplified_count": 20010,
+        "traditional_counts": {
+          "坏": 20010,
+          "壞": 0
+        },
+        "total_all_forms": 40020
+      },
+      "hant": {
+        "simplified_count": 2709,
+        "traditional_counts": {
+          "坏": 2709,
+          "壞": 32703
+        },
+        "total_all_forms": 38121
+      }
+    },
+    {
+      "simplified": "坛",
+      "traditional": [
+        "壇",
+        "罈"
+      ],
+      "hans": {
+        "simplified_count": 11950,
+        "traditional_counts": {
+          "壇": 0,
+          "罈": 0
+        },
+        "total_all_forms": 11950
+      },
+      "hant": {
+        "simplified_count": 1608,
+        "traditional_counts": {
+          "壇": 20916,
+          "罈": 208
+        },
+        "total_all_forms": 22732
+      }
+    },
+    {
+      "simplified": "坝",
+      "traditional": [
+        "垻",
+        "壩"
+      ],
+      "hans": {
+        "simplified_count": 11182,
+        "traditional_counts": {
+          "垻": 0,
+          "壩": 0
+        },
+        "total_all_forms": 11182
+      },
+      "hant": {
+        "simplified_count": 838,
+        "traditional_counts": {
+          "垻": 219,
+          "壩": 4718
+        },
+        "total_all_forms": 5775
+      }
+    },
+    {
+      "simplified": "复",
+      "traditional": [
+        "復",
+        "複"
+      ],
+      "hans": {
+        "simplified_count": 110359,
+        "traditional_counts": {
+          "復": 0,
+          "複": 0
+        },
+        "total_all_forms": 110359
+      },
+      "hant": {
+        "simplified_count": 14489,
+        "traditional_counts": {
+          "復": 104511,
+          "複": 29124
+        },
+        "total_all_forms": 148124
+      }
+    },
+    {
+      "simplified": "夸",
+      "traditional": [
+        "夸",
+        "誇"
+      ],
+      "hans": {
+        "simplified_count": 3469,
+        "traditional_counts": {
+          "夸": 3469,
+          "誇": 0
+        },
+        "total_all_forms": 6938
+      },
+      "hant": {
+        "simplified_count": 2511,
+        "traditional_counts": {
+          "夸": 2511,
+          "誇": 2697
+        },
+        "total_all_forms": 7719
+      }
+    },
+    {
+      "simplified": "奸",
+      "traditional": [
+        "奸",
+        "姦"
+      ],
+      "hans": {
+        "simplified_count": 5094,
+        "traditional_counts": {
+          "奸": 5094,
+          "姦": 0
+        },
+        "total_all_forms": 10188
+      },
+      "hant": {
+        "simplified_count": 3636,
+        "traditional_counts": {
+          "奸": 3636,
+          "姦": 4052
+        },
+        "total_all_forms": 11324
+      }
+    },
+    {
+      "simplified": "姜",
+      "traditional": [
+        "姜",
+        "薑"
+      ],
+      "hans": {
+        "simplified_count": 8013,
+        "traditional_counts": {
+          "姜": 8013,
+          "薑": 0
+        },
+        "total_all_forms": 16026
+      },
+      "hant": {
+        "simplified_count": 9782,
+        "traditional_counts": {
+          "姜": 9782,
+          "薑": 1669
+        },
+        "total_all_forms": 21233
+      }
+    },
+    {
+      "simplified": "宁",
+      "traditional": [
+        "宁",
+        "寧"
+      ],
+      "hans": {
+        "simplified_count": 94589,
+        "traditional_counts": {
+          "宁": 94589,
+          "寧": 0
+        },
+        "total_all_forms": 189178
+      },
+      "hant": {
+        "simplified_count": 12732,
+        "traditional_counts": {
+          "宁": 12732,
+          "寧": 51155
+        },
+        "total_all_forms": 76619
+      }
+    },
+    {
+      "simplified": "它",
+      "traditional": [
+        "它",
+        "牠"
+      ],
+      "hans": {
+        "simplified_count": 126454,
+        "traditional_counts": {
+          "它": 126454,
+          "牠": 299
+        },
+        "total_all_forms": 253207
+      },
+      "hant": {
+        "simplified_count": 96465,
+        "traditional_counts": {
+          "它": 96465,
+          "牠": 23046
+        },
+        "total_all_forms": 215976
+      }
+    },
+    {
+      "simplified": "审",
+      "traditional": [
+        "審",
+        "讅"
+      ],
+      "hans": {
+        "simplified_count": 40288,
+        "traditional_counts": {
+          "審": 0,
+          "讅": 0
+        },
+        "total_all_forms": 40288
+      },
+      "hant": {
+        "simplified_count": 4148,
+        "traditional_counts": {
+          "審": 51275,
+          "讅": 0
+        },
+        "total_all_forms": 55423
+      }
+    },
+    {
+      "simplified": "家",
+      "traditional": [
+        "家",
+        "傢"
+      ],
+      "hans": {
+        "simplified_count": 528289,
+        "traditional_counts": {
+          "家": 528289,
+          "傢": 0
+        },
+        "total_all_forms": 1056578
+      },
+      "hant": {
+        "simplified_count": 739157,
+        "traditional_counts": {
+          "家": 739157,
+          "傢": 1094
+        },
+        "total_all_forms": 1479408
+      }
+    },
+    {
+      "simplified": "尽",
+      "traditional": [
+        "盡",
+        "儘"
+      ],
+      "hans": {
+        "simplified_count": 38568,
+        "traditional_counts": {
+          "盡": 0,
+          "儘": 0
+        },
+        "total_all_forms": 38568
+      },
+      "hant": {
+        "simplified_count": 5222,
+        "traditional_counts": {
+          "盡": 26776,
+          "儘": 22034
+        },
+        "total_all_forms": 54032
+      }
+    },
+    {
+      "simplified": "局",
+      "traditional": [
+        "局",
+        "侷"
+      ],
+      "hans": {
+        "simplified_count": 159301,
+        "traditional_counts": {
+          "局": 159301,
+          "侷": 0
+        },
+        "total_all_forms": 318602
+      },
+      "hant": {
+        "simplified_count": 207866,
+        "traditional_counts": {
+          "局": 207866,
+          "侷": 797
+        },
+        "total_all_forms": 416529
+      }
+    },
+    {
+      "simplified": "岭",
+      "traditional": [
+        "岭",
+        "嶺"
+      ],
+      "hans": {
+        "simplified_count": 20296,
+        "traditional_counts": {
+          "岭": 20296,
+          "嶺": 0
+        },
+        "total_all_forms": 40592
+      },
+      "hant": {
+        "simplified_count": 2311,
+        "traditional_counts": {
+          "岭": 2311,
+          "嶺": 18818
+        },
+        "total_all_forms": 23440
+      }
+    },
+    {
+      "simplified": "岳",
+      "traditional": [
+        "岳",
+        "嶽"
+      ],
+      "hans": {
+        "simplified_count": 13983,
+        "traditional_counts": {
+          "岳": 13983,
+          "嶽": 0
+        },
+        "total_all_forms": 27966
+      },
+      "hant": {
+        "simplified_count": 15111,
+        "traditional_counts": {
+          "岳": 15111,
+          "嶽": 2705
+        },
+        "total_all_forms": 32927
+      }
+    },
+    {
+      "simplified": "布",
+      "traditional": [
+        "布",
+        "佈"
+      ],
+      "hans": {
+        "simplified_count": 277956,
+        "traditional_counts": {
+          "布": 277956,
+          "佈": 0
+        },
+        "total_all_forms": 555912
+      },
+      "hant": {
+        "simplified_count": 267218,
+        "traditional_counts": {
+          "布": 267218,
+          "佈": 63876
+        },
+        "total_all_forms": 598312
+      }
+    },
+    {
+      "simplified": "帆",
+      "traditional": [
+        "帆",
+        "颿"
+      ],
+      "hans": {
+        "simplified_count": 6290,
+        "traditional_counts": {
+          "帆": 6290,
+          "颿": 3
+        },
+        "total_all_forms": 12583
+      },
+      "hant": {
+        "simplified_count": 7170,
+        "traditional_counts": {
+          "帆": 7170,
+          "颿": 5
+        },
+        "total_all_forms": 14345
+      }
+    },
+    {
+      "simplified": "帘",
+      "traditional": [
+        "帘",
+        "簾"
+      ],
+      "hans": {
+        "simplified_count": 866,
+        "traditional_counts": {
+          "帘": 866,
+          "簾": 0
+        },
+        "total_all_forms": 1732
+      },
+      "hant": {
+        "simplified_count": 197,
+        "traditional_counts": {
+          "帘": 197,
+          "簾": 1247
+        },
+        "total_all_forms": 1641
+      }
+    },
+    {
+      "simplified": "广",
+      "traditional": [
+        "广",
+        "廣"
+      ],
+      "hans": {
+        "simplified_count": 191432,
+        "traditional_counts": {
+          "广": 191432,
+          "廣": 0
+        },
+        "total_all_forms": 382864
+      },
+      "hant": {
+        "simplified_count": 31146,
+        "traditional_counts": {
+          "广": 31146,
+          "廣": 192642
+        },
+        "total_all_forms": 254934
+      }
+    },
+    {
+      "simplified": "庄",
+      "traditional": [
+        "庄",
+        "莊"
+      ],
+      "hans": {
+        "simplified_count": 42960,
+        "traditional_counts": {
+          "庄": 42960,
+          "莊": 0
+        },
+        "total_all_forms": 85920
+      },
+      "hant": {
+        "simplified_count": 54802,
+        "traditional_counts": {
+          "庄": 54802,
+          "莊": 47157
+        },
+        "total_all_forms": 156761
+      }
+    },
+    {
+      "simplified": "庞",
+      "traditional": [
+        "龐",
+        "厖"
+      ],
+      "hans": {
+        "simplified_count": 6630,
+        "traditional_counts": {
+          "龐": 0,
+          "厖": 13
+        },
+        "total_all_forms": 6643
+      },
+      "hant": {
+        "simplified_count": 1121,
+        "traditional_counts": {
+          "龐": 10731,
+          "厖": 23
+        },
+        "total_all_forms": 11875
+      }
+    },
+    {
+      "simplified": "弥",
+      "traditional": [
+        "彌",
+        "瀰"
+      ],
+      "hans": {
+        "simplified_count": 7433,
+        "traditional_counts": {
+          "彌": 0,
+          "瀰": 0
+        },
+        "total_all_forms": 7433
+      },
+      "hant": {
+        "simplified_count": 2025,
+        "traditional_counts": {
+          "彌": 15428,
+          "瀰": 463
+        },
+        "total_all_forms": 17916
+      }
+    },
+    {
+      "simplified": "弦",
+      "traditional": [
+        "弦",
+        "絃"
+      ],
+      "hans": {
+        "simplified_count": 6413,
+        "traditional_counts": {
+          "弦": 6413,
+          "絃": 0
+        },
+        "total_all_forms": 12826
+      },
+      "hant": {
+        "simplified_count": 9793,
+        "traditional_counts": {
+          "弦": 9793,
+          "絃": 1238
+        },
+        "total_all_forms": 20824
+      }
+    },
+    {
+      "simplified": "当",
+      "traditional": [
+        "當",
+        "噹"
+      ],
+      "hans": {
+        "simplified_count": 248788,
+        "traditional_counts": {
+          "當": 0,
+          "噹": 0
+        },
+        "total_all_forms": 248788
+      },
+      "hant": {
+        "simplified_count": 34476,
+        "traditional_counts": {
+          "當": 434322,
+          "噹": 791
+        },
+        "total_all_forms": 469589
+      }
+    },
+    {
+      "simplified": "录",
+      "traditional": [
+        "彔",
+        "錄"
+      ],
+      "hans": {
+        "simplified_count": 60644,
+        "traditional_counts": {
+          "彔": 0,
+          "錄": 0
+        },
+        "total_all_forms": 60644
+      },
+      "hant": {
+        "simplified_count": 10136,
+        "traditional_counts": {
+          "彔": 53,
+          "錄": 115292
+        },
+        "total_all_forms": 125481
+      }
+    },
+    {
+      "simplified": "彩",
+      "traditional": [
+        "彩",
+        "綵"
+      ],
+      "hans": {
+        "simplified_count": 15328,
+        "traditional_counts": {
+          "彩": 15328,
+          "綵": 0
+        },
+        "total_all_forms": 30656
+      },
+      "hant": {
+        "simplified_count": 33299,
+        "traditional_counts": {
+          "彩": 33299,
+          "綵": 773
+        },
+        "total_all_forms": 67371
+      }
+    },
+    {
+      "simplified": "御",
+      "traditional": [
+        "御",
+        "禦"
+      ],
+      "hans": {
+        "simplified_count": 24472,
+        "traditional_counts": {
+          "御": 24472,
+          "禦": 0
+        },
+        "total_all_forms": 48944
+      },
+      "hant": {
+        "simplified_count": 41194,
+        "traditional_counts": {
+          "御": 41194,
+          "禦": 11477
+        },
+        "total_all_forms": 93865
+      }
+    },
+    {
+      "simplified": "忏",
+      "traditional": [
+        "忏",
+        "懺"
+      ],
+      "hans": {
+        "simplified_count": 621,
+        "traditional_counts": {
+          "忏": 621,
+          "懺": 0
+        },
+        "total_all_forms": 1242
+      },
+      "hant": {
+        "simplified_count": 130,
+        "traditional_counts": {
+          "忏": 130,
+          "懺": 1095
+        },
+        "total_all_forms": 1355
+      }
+    },
+    {
+      "simplified": "志",
+      "traditional": [
+        "志",
+        "誌"
+      ],
+      "hans": {
+        "simplified_count": 79837,
+        "traditional_counts": {
+          "志": 79837,
+          "誌": 0
+        },
+        "total_all_forms": 159674
+      },
+      "hant": {
+        "simplified_count": 101900,
+        "traditional_counts": {
+          "志": 101900,
+          "誌": 32870
+        },
+        "total_all_forms": 236670
+      }
+    },
+    {
+      "simplified": "怀",
+      "traditional": [
+        "怀",
+        "懷"
+      ],
+      "hans": {
+        "simplified_count": 26035,
+        "traditional_counts": {
+          "怀": 26035,
+          "懷": 0
+        },
+        "total_all_forms": 52070
+      },
+      "hant": {
+        "simplified_count": 4418,
+        "traditional_counts": {
+          "怀": 4418,
+          "懷": 37154
+        },
+        "total_all_forms": 45990
+      }
+    },
+    {
+      "simplified": "怜",
+      "traditional": [
+        "怜",
+        "憐"
+      ],
+      "hans": {
+        "simplified_count": 1326,
+        "traditional_counts": {
+          "怜": 1326,
+          "憐": 0
+        },
+        "total_all_forms": 2652
+      },
+      "hant": {
+        "simplified_count": 699,
+        "traditional_counts": {
+          "怜": 699,
+          "憐": 2319
+        },
+        "total_all_forms": 3717
+      }
+    },
+    {
+      "simplified": "惊",
+      "traditional": [
+        "惊",
+        "驚"
+      ],
+      "hans": {
+        "simplified_count": 8656,
+        "traditional_counts": {
+          "惊": 8656,
+          "驚": 0
+        },
+        "total_all_forms": 17312
+      },
+      "hant": {
+        "simplified_count": 1456,
+        "traditional_counts": {
+          "惊": 1456,
+          "驚": 18227
+        },
+        "total_all_forms": 21139
+      }
+    },
+    {
+      "simplified": "愿",
+      "traditional": [
+        "愿",
+        "願"
+      ],
+      "hans": {
+        "simplified_count": 22124,
+        "traditional_counts": {
+          "愿": 22124,
+          "願": 0
+        },
+        "total_all_forms": 44248
+      },
+      "hant": {
+        "simplified_count": 3593,
+        "traditional_counts": {
+          "愿": 3593,
+          "願": 38995
+        },
+        "total_all_forms": 46181
+      }
+    },
+    {
+      "simplified": "才",
+      "traditional": [
+        "才",
+        "纔"
+      ],
+      "hans": {
+        "simplified_count": 52696,
+        "traditional_counts": {
+          "才": 52696,
+          "纔": 0
+        },
+        "total_all_forms": 105392
+      },
+      "hant": {
+        "simplified_count": 106036,
+        "traditional_counts": {
+          "才": 106036,
+          "纔": 104
+        },
+        "total_all_forms": 212176
+      }
+    },
+    {
+      "simplified": "扎",
+      "traditional": [
+        "扎",
+        "紮"
+      ],
+      "hans": {
+        "simplified_count": 27666,
+        "traditional_counts": {
+          "扎": 27666,
+          "紮": 0
+        },
+        "total_all_forms": 55332
+      },
+      "hant": {
+        "simplified_count": 20471,
+        "traditional_counts": {
+          "扎": 20471,
+          "紮": 4320
+        },
+        "total_all_forms": 45262
+      }
+    },
+    {
+      "simplified": "扑",
+      "traditional": [
+        "扑",
+        "撲"
+      ],
+      "hans": {
+        "simplified_count": 4204,
+        "traditional_counts": {
+          "扑": 4204,
+          "撲": 0
+        },
+        "total_all_forms": 8408
+      },
+      "hant": {
+        "simplified_count": 701,
+        "traditional_counts": {
+          "扑": 701,
+          "撲": 6866
+        },
+        "total_all_forms": 8268
+      }
+    },
+    {
+      "simplified": "托",
+      "traditional": [
+        "托",
+        "託"
+      ],
+      "hans": {
+        "simplified_count": 74586,
+        "traditional_counts": {
+          "托": 74586,
+          "託": 0
+        },
+        "total_all_forms": 149172
+      },
+      "hant": {
+        "simplified_count": 76449,
+        "traditional_counts": {
+          "托": 76449,
+          "託": 18555
+        },
+        "total_all_forms": 171453
+      }
+    },
+    {
+      "simplified": "扰",
+      "traditional": [
+        "扰",
+        "擾"
+      ],
+      "hans": {
+        "simplified_count": 8178,
+        "traditional_counts": {
+          "扰": 8178,
+          "擾": 0
+        },
+        "total_all_forms": 16356
+      },
+      "hant": {
+        "simplified_count": 1124,
+        "traditional_counts": {
+          "扰": 1124,
+          "擾": 14728
+        },
+        "total_all_forms": 16976
+      }
+    },
+    {
+      "simplified": "折",
+      "traditional": [
+        "折",
+        "摺"
+      ],
+      "hans": {
+        "simplified_count": 13236,
+        "traditional_counts": {
+          "折": 13236,
+          "摺": 0
+        },
+        "total_all_forms": 26472
+      },
+      "hant": {
+        "simplified_count": 19149,
+        "traditional_counts": {
+          "折": 19149,
+          "摺": 2570
+        },
+        "total_all_forms": 40868
+      }
+    },
+    {
+      "simplified": "拐",
+      "traditional": [
+        "拐",
+        "枴"
+      ],
+      "hans": {
+        "simplified_count": 1287,
+        "traditional_counts": {
+          "拐": 1287,
+          "枴": 0
+        },
+        "total_all_forms": 2574
+      },
+      "hant": {
+        "simplified_count": 1685,
+        "traditional_counts": {
+          "拐": 1685,
+          "枴": 35
+        },
+        "total_all_forms": 3405
+      }
+    },
+    {
+      "simplified": "挂",
+      "traditional": [
+        "挂",
+        "掛"
+      ],
+      "hans": {
+        "simplified_count": 12199,
+        "traditional_counts": {
+          "挂": 12199,
+          "掛": 0
+        },
+        "total_all_forms": 24398
+      },
+      "hant": {
+        "simplified_count": 1290,
+        "traditional_counts": {
+          "挂": 1290,
+          "掛": 13364
+        },
+        "total_all_forms": 15944
+      }
+    },
+    {
+      "simplified": "挨",
+      "traditional": [
+        "挨",
+        "捱"
+      ],
+      "hans": {
+        "simplified_count": 614,
+        "traditional_counts": {
+          "挨": 614,
+          "捱": 0
+        },
+        "total_all_forms": 1228
+      },
+      "hant": {
+        "simplified_count": 747,
+        "traditional_counts": {
+          "挨": 747,
+          "捱": 165
+        },
+        "total_all_forms": 1659
+      }
+    },
+    {
+      "simplified": "据",
+      "traditional": [
+        "据",
+        "據"
+      ],
+      "hans": {
+        "simplified_count": 122666,
+        "traditional_counts": {
+          "据": 122666,
+          "據": 0
+        },
+        "total_all_forms": 245332
+      },
+      "hant": {
+        "simplified_count": 16795,
+        "traditional_counts": {
+          "据": 16795,
+          "據": 127949
+        },
+        "total_all_forms": 161539
+      }
+    },
+    {
+      "simplified": "摆",
+      "traditional": [
+        "擺",
+        "襬"
+      ],
+      "hans": {
+        "simplified_count": 5567,
+        "traditional_counts": {
+          "擺": 0,
+          "襬": 0
+        },
+        "total_all_forms": 5567
+      },
+      "hant": {
+        "simplified_count": 814,
+        "traditional_counts": {
+          "擺": 9750,
+          "襬": 114
+        },
+        "total_all_forms": 10678
+      }
+    },
+    {
+      "simplified": "斗",
+      "traditional": [
+        "斗",
+        "鬥"
+      ],
+      "hans": {
+        "simplified_count": 43632,
+        "traditional_counts": {
+          "斗": 43632,
+          "鬥": 0
+        },
+        "total_all_forms": 87264
+      },
+      "hant": {
+        "simplified_count": 22691,
+        "traditional_counts": {
+          "斗": 22691,
+          "鬥": 64660
+        },
+        "total_all_forms": 110042
+      }
+    },
+    {
+      "simplified": "旋",
+      "traditional": [
+        "旋",
+        "鏇"
+      ],
+      "hans": {
+        "simplified_count": 19331,
+        "traditional_counts": {
+          "旋": 19331,
+          "鏇": 0
+        },
+        "total_all_forms": 38662
+      },
+      "hant": {
+        "simplified_count": 38394,
+        "traditional_counts": {
+          "旋": 38394,
+          "鏇": 102
+        },
+        "total_all_forms": 76890
+      }
+    },
+    {
+      "simplified": "昆",
+      "traditional": [
+        "昆",
+        "崑"
+      ],
+      "hans": {
+        "simplified_count": 20259,
+        "traditional_counts": {
+          "昆": 20259,
+          "崑": 0
+        },
+        "total_all_forms": 40518
+      },
+      "hant": {
+        "simplified_count": 15776,
+        "traditional_counts": {
+          "昆": 15776,
+          "崑": 3719
+        },
+        "total_all_forms": 35271
+      }
+    },
+    {
+      "simplified": "曲",
+      "traditional": [
+        "曲",
+        "麯"
+      ],
+      "hans": {
+        "simplified_count": 76804,
+        "traditional_counts": {
+          "曲": 76804,
+          "麯": 0
+        },
+        "total_all_forms": 153608
+      },
+      "hant": {
+        "simplified_count": 196535,
+        "traditional_counts": {
+          "曲": 196535,
+          "麯": 49
+        },
+        "total_all_forms": 393119
+      }
+    },
+    {
+      "simplified": "术",
+      "traditional": [
+        "术",
+        "術"
+      ],
+      "hans": {
+        "simplified_count": 140315,
+        "traditional_counts": {
+          "术": 140315,
+          "術": 0
+        },
+        "total_all_forms": 280630
+      },
+      "hant": {
+        "simplified_count": 16485,
+        "traditional_counts": {
+          "术": 16485,
+          "術": 165426
+        },
+        "total_all_forms": 198396
+      }
+    },
+    {
+      "simplified": "朱",
+      "traditional": [
+        "朱",
+        "硃"
+      ],
+      "hans": {
+        "simplified_count": 40950,
+        "traditional_counts": {
+          "朱": 40950,
+          "硃": 0
+        },
+        "total_all_forms": 81900
+      },
+      "hant": {
+        "simplified_count": 61820,
+        "traditional_counts": {
+          "朱": 61820,
+          "硃": 206
+        },
+        "total_all_forms": 123846
+      }
+    },
+    {
+      "simplified": "朴",
+      "traditional": [
+        "朴",
+        "樸"
+      ],
+      "hans": {
+        "simplified_count": 7415,
+        "traditional_counts": {
+          "朴": 7415,
+          "樸": 0
+        },
+        "total_all_forms": 14830
+      },
+      "hant": {
+        "simplified_count": 9697,
+        "traditional_counts": {
+          "朴": 9697,
+          "樸": 4273
+        },
+        "total_all_forms": 23667
+      }
+    },
+    {
+      "simplified": "机",
+      "traditional": [
+        "机",
+        "機"
+      ],
+      "hans": {
+        "simplified_count": 270769,
+        "traditional_counts": {
+          "机": 270769,
+          "機": 0
+        },
+        "total_all_forms": 541538
+      },
+      "hant": {
+        "simplified_count": 35653,
+        "traditional_counts": {
+          "机": 35653,
+          "機": 340237
+        },
+        "total_all_forms": 411543
+      }
+    },
+    {
+      "simplified": "杆",
+      "traditional": [
+        "杆",
+        "桿"
+      ],
+      "hans": {
+        "simplified_count": 7884,
+        "traditional_counts": {
+          "杆": 7884,
+          "桿": 0
+        },
+        "total_all_forms": 15768
+      },
+      "hant": {
+        "simplified_count": 3437,
+        "traditional_counts": {
+          "杆": 3437,
+          "桿": 7038
+        },
+        "total_all_forms": 13912
+      }
+    },
+    {
+      "simplified": "杯",
+      "traditional": [
+        "杯",
+        "盃"
+      ],
+      "hans": {
+        "simplified_count": 22854,
+        "traditional_counts": {
+          "杯": 22854,
+          "盃": 0
+        },
+        "total_all_forms": 45708
+      },
+      "hant": {
+        "simplified_count": 15139,
+        "traditional_counts": {
+          "杯": 15139,
+          "盃": 48008
+        },
+        "total_all_forms": 78286
+      }
+    },
+    {
+      "simplified": "松",
+      "traditional": [
+        "松",
+        "鬆"
+      ],
+      "hans": {
+        "simplified_count": 42007,
+        "traditional_counts": {
+          "松": 42007,
+          "鬆": 0
+        },
+        "total_all_forms": 84014
+      },
+      "hant": {
+        "simplified_count": 70800,
+        "traditional_counts": {
+          "松": 70800,
+          "鬆": 8083
+        },
+        "total_all_forms": 149683
+      }
+    },
+    {
+      "simplified": "板",
+      "traditional": [
+        "板",
+        "闆"
+      ],
+      "hans": {
+        "simplified_count": 27831,
+        "traditional_counts": {
+          "板": 27831,
+          "闆": 0
+        },
+        "total_all_forms": 55662
+      },
+      "hant": {
+        "simplified_count": 44217,
+        "traditional_counts": {
+          "板": 44217,
+          "闆": 6124
+        },
+        "total_all_forms": 94558
+      }
+    },
+    {
+      "simplified": "极",
+      "traditional": [
+        "极",
+        "極"
+      ],
+      "hans": {
+        "simplified_count": 53555,
+        "traditional_counts": {
+          "极": 53555,
+          "極": 0
+        },
+        "total_all_forms": 107110
+      },
+      "hant": {
+        "simplified_count": 8667,
+        "traditional_counts": {
+          "极": 8667,
+          "極": 99888
+        },
+        "total_all_forms": 117222
+      }
+    },
+    {
+      "simplified": "柜",
+      "traditional": [
+        "柜",
+        "櫃"
+      ],
+      "hans": {
+        "simplified_count": 2207,
+        "traditional_counts": {
+          "柜": 2207,
+          "櫃": 0
+        },
+        "total_all_forms": 4414
+      },
+      "hant": {
+        "simplified_count": 310,
+        "traditional_counts": {
+          "柜": 310,
+          "櫃": 7124
+        },
+        "total_all_forms": 7744
+      }
+    },
+    {
+      "simplified": "栗",
+      "traditional": [
+        "栗",
+        "慄"
+      ],
+      "hans": {
+        "simplified_count": 2701,
+        "traditional_counts": {
+          "栗": 2701,
+          "慄": 0
+        },
+        "total_all_forms": 5402
+      },
+      "hant": {
+        "simplified_count": 12788,
+        "traditional_counts": {
+          "栗": 12788,
+          "慄": 672
+        },
+        "total_all_forms": 26248
+      }
+    },
+    {
+      "simplified": "梁",
+      "traditional": [
+        "梁",
+        "樑"
+      ],
+      "hans": {
+        "simplified_count": 35426,
+        "traditional_counts": {
+          "梁": 35426,
+          "樑": 0
+        },
+        "total_all_forms": 70852
+      },
+      "hant": {
+        "simplified_count": 45863,
+        "traditional_counts": {
+          "梁": 45863,
+          "樑": 6744
+        },
+        "total_all_forms": 98470
+      }
+    },
+    {
+      "simplified": "欣",
+      "traditional": [
+        "欣",
+        "訢"
+      ],
+      "hans": {
+        "simplified_count": 7167,
+        "traditional_counts": {
+          "欣": 7167,
+          "訢": 0
+        },
+        "total_all_forms": 14334
+      },
+      "hant": {
+        "simplified_count": 17339,
+        "traditional_counts": {
+          "欣": 17339,
+          "訢": 486
+        },
+        "total_all_forms": 35164
+      }
+    },
+    {
+      "simplified": "欲",
+      "traditional": [
+        "欲",
+        "慾"
+      ],
+      "hans": {
+        "simplified_count": 6870,
+        "traditional_counts": {
+          "欲": 6870,
+          "慾": 0
+        },
+        "total_all_forms": 13740
+      },
+      "hant": {
+        "simplified_count": 14977,
+        "traditional_counts": {
+          "欲": 14977,
+          "慾": 4273
+        },
+        "total_all_forms": 34227
+      }
+    },
+    {
+      "simplified": "汇",
+      "traditional": [
+        "匯",
+        "彙"
+      ],
+      "hans": {
+        "simplified_count": 25253,
+        "traditional_counts": {
+          "匯": 0,
+          "彙": 0
+        },
+        "total_all_forms": 25253
+      },
+      "hant": {
+        "simplified_count": 2898,
+        "traditional_counts": {
+          "匯": 20534,
+          "彙": 5399
+        },
+        "total_all_forms": 28831
+      }
+    },
+    {
+      "simplified": "沈",
+      "traditional": [
+        "沈",
+        "瀋"
+      ],
+      "hans": {
+        "simplified_count": 24177,
+        "traditional_counts": {
+          "沈": 24177,
+          "瀋": 0
+        },
+        "total_all_forms": 48354
+      },
+      "hant": {
+        "simplified_count": 18619,
+        "traditional_counts": {
+          "沈": 18619,
+          "瀋": 1932
+        },
+        "total_all_forms": 39170
+      }
+    },
+    {
+      "simplified": "泞",
+      "traditional": [
+        "泞",
+        "濘"
+      ],
+      "hans": {
+        "simplified_count": 167,
+        "traditional_counts": {
+          "泞": 167,
+          "濘": 0
+        },
+        "total_all_forms": 334
+      },
+      "hant": {
+        "simplified_count": 15,
+        "traditional_counts": {
+          "泞": 15,
+          "濘": 293
+        },
+        "total_all_forms": 323
+      }
+    },
+    {
+      "simplified": "注",
+      "traditional": [
+        "注",
+        "註"
+      ],
+      "hans": {
+        "simplified_count": 46085,
+        "traditional_counts": {
+          "注": 46085,
+          "註": 0
+        },
+        "total_all_forms": 92170
+      },
+      "hant": {
+        "simplified_count": 56491,
+        "traditional_counts": {
+          "注": 56491,
+          "註": 15803
+        },
+        "total_all_forms": 128785
+      }
+    },
+    {
+      "simplified": "洁",
+      "traditional": [
+        "洁",
+        "潔"
+      ],
+      "hans": {
+        "simplified_count": 7181,
+        "traditional_counts": {
+          "洁": 7181,
+          "潔": 0
+        },
+        "total_all_forms": 14362
+      },
+      "hant": {
+        "simplified_count": 1196,
+        "traditional_counts": {
+          "洁": 1196,
+          "潔": 15995
+        },
+        "total_all_forms": 18387
+      }
+    },
+    {
+      "simplified": "洒",
+      "traditional": [
+        "洒",
+        "灑"
+      ],
+      "hans": {
+        "simplified_count": 1086,
+        "traditional_counts": {
+          "洒": 1086,
+          "灑": 0
+        },
+        "total_all_forms": 2172
+      },
+      "hant": {
+        "simplified_count": 304,
+        "traditional_counts": {
+          "洒": 304,
+          "灑": 2147
+        },
+        "total_all_forms": 2755
+      }
+    },
+    {
+      "simplified": "洼",
+      "traditional": [
+        "洼",
+        "窪"
+      ],
+      "hans": {
+        "simplified_count": 2441,
+        "traditional_counts": {
+          "洼": 2441,
+          "窪": 0
+        },
+        "total_all_forms": 4882
+      },
+      "hant": {
+        "simplified_count": 192,
+        "traditional_counts": {
+          "洼": 192,
+          "窪": 1775
+        },
+        "total_all_forms": 2159
+      }
+    },
+    {
+      "simplified": "涂",
+      "traditional": [
+        "涂",
+        "塗"
+      ],
+      "hans": {
+        "simplified_count": 5828,
+        "traditional_counts": {
+          "涂": 5828,
+          "塗": 0
+        },
+        "total_all_forms": 11656
+      },
+      "hant": {
+        "simplified_count": 1922,
+        "traditional_counts": {
+          "涂": 1922,
+          "塗": 7486
+        },
+        "total_all_forms": 11330
+      }
+    },
+    {
+      "simplified": "涌",
+      "traditional": [
+        "涌",
+        "湧"
+      ],
+      "hans": {
+        "simplified_count": 4206,
+        "traditional_counts": {
+          "涌": 4206,
+          "湧": 0
+        },
+        "total_all_forms": 8412
+      },
+      "hant": {
+        "simplified_count": 9206,
+        "traditional_counts": {
+          "涌": 9206,
+          "湧": 4875
+        },
+        "total_all_forms": 23287
+      }
+    },
+    {
+      "simplified": "淀",
+      "traditional": [
+        "淀",
+        "澱"
+      ],
+      "hans": {
+        "simplified_count": 3815,
+        "traditional_counts": {
+          "淀": 3815,
+          "澱": 0
+        },
+        "total_all_forms": 7630
+      },
+      "hant": {
+        "simplified_count": 1653,
+        "traditional_counts": {
+          "淀": 1653,
+          "澱": 1495
+        },
+        "total_all_forms": 4801
+      }
+    },
+    {
+      "simplified": "游",
+      "traditional": [
+        "游",
+        "遊"
+      ],
+      "hans": {
+        "simplified_count": 104912,
+        "traditional_counts": {
+          "游": 104912,
+          "遊": 0
+        },
+        "total_all_forms": 209824
+      },
+      "hant": {
+        "simplified_count": 45635,
+        "traditional_counts": {
+          "游": 45635,
+          "遊": 119828
+        },
+        "total_all_forms": 211098
+      }
+    },
+    {
+      "simplified": "湿",
+      "traditional": [
+        "濕",
+        "溼"
+      ],
+      "hans": {
+        "simplified_count": 10505,
+        "traditional_counts": {
+          "濕": 0,
+          "溼": 0
+        },
+        "total_all_forms": 10505
+      },
+      "hant": {
+        "simplified_count": 1128,
+        "traditional_counts": {
+          "濕": 8709,
+          "溼": 842
+        },
+        "total_all_forms": 10679
+      }
+    },
+    {
+      "simplified": "漓",
+      "traditional": [
+        "漓",
+        "灕"
+      ],
+      "hans": {
+        "simplified_count": 495,
+        "traditional_counts": {
+          "漓": 495,
+          "灕": 0
+        },
+        "total_all_forms": 990
+      },
+      "hant": {
+        "simplified_count": 272,
+        "traditional_counts": {
+          "漓": 272,
+          "灕": 38
+        },
+        "total_all_forms": 582
+      }
+    },
+    {
+      "simplified": "烟",
+      "traditional": [
+        "煙",
+        "菸"
+      ],
+      "hans": {
+        "simplified_count": 14389,
+        "traditional_counts": {
+          "煙": 0,
+          "菸": 0
+        },
+        "total_all_forms": 14389
+      },
+      "hant": {
+        "simplified_count": 2110,
+        "traditional_counts": {
+          "煙": 15821,
+          "菸": 4035
+        },
+        "total_all_forms": 21966
+      }
+    },
+    {
+      "simplified": "症",
+      "traditional": [
+        "症",
+        "癥"
+      ],
+      "hans": {
+        "simplified_count": 22773,
+        "traditional_counts": {
+          "症": 22773,
+          "癥": 0
+        },
+        "total_all_forms": 45546
+      },
+      "hant": {
+        "simplified_count": 29258,
+        "traditional_counts": {
+          "症": 29258,
+          "癥": 213
+        },
+        "total_all_forms": 58729
+      }
+    },
+    {
+      "simplified": "痒",
+      "traditional": [
+        "痒",
+        "癢"
+      ],
+      "hans": {
+        "simplified_count": 331,
+        "traditional_counts": {
+          "痒": 331,
+          "癢": 0
+        },
+        "total_all_forms": 662
+      },
+      "hant": {
+        "simplified_count": 138,
+        "traditional_counts": {
+          "痒": 138,
+          "癢": 638
+        },
+        "total_all_forms": 914
+      }
+    },
+    {
+      "simplified": "眯",
+      "traditional": [
+        "眯",
+        "瞇"
+      ],
+      "hans": {
+        "simplified_count": 56,
+        "traditional_counts": {
+          "眯": 56,
+          "瞇": 0
+        },
+        "total_all_forms": 112
+      },
+      "hant": {
+        "simplified_count": 45,
+        "traditional_counts": {
+          "眯": 45,
+          "瞇": 164
+        },
+        "total_all_forms": 254
+      }
+    },
+    {
+      "simplified": "确",
+      "traditional": [
+        "确",
+        "確"
+      ],
+      "hans": {
+        "simplified_count": 76890,
+        "traditional_counts": {
+          "确": 76890,
+          "確": 0
+        },
+        "total_all_forms": 153780
+      },
+      "hant": {
+        "simplified_count": 7153,
+        "traditional_counts": {
+          "确": 7153,
+          "確": 71398
+        },
+        "total_all_forms": 85704
+      }
+    },
+    {
+      "simplified": "离",
+      "traditional": [
+        "离",
+        "離"
+      ],
+      "hans": {
+        "simplified_count": 93501,
+        "traditional_counts": {
+          "离": 93501,
+          "離": 0
+        },
+        "total_all_forms": 187002
+      },
+      "hant": {
+        "simplified_count": 11889,
+        "traditional_counts": {
+          "离": 11889,
+          "離": 135983
+        },
+        "total_all_forms": 159761
+      }
+    },
+    {
+      "simplified": "秃",
+      "traditional": [
+        "禿",
+        "鵚"
+      ],
+      "hans": {
+        "simplified_count": 2084,
+        "traditional_counts": {
+          "禿": 0,
+          "鵚": 0
+        },
+        "total_all_forms": 2084
+      },
+      "hant": {
+        "simplified_count": 404,
+        "traditional_counts": {
+          "禿": 1633,
+          "鵚": 0
+        },
+        "total_all_forms": 2037
+      }
+    },
+    {
+      "simplified": "秋",
+      "traditional": [
+        "秋",
+        "鞦"
+      ],
+      "hans": {
+        "simplified_count": 26277,
+        "traditional_counts": {
+          "秋": 26277,
+          "鞦": 0
+        },
+        "total_all_forms": 52554
+      },
+      "hant": {
+        "simplified_count": 43460,
+        "traditional_counts": {
+          "秋": 43460,
+          "鞦": 242
+        },
+        "total_all_forms": 87162
+      }
+    },
+    {
+      "simplified": "种",
+      "traditional": [
+        "种",
+        "種"
+      ],
+      "hans": {
+        "simplified_count": 258420,
+        "traditional_counts": {
+          "种": 258420,
+          "種": 0
+        },
+        "total_all_forms": 516840
+      },
+      "hant": {
+        "simplified_count": 37848,
+        "traditional_counts": {
+          "种": 37848,
+          "種": 271776
+        },
+        "total_all_forms": 347472
+      }
+    },
+    {
+      "simplified": "稗",
+      "traditional": [
+        "稗",
+        "粺"
+      ],
+      "hans": {
+        "simplified_count": 256,
+        "traditional_counts": {
+          "稗": 256,
+          "粺": 0
+        },
+        "total_all_forms": 512
+      },
+      "hant": {
+        "simplified_count": 394,
+        "traditional_counts": {
+          "稗": 394,
+          "粺": 3
+        },
+        "total_all_forms": 791
+      }
+    },
+    {
+      "simplified": "筑",
+      "traditional": [
+        "筑",
+        "築"
+      ],
+      "hans": {
+        "simplified_count": 84474,
+        "traditional_counts": {
+          "筑": 84474,
+          "築": 0
+        },
+        "total_all_forms": 168948
+      },
+      "hant": {
+        "simplified_count": 11575,
+        "traditional_counts": {
+          "筑": 11575,
+          "築": 73326
+        },
+        "total_all_forms": 96476
+      }
+    },
+    {
+      "simplified": "签",
+      "traditional": [
+        "簽",
+        "籤"
+      ],
+      "hans": {
+        "simplified_count": 34228,
+        "traditional_counts": {
+          "簽": 0,
+          "籤": 0
+        },
+        "total_all_forms": 34228
+      },
+      "hant": {
+        "simplified_count": 5985,
+        "traditional_counts": {
+          "簽": 41832,
+          "籤": 6181
+        },
+        "total_all_forms": 53998
+      }
+    },
+    {
+      "simplified": "篱",
+      "traditional": [
+        "篱",
+        "籬"
+      ],
+      "hans": {
+        "simplified_count": 419,
+        "traditional_counts": {
+          "篱": 419,
+          "籬": 0
+        },
+        "total_all_forms": 838
+      },
+      "hant": {
+        "simplified_count": 78,
+        "traditional_counts": {
+          "篱": 78,
+          "籬": 1471
+        },
+        "total_all_forms": 1627
+      }
+    },
+    {
+      "simplified": "糊",
+      "traditional": [
+        "糊",
+        "餬"
+      ],
+      "hans": {
+        "simplified_count": 3044,
+        "traditional_counts": {
+          "糊": 3044,
+          "餬": 0
+        },
+        "total_all_forms": 6088
+      },
+      "hant": {
+        "simplified_count": 5010,
+        "traditional_counts": {
+          "糊": 5010,
+          "餬": 69
+        },
+        "total_all_forms": 10089
+      }
+    },
+    {
+      "simplified": "累",
+      "traditional": [
+        "累",
+        "纍"
+      ],
+      "hans": {
+        "simplified_count": 13582,
+        "traditional_counts": {
+          "累": 13582,
+          "纍": 0
+        },
+        "total_all_forms": 27164
+      },
+      "hant": {
+        "simplified_count": 16533,
+        "traditional_counts": {
+          "累": 16533,
+          "纍": 197
+        },
+        "total_all_forms": 33263
+      }
+    },
+    {
+      "simplified": "纤",
+      "traditional": [
+        "縴",
+        "纖"
+      ],
+      "hans": {
+        "simplified_count": 5234,
+        "traditional_counts": {
+          "縴": 0,
+          "纖": 0
+        },
+        "total_all_forms": 5234
+      },
+      "hant": {
+        "simplified_count": 817,
+        "traditional_counts": {
+          "縴": 38,
+          "纖": 5614
+        },
+        "total_all_forms": 6469
+      }
+    },
+    {
+      "simplified": "罔",
+      "traditional": [
+        "罔",
+        "網"
+      ],
+      "hans": {
+        "simplified_count": 361,
+        "traditional_counts": {
+          "罔": 361,
+          "網": 0
+        },
+        "total_all_forms": 722
+      },
+      "hant": {
+        "simplified_count": 861,
+        "traditional_counts": {
+          "罔": 861,
+          "網": 117331
+        },
+        "total_all_forms": 119053
+      }
+    },
+    {
+      "simplified": "翳",
+      "traditional": [
+        "翳",
+        "瞖"
+      ],
+      "hans": {
+        "simplified_count": 140,
+        "traditional_counts": {
+          "翳": 140,
+          "瞖": 0
+        },
+        "total_all_forms": 280
+      },
+      "hant": {
+        "simplified_count": 225,
+        "traditional_counts": {
+          "翳": 225,
+          "瞖": 1
+        },
+        "total_all_forms": 451
+      }
+    },
+    {
+      "simplified": "肮",
+      "traditional": [
+        "肮",
+        "骯"
+      ],
+      "hans": {
+        "simplified_count": 251,
+        "traditional_counts": {
+          "肮": 251,
+          "骯": 0
+        },
+        "total_all_forms": 502
+      },
+      "hant": {
+        "simplified_count": 38,
+        "traditional_counts": {
+          "肮": 38,
+          "骯": 377
+        },
+        "total_all_forms": 453
+      }
+    },
+    {
+      "simplified": "肴",
+      "traditional": [
+        "餚",
+        "殽"
+      ],
+      "hans": {
+        "simplified_count": 797,
+        "traditional_counts": {
+          "餚": 0,
+          "殽": 28
+        },
+        "total_all_forms": 825
+      },
+      "hant": {
+        "simplified_count": 322,
+        "traditional_counts": {
+          "餚": 978,
+          "殽": 50
+        },
+        "total_all_forms": 1350
+      }
+    },
+    {
+      "simplified": "胜",
+      "traditional": [
+        "胜",
+        "勝"
+      ],
+      "hans": {
+        "simplified_count": 47640,
+        "traditional_counts": {
+          "胜": 47640,
+          "勝": 0
+        },
+        "total_all_forms": 95280
+      },
+      "hant": {
+        "simplified_count": 7293,
+        "traditional_counts": {
+          "胜": 7293,
+          "勝": 99811
+        },
+        "total_all_forms": 114397
+      }
+    },
+    {
+      "simplified": "脏",
+      "traditional": [
+        "臟",
+        "髒"
+      ],
+      "hans": {
+        "simplified_count": 5795,
+        "traditional_counts": {
+          "臟": 0,
+          "髒": 0
+        },
+        "total_all_forms": 5795
+      },
+      "hant": {
+        "simplified_count": 1043,
+        "traditional_counts": {
+          "臟": 11295,
+          "髒": 1250
+        },
+        "total_all_forms": 13588
+      }
+    },
+    {
+      "simplified": "腊",
+      "traditional": [
+        "腊",
+        "臘"
+      ],
+      "hans": {
+        "simplified_count": 19305,
+        "traditional_counts": {
+          "腊": 19305,
+          "臘": 0
+        },
+        "total_all_forms": 38610
+      },
+      "hant": {
+        "simplified_count": 3861,
+        "traditional_counts": {
+          "腊": 3861,
+          "臘": 21408
+        },
+        "total_all_forms": 29130
+      }
+    },
+    {
+      "simplified": "腌",
+      "traditional": [
+        "腌",
+        "醃"
+      ],
+      "hans": {
+        "simplified_count": 528,
+        "traditional_counts": {
+          "腌": 528,
+          "醃": 0
+        },
+        "total_all_forms": 1056
+      },
+      "hant": {
+        "simplified_count": 216,
+        "traditional_counts": {
+          "腌": 216,
+          "醃": 884
+        },
+        "total_all_forms": 1316
+      }
+    },
+    {
+      "simplified": "致",
+      "traditional": [
+        "致",
+        "緻"
+      ],
+      "hans": {
+        "simplified_count": 76279,
+        "traditional_counts": {
+          "致": 76279,
+          "緻": 0
+        },
+        "total_all_forms": 152558
+      },
+      "hant": {
+        "simplified_count": 122583,
+        "traditional_counts": {
+          "致": 122583,
+          "緻": 3023
+        },
+        "total_all_forms": 248189
+      }
+    },
+    {
+      "simplified": "舍",
+      "traditional": [
+        "舍",
+        "捨"
+      ],
+      "hans": {
+        "simplified_count": 19545,
+        "traditional_counts": {
+          "舍": 19545,
+          "捨": 0
+        },
+        "total_all_forms": 39090
+      },
+      "hant": {
+        "simplified_count": 35234,
+        "traditional_counts": {
+          "舍": 35234,
+          "捨": 4088
+        },
+        "total_all_forms": 74556
+      }
+    },
+    {
+      "simplified": "芸",
+      "traditional": [
+        "芸",
+        "蕓"
+      ],
+      "hans": {
+        "simplified_count": 1045,
+        "traditional_counts": {
+          "芸": 1045,
+          "蕓": 0
+        },
+        "total_all_forms": 2090
+      },
+      "hant": {
+        "simplified_count": 3163,
+        "traditional_counts": {
+          "芸": 3163,
+          "蕓": 85
+        },
+        "total_all_forms": 6411
+      }
+    },
+    {
+      "simplified": "苏",
+      "traditional": [
+        "蘇",
+        "囌"
+      ],
+      "hans": {
+        "simplified_count": 155388,
+        "traditional_counts": {
+          "蘇": 0,
+          "囌": 0
+        },
+        "total_all_forms": 155388
+      },
+      "hant": {
+        "simplified_count": 24740,
+        "traditional_counts": {
+          "蘇": 123316,
+          "囌": 1
+        },
+        "total_all_forms": 148057
+      }
+    },
+    {
+      "simplified": "范",
+      "traditional": [
+        "范",
+        "範"
+      ],
+      "hans": {
+        "simplified_count": 71127,
+        "traditional_counts": {
+          "范": 71127,
+          "範": 0
+        },
+        "total_all_forms": 142254
+      },
+      "hant": {
+        "simplified_count": 22031,
+        "traditional_counts": {
+          "范": 22031,
+          "範": 60334
+        },
+        "total_all_forms": 104396
+      }
+    },
+    {
+      "simplified": "茧",
+      "traditional": [
+        "茧",
+        "繭"
+      ],
+      "hans": {
+        "simplified_count": 294,
+        "traditional_counts": {
+          "茧": 294,
+          "繭": 0
+        },
+        "total_all_forms": 588
+      },
+      "hant": {
+        "simplified_count": 40,
+        "traditional_counts": {
+          "茧": 40,
+          "繭": 1035
+        },
+        "total_all_forms": 1115
+      }
+    },
+    {
+      "simplified": "荐",
+      "traditional": [
+        "荐",
+        "薦"
+      ],
+      "hans": {
+        "simplified_count": 6923,
+        "traditional_counts": {
+          "荐": 6923,
+          "薦": 0
+        },
+        "total_all_forms": 13846
+      },
+      "hant": {
+        "simplified_count": 1675,
+        "traditional_counts": {
+          "荐": 1675,
+          "薦": 11290
+        },
+        "total_all_forms": 14640
+      }
+    },
+    {
+      "simplified": "药",
+      "traditional": [
+        "葯",
+        "藥"
+      ],
+      "hans": {
+        "simplified_count": 39106,
+        "traditional_counts": {
+          "葯": 0,
+          "藥": 0
+        },
+        "total_all_forms": 39106
+      },
+      "hant": {
+        "simplified_count": 5134,
+        "traditional_counts": {
+          "葯": 187,
+          "藥": 45501
+        },
+        "total_all_forms": 50822
+      }
+    },
+    {
+      "simplified": "获",
+      "traditional": [
+        "獲",
+        "穫"
+      ],
+      "hans": {
+        "simplified_count": 176047,
+        "traditional_counts": {
+          "獲": 0,
+          "穫": 0
+        },
+        "total_all_forms": 176047
+      },
+      "hant": {
+        "simplified_count": 21163,
+        "traditional_counts": {
+          "獲": 205217,
+          "穫": 1346
+        },
+        "total_all_forms": 227726
+      }
+    },
+    {
+      "simplified": "蔑",
+      "traditional": [
+        "蔑",
+        "衊"
+      ],
+      "hans": {
+        "simplified_count": 1106,
+        "traditional_counts": {
+          "蔑": 1106,
+          "衊": 0
+        },
+        "total_all_forms": 2212
+      },
+      "hant": {
+        "simplified_count": 1345,
+        "traditional_counts": {
+          "蔑": 1345,
+          "衊": 301
+        },
+        "total_all_forms": 2991
+      }
+    },
+    {
+      "simplified": "虮",
+      "traditional": [
+        "虮",
+        "蟣"
+      ],
+      "hans": {
+        "simplified_count": 9,
+        "traditional_counts": {
+          "虮": 9,
+          "蟣": 0
+        },
+        "total_all_forms": 18
+      },
+      "hant": {
+        "simplified_count": 1,
+        "traditional_counts": {
+          "虮": 1,
+          "蟣": 7
+        },
+        "total_all_forms": 9
+      }
+    },
+    {
+      "simplified": "蚕",
+      "traditional": [
+        "蚕",
+        "蠶"
+      ],
+      "hans": {
+        "simplified_count": 1658,
+        "traditional_counts": {
+          "蚕": 1658,
+          "蠶": 0
+        },
+        "total_all_forms": 3316
+      },
+      "hant": {
+        "simplified_count": 278,
+        "traditional_counts": {
+          "蚕": 278,
+          "蠶": 1574
+        },
+        "total_all_forms": 2130
+      }
+    },
+    {
+      "simplified": "蜡",
+      "traditional": [
+        "蜡",
+        "蠟"
+      ],
+      "hans": {
+        "simplified_count": 1920,
+        "traditional_counts": {
+          "蜡": 1920,
+          "蠟": 0
+        },
+        "total_all_forms": 3840
+      },
+      "hant": {
+        "simplified_count": 409,
+        "traditional_counts": {
+          "蜡": 409,
+          "蠟": 3622
+        },
+        "total_all_forms": 4440
+      }
+    },
+    {
+      "simplified": "表",
+      "traditional": [
+        "表",
+        "錶"
+      ],
+      "hans": {
+        "simplified_count": 355983,
+        "traditional_counts": {
+          "表": 355983,
+          "錶": 0
+        },
+        "total_all_forms": 711966
+      },
+      "hant": {
+        "simplified_count": 437648,
+        "traditional_counts": {
+          "表": 437648,
+          "錶": 3211
+        },
+        "total_all_forms": 878507
+      }
+    },
+    {
+      "simplified": "袒",
+      "traditional": [
+        "袒",
+        "襢"
+      ],
+      "hans": {
+        "simplified_count": 361,
+        "traditional_counts": {
+          "袒": 361,
+          "襢": 0
+        },
+        "total_all_forms": 722
+      },
+      "hant": {
+        "simplified_count": 645,
+        "traditional_counts": {
+          "袒": 645,
+          "襢": 0
+        },
+        "total_all_forms": 1290
+      }
+    },
+    {
+      "simplified": "证",
+      "traditional": [
+        "證",
+        "証"
+      ],
+      "hans": {
+        "simplified_count": 68530,
+        "traditional_counts": {
+          "證": 0,
+          "証": 0
+        },
+        "total_all_forms": 68530
+      },
+      "hant": {
+        "simplified_count": 9133,
+        "traditional_counts": {
+          "證": 86894,
+          "証": 2119
+        },
+        "total_all_forms": 98146
+      }
+    },
+    {
+      "simplified": "谷",
+      "traditional": [
+        "谷",
+        "穀"
+      ],
+      "hans": {
+        "simplified_count": 30043,
+        "traditional_counts": {
+          "谷": 30043,
+          "穀": 0
+        },
+        "total_all_forms": 60086
+      },
+      "hant": {
+        "simplified_count": 55384,
+        "traditional_counts": {
+          "谷": 55384,
+          "穀": 5038
+        },
+        "total_all_forms": 115806
+      }
+    },
+    {
+      "simplified": "赞",
+      "traditional": [
+        "贊",
+        "讚"
+      ],
+      "hans": {
+        "simplified_count": 24048,
+        "traditional_counts": {
+          "贊": 0,
+          "讚": 0
+        },
+        "total_all_forms": 24048
+      },
+      "hant": {
+        "simplified_count": 3993,
+        "traditional_counts": {
+          "贊": 16398,
+          "讚": 13068
+        },
+        "total_all_forms": 33459
+      }
+    },
+    {
+      "simplified": "趟",
+      "traditional": [
+        "趟",
+        "蹚"
+      ],
+      "hans": {
+        "simplified_count": 1147,
+        "traditional_counts": {
+          "趟": 1147,
+          "蹚": 7
+        },
+        "total_all_forms": 2301
+      },
+      "hant": {
+        "simplified_count": 950,
+        "traditional_counts": {
+          "趟": 950,
+          "蹚": 12
+        },
+        "total_all_forms": 1912
+      }
+    },
+    {
+      "simplified": "踊",
+      "traditional": [
+        "踊",
+        "踴"
+      ],
+      "hans": {
+        "simplified_count": 166,
+        "traditional_counts": {
+          "踊": 166,
+          "踴": 0
+        },
+        "total_all_forms": 332
+      },
+      "hant": {
+        "simplified_count": 387,
+        "traditional_counts": {
+          "踊": 387,
+          "踴": 299
+        },
+        "total_all_forms": 1073
+      }
+    },
+    {
+      "simplified": "辟",
+      "traditional": [
+        "辟",
+        "闢"
+      ],
+      "hans": {
+        "simplified_count": 7063,
+        "traditional_counts": {
+          "辟": 7063,
+          "闢": 0
+        },
+        "total_all_forms": 14126
+      },
+      "hant": {
+        "simplified_count": 3087,
+        "traditional_counts": {
+          "辟": 3087,
+          "闢": 4176
+        },
+        "total_all_forms": 10350
+      }
+    },
+    {
+      "simplified": "适",
+      "traditional": [
+        "适",
+        "適"
+      ],
+      "hans": {
+        "simplified_count": 24716,
+        "traditional_counts": {
+          "适": 24716,
+          "適": 0
+        },
+        "total_all_forms": 49432
+      },
+      "hant": {
+        "simplified_count": 3256,
+        "traditional_counts": {
+          "适": 3256,
+          "適": 40889
+        },
+        "total_all_forms": 47401
+      }
+    },
+    {
+      "simplified": "郁",
+      "traditional": [
+        "郁",
+        "鬱"
+      ],
+      "hans": {
+        "simplified_count": 5249,
+        "traditional_counts": {
+          "郁": 5249,
+          "鬱": 0
+        },
+        "total_all_forms": 10498
+      },
+      "hant": {
+        "simplified_count": 4688,
+        "traditional_counts": {
+          "郁": 4688,
+          "鬱": 4766
+        },
+        "total_all_forms": 14142
+      }
+    },
+    {
+      "simplified": "酬",
+      "traditional": [
+        "酬",
+        "詶"
+      ],
+      "hans": {
+        "simplified_count": 1880,
+        "traditional_counts": {
+          "酬": 1880,
+          "詶": 0
+        },
+        "total_all_forms": 3760
+      },
+      "hant": {
+        "simplified_count": 4455,
+        "traditional_counts": {
+          "酬": 4455,
+          "詶": 2
+        },
+        "total_all_forms": 8912
+      }
+    },
+    {
+      "simplified": "酸",
+      "traditional": [
+        "酸",
+        "痠"
+      ],
+      "hans": {
+        "simplified_count": 32517,
+        "traditional_counts": {
+          "酸": 32517,
+          "痠": 0
+        },
+        "total_all_forms": 65034
+      },
+      "hant": {
+        "simplified_count": 20811,
+        "traditional_counts": {
+          "酸": 20811,
+          "痠": 87
+        },
+        "total_all_forms": 41709
+      }
+    },
+    {
+      "simplified": "采",
+      "traditional": [
+        "采",
+        "採"
+      ],
+      "hans": {
+        "simplified_count": 58135,
+        "traditional_counts": {
+          "采": 58135,
+          "採": 0
+        },
+        "total_all_forms": 116270
+      },
+      "hant": {
+        "simplified_count": 14577,
+        "traditional_counts": {
+          "采": 14577,
+          "採": 64818
+        },
+        "total_all_forms": 93972
+      }
+    },
+    {
+      "simplified": "里",
+      "traditional": [
+        "里",
+        "裏"
+      ],
+      "hans": {
+        "simplified_count": 317741,
+        "traditional_counts": {
+          "里": 317741,
+          "裏": 0
+        },
+        "total_all_forms": 635482
+      },
+      "hant": {
+        "simplified_count": 351950,
+        "traditional_counts": {
+          "里": 351950,
+          "裏": 13083
+        },
+        "total_all_forms": 716983
+      }
+    },
+    {
+      "simplified": "阖",
+      "traditional": [
+        "闔",
+        "閤"
+      ],
+      "hans": {
+        "simplified_count": 346,
+        "traditional_counts": {
+          "闔": 0,
+          "閤": 0
+        },
+        "total_all_forms": 346
+      },
+      "hant": {
+        "simplified_count": 86,
+        "traditional_counts": {
+          "闔": 422,
+          "閤": 705
+        },
+        "total_all_forms": 1213
+      }
+    },
+    {
+      "simplified": "雇",
+      "traditional": [
+        "雇",
+        "僱"
+      ],
+      "hans": {
+        "simplified_count": 6477,
+        "traditional_counts": {
+          "雇": 6477,
+          "僱": 0
+        },
+        "total_all_forms": 12954
+      },
+      "hant": {
+        "simplified_count": 5591,
+        "traditional_counts": {
+          "雇": 5591,
+          "僱": 7542
+        },
+        "total_all_forms": 18724
+      }
+    },
+    {
+      "simplified": "雕",
+      "traditional": [
+        "雕",
+        "鵰"
+      ],
+      "hans": {
+        "simplified_count": 17756,
+        "traditional_counts": {
+          "雕": 17756,
+          "鵰": 0
+        },
+        "total_all_forms": 35512
+      },
+      "hant": {
+        "simplified_count": 16449,
+        "traditional_counts": {
+          "雕": 16449,
+          "鵰": 1868
+        },
+        "total_all_forms": 34766
+      }
+    },
+    {
+      "simplified": "霉",
+      "traditional": [
+        "霉",
+        "黴"
+      ],
+      "hans": {
+        "simplified_count": 1328,
+        "traditional_counts": {
+          "霉": 1328,
+          "黴": 0
+        },
+        "total_all_forms": 2656
+      },
+      "hant": {
+        "simplified_count": 712,
+        "traditional_counts": {
+          "霉": 712,
+          "黴": 898
+        },
+        "total_all_forms": 2322
+      }
+    },
+    {
+      "simplified": "面",
+      "traditional": [
+        "面",
+        "麵"
+      ],
+      "hans": {
+        "simplified_count": 226502,
+        "traditional_counts": {
+          "面": 226502,
+          "麵": 0
+        },
+        "total_all_forms": 453004
+      },
+      "hant": {
+        "simplified_count": 363388,
+        "traditional_counts": {
+          "面": 363388,
+          "麵": 14021
+        },
+        "total_all_forms": 740797
+      }
+    },
+    {
+      "simplified": "须",
+      "traditional": [
+        "須",
+        "鬚"
+      ],
+      "hans": {
+        "simplified_count": 27533,
+        "traditional_counts": {
+          "須": 0,
+          "鬚": 0
+        },
+        "total_all_forms": 27533
+      },
+      "hant": {
+        "simplified_count": 3615,
+        "traditional_counts": {
+          "須": 60193,
+          "鬚": 4106
+        },
+        "total_all_forms": 67914
+      }
+    },
+    {
+      "simplified": "饥",
+      "traditional": [
+        "飢",
+        "饑"
+      ],
+      "hans": {
+        "simplified_count": 3397,
+        "traditional_counts": {
+          "飢": 0,
+          "饑": 0
+        },
+        "total_all_forms": 3397
+      },
+      "hant": {
+        "simplified_count": 682,
+        "traditional_counts": {
+          "飢": 2607,
+          "饑": 1850
+        },
+        "total_all_forms": 5139
+      }
+    },
+    {
+      "simplified": "鸩",
+      "traditional": [
+        "鴆",
+        "酖"
+      ],
+      "hans": {
+        "simplified_count": 79,
+        "traditional_counts": {
+          "鴆": 0,
+          "酖": 1
+        },
+        "total_all_forms": 80
+      },
+      "hant": {
+        "simplified_count": 19,
+        "traditional_counts": {
+          "鴆": 132,
+          "酖": 17
+        },
+        "total_all_forms": 168
+      }
+    },
+    {
+      "simplified": "冬",
+      "traditional": [
+        "冬",
+        "咚",
+        "鼕"
+      ],
+      "hans": {
+        "simplified_count": 27397,
+        "traditional_counts": {
+          "冬": 27397,
+          "咚": 189,
+          "鼕": 0
+        },
+        "total_all_forms": 54983
+      },
+      "hant": {
+        "simplified_count": 27549,
+        "traditional_counts": {
+          "冬": 27549,
+          "咚": 377,
+          "鼕": 8
+        },
+        "total_all_forms": 55483
+      }
+    },
+    {
+      "simplified": "叹",
+      "traditional": [
+        "嘆",
+        "歎",
+        "叹"
+      ],
+      "hans": {
+        "simplified_count": 2192,
+        "traditional_counts": {
+          "嘆": 0,
+          "歎": 0,
+          "叹": 2192
+        },
+        "total_all_forms": 4384
+      },
+      "hant": {
+        "simplified_count": 325,
+        "traditional_counts": {
+          "嘆": 2345,
+          "歎": 631,
+          "叹": 325
+        },
+        "total_all_forms": 3626
+      }
+    },
+    {
+      "simplified": "并",
+      "traditional": [
+        "并",
+        "並",
+        "併"
+      ],
+      "hans": {
+        "simplified_count": 382930,
+        "traditional_counts": {
+          "并": 382930,
+          "並": 0,
+          "併": 0
+        },
+        "total_all_forms": 765860
+      },
+      "hant": {
+        "simplified_count": 61835,
+        "traditional_counts": {
+          "并": 61835,
+          "並": 607147,
+          "併": 53491
+        },
+        "total_all_forms": 784308
+      }
+    },
+    {
+      "simplified": "当",
+      "traditional": [
+        "當",
+        "儅",
+        "噹"
+      ],
+      "hans": {
+        "simplified_count": 248788,
+        "traditional_counts": {
+          "當": 0,
+          "儅": 0,
+          "噹": 0
+        },
+        "total_all_forms": 248788
+      },
+      "hant": {
+        "simplified_count": 34476,
+        "traditional_counts": {
+          "當": 434322,
+          "儅": 9,
+          "噹": 791
+        },
+        "total_all_forms": 469598
+      }
+    },
+    {
+      "simplified": "沈",
+      "traditional": [
+        "沈",
+        "沉",
+        "瀋"
+      ],
+      "hans": {
+        "simplified_count": 24177,
+        "traditional_counts": {
+          "沈": 24177,
+          "沉": 16476,
+          "瀋": 0
+        },
+        "total_all_forms": 64830
+      },
+      "hant": {
+        "simplified_count": 18619,
+        "traditional_counts": {
+          "沈": 18619,
+          "沉": 23208,
+          "瀋": 1932
+        },
+        "total_all_forms": 62378
+      }
+    },
+    {
+      "simplified": "熏",
+      "traditional": [
+        "熏",
+        "燻",
+        "薰"
+      ],
+      "hans": {
+        "simplified_count": 865,
+        "traditional_counts": {
+          "熏": 865,
+          "燻": 0,
+          "薰": 809
+        },
+        "total_all_forms": 2539
+      },
+      "hant": {
+        "simplified_count": 531,
+        "traditional_counts": {
+          "熏": 531,
+          "燻": 346,
+          "薰": 3330
+        },
+        "total_all_forms": 4738
+      }
+    },
+    {
+      "simplified": "系",
+      "traditional": [
+        "系",
+        "係",
+        "繫"
+      ],
+      "hans": {
+        "simplified_count": 212841,
+        "traditional_counts": {
+          "系": 212841,
+          "係": 0,
+          "繫": 0
+        },
+        "total_all_forms": 425682
+      },
+      "hant": {
+        "simplified_count": 234614,
+        "traditional_counts": {
+          "系": 234614,
+          "係": 75266,
+          "繫": 11549
+        },
+        "total_all_forms": 556043
+      }
+    },
+    {
+      "simplified": "胡",
+      "traditional": [
+        "胡",
+        "鬍",
+        "衚"
+      ],
+      "hans": {
+        "simplified_count": 43025,
+        "traditional_counts": {
+          "胡": 43025,
+          "鬍": 0,
+          "衚": 0
+        },
+        "total_all_forms": 86050
+      },
+      "hant": {
+        "simplified_count": 47784,
+        "traditional_counts": {
+          "胡": 47784,
+          "鬍": 2812,
+          "衚": 77
+        },
+        "total_all_forms": 98457
+      }
+    },
+    {
+      "simplified": "鬃",
+      "traditional": [
+        "鬃",
+        "騣",
+        "鬉"
+      ],
+      "hans": {
+        "simplified_count": 275,
+        "traditional_counts": {
+          "鬃": 275,
+          "騣": 2,
+          "鬉": 0
+        },
+        "total_all_forms": 552
+      },
+      "hant": {
+        "simplified_count": 560,
+        "traditional_counts": {
+          "鬃": 560,
+          "騣": 26,
+          "鬉": 0
+        },
+        "total_all_forms": 1146
+      }
+    },
+    {
+      "simplified": "台",
+      "traditional": [
+        "台",
+        "檯",
+        "臺",
+        "颱"
+      ],
+      "hans": {
+        "simplified_count": 152924,
+        "traditional_counts": {
+          "台": 152924,
+          "檯": 0,
+          "臺": 0,
+          "颱": 0
+        },
+        "total_all_forms": 305848
+      },
+      "hant": {
+        "simplified_count": 527897,
+        "traditional_counts": {
+          "台": 527897,
+          "檯": 1341,
+          "臺": 237841,
+          "颱": 19424
+        },
+        "total_all_forms": 1314400
+      }
+    },
+    {
+      "simplified": "复",
+      "traditional": [
+        "复",
+        "復",
+        "複",
+        "覆"
+      ],
+      "hans": {
+        "simplified_count": 110359,
+        "traditional_counts": {
+          "复": 110359,
+          "復": 0,
+          "複": 0,
+          "覆": 11940
+        },
+        "total_all_forms": 232658
+      },
+      "hant": {
+        "simplified_count": 14489,
+        "traditional_counts": {
+          "复": 14489,
+          "復": 104511,
+          "複": 29124,
+          "覆": 22483
+        },
+        "total_all_forms": 185096
+      }
+    },
+    {
+      "simplified": "欢",
+      "traditional": [
+        "歡",
+        "懽",
+        "讙",
+        "驩"
+      ],
+      "hans": {
+        "simplified_count": 23268,
+        "traditional_counts": {
+          "歡": 0,
+          "懽": 92,
+          "讙": 12,
+          "驩": 68
+        },
+        "total_all_forms": 23440
+      },
+      "hant": {
+        "simplified_count": 3694,
+        "traditional_counts": {
+          "歡": 55019,
+          "懽": 106,
+          "讙": 29,
+          "驩": 247
+        },
+        "total_all_forms": 59095
+      }
+    },
+    {
+      "simplified": "蒙",
+      "traditional": [
+        "蒙",
+        "懞",
+        "濛",
+        "矇"
+      ],
+      "hans": {
+        "simplified_count": 75429,
+        "traditional_counts": {
+          "蒙": 75429,
+          "懞": 0,
+          "濛": 0,
+          "矇": 0
+        },
+        "total_all_forms": 150858
+      },
+      "hant": {
+        "simplified_count": 66385,
+        "traditional_counts": {
+          "蒙": 66385,
+          "懞": 4,
+          "濛": 966,
+          "矇": 262
+        },
+        "total_all_forms": 134002
+      }
+    }
+  ]
+}

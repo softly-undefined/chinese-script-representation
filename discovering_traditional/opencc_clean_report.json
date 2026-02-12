@@ -1,0 +1,469 @@
+{
+  "keep_non_bmp": false,
+  "pair_stats": {
+    "input_pairs": 3807,
+    "removed_bad_shape": 0,
+    "removed_unrecognized_char": 1144,
+    "removed_duplicate": 0
+  },
+  "exclusive_stats": {
+    "input_characters": 4104,
+    "removed_bad_shape": 0,
+    "removed_unrecognized_char": 354,
+    "removed_duplicate": 0
+  },
+  "removed_pairs_sample": [
+    {
+      "traditional": "㑮",
+      "simplified": "𫝈",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㒓",
+      "simplified": "𠉂",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㓄",
+      "simplified": "𪠟",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㔋",
+      "simplified": "𪟎",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㖮",
+      "simplified": "𪠵",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㗲",
+      "simplified": "𠵾",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㗿",
+      "simplified": "𪡛",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㘉",
+      "simplified": "𠰱",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㘓",
+      "simplified": "𪢌",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㘔",
+      "simplified": "𫬐",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㛝",
+      "simplified": "𫝦",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㜐",
+      "simplified": "𫝧",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㜗",
+      "simplified": "𡞋",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㜢",
+      "simplified": "𡞱",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㜷",
+      "simplified": "𡝠",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㞞",
+      "simplified": "𪨊",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㟺",
+      "simplified": "𪩇",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㠣",
+      "simplified": "𫵷",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㢗",
+      "simplified": "𪪑",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㢝",
+      "simplified": "𢋈",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㦎",
+      "simplified": "𢛯",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㦛",
+      "simplified": "𢗓",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㦞",
+      "simplified": "𪫷",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㨻",
+      "simplified": "𪮃",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㩋",
+      "simplified": "𪮋",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㪎",
+      "simplified": "𪯋",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㯤",
+      "simplified": "𣘐",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㰙",
+      "simplified": "𣗙",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㵗",
+      "simplified": "𣳆",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㵾",
+      "simplified": "𪷍",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㶆",
+      "simplified": "𫞛",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㷍",
+      "simplified": "𤆢",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㷿",
+      "simplified": "𤈷",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㹽",
+      "simplified": "𫞣",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㺏",
+      "simplified": "𤠋",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㺜",
+      "simplified": "𪺻",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㻶",
+      "simplified": "𪼋",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㿖",
+      "simplified": "𪽮",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㿗",
+      "simplified": "𤻊",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "㿧",
+      "simplified": "𤽯",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䀉",
+      "simplified": "𥁢",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䀹",
+      "simplified": "𥅴",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䁪",
+      "simplified": "𥇢",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䂎",
+      "simplified": "𥎝",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䅐",
+      "simplified": "𫀨",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䅳",
+      "simplified": "𫀬",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䆉",
+      "simplified": "𫁂",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䉑",
+      "simplified": "𫁲",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䉙",
+      "simplified": "𥬀",
+      "reason": "unrecognized_char"
+    },
+    {
+      "traditional": "䉬",
+      "simplified": "𫂈",
+      "reason": "unrecognized_char"
+    }
+  ],
+  "removed_exclusive_sample": [
+    "𠁞",
+    "𠌥",
+    "𠏢",
+    "𠐊",
+    "𠗣",
+    "𠞆",
+    "𠠎",
+    "𠬙",
+    "𠽃",
+    "𠿕",
+    "𡂡",
+    "𡃄",
+    "𡃕",
+    "𡃤",
+    "𡄔",
+    "𡄣",
+    "𡅏",
+    "𡅯",
+    "𡑍",
+    "𡑭",
+    "𡓁",
+    "𡓾",
+    "𡔖",
+    "𡞵",
+    "𡟫",
+    "𡠹",
+    "𡢃",
+    "𡮉",
+    "𡮣",
+    "𡳳",
+    "𡸗",
+    "𡹬",
+    "𡻕",
+    "𡽗",
+    "𡾱",
+    "𡿖",
+    "𢍰",
+    "𢠼",
+    "𢣐",
+    "𢣚",
+    "𢣭",
+    "𢤩",
+    "𢤱",
+    "𢤿",
+    "𢯷",
+    "𢶒",
+    "𢶫",
+    "𢷮",
+    "𢹿",
+    "𢺳",
+    "𣈶",
+    "𣋋",
+    "𣍐",
+    "𣙎",
+    "𣜬",
+    "𣝕",
+    "𣞻",
+    "𣠩",
+    "𣠲",
+    "𣯩",
+    "𣯴",
+    "𣯶",
+    "𣽏",
+    "𣾷",
+    "𣿉",
+    "𤁣",
+    "𤄷",
+    "𤅶",
+    "𤑳",
+    "𤑹",
+    "𤒎",
+    "𤒻",
+    "𤓌",
+    "𤓎",
+    "𤓩",
+    "𤘀",
+    "𤛮",
+    "𤛱",
+    "𤜆",
+    "𤠮",
+    "𤢟",
+    "𤢻",
+    "𤩂",
+    "𤪺",
+    "𤫩",
+    "𤬅",
+    "𤳷",
+    "𤳸",
+    "𤷃",
+    "𤸫",
+    "𤺔",
+    "𥊝",
+    "𥌃",
+    "𥏝",
+    "𥕥",
+    "𥖅",
+    "𥖲",
+    "𥗇",
+    "𥗽",
+    "𥜐",
+    "𥜰",
+    "𥞵",
+    "𥢢",
+    "𥢶",
+    "𥢷",
+    "𥨐",
+    "𥪂",
+    "𥯤",
+    "𥴨",
+    "𥴼",
+    "𥵃",
+    "𥵊",
+    "𥶽",
+    "𥸠",
+    "𥻦",
+    "𥼽",
+    "𥽖",
+    "𥾯",
+    "𥿊",
+    "𦀖",
+    "𦂅",
+    "𦃄",
+    "𦃩",
+    "𦅇",
+    "𦅈",
+    "𦆲",
+    "𦒀",
+    "𦔖",
+    "𦘧",
+    "𦟼",
+    "𦠅",
+    "𦡝",
+    "𦢈",
+    "𦣎",
+    "𦧺",
+    "𦪙",
+    "𦪽",
+    "𦱌",
+    "𦾟",
+    "𧎈",
+    "𧒯",
+    "𧔥",
+    "𧕟",
+    "𧜗",
+    "𧜵",
+    "𧝞",
+    "𧞫",
+    "𧟀",
+    "𧡴",
+    "𧢄",
+    "𧦝",
+    "𧦧",
+    "𧩕",
+    "𧩙",
+    "𧩼",
+    "𧫝",
+    "𧬤",
+    "𧭈",
+    "𧭹",
+    "𧳟",
+    "𧵳",
+    "𧶔",
+    "𧶧",
+    "𧷎",
+    "𧸘",
+    "𧹈",
+    "𧽯",
+    "𨂐",
+    "𨄣",
+    "𨅍",
+    "𨆪",
+    "𨇁",
+    "𨇞",
+    "𨇤",
+    "𨇰",
+    "𨇽",
+    "𨈊",
+    "𨈌",
+    "𨊰",
+    "𨊸",
+    "𨊻",
+    "𨋢",
+    "𨌈",
+    "𨍰",
+    "𨎌",
+    "𨎮",
+    "𨏠",
+    "𨏥",
+    "𨞺",
+    "𨟊",
+    "𨢿",
+    "𨣈",
+    "𨣞",
+    "𨣧",
+    "𨤻",
+    "𨥛",
+    "𨥟",
+    "𨦫",
+    "𨧀",
+    "𨧜"
+  ]
+}
