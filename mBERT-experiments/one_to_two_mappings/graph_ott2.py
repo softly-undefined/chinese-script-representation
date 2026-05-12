@@ -34,8 +34,16 @@ def default_out_path() -> Path:
     return Path(__file__).resolve().parent / "graphs" / "aggregate_hi_lo_cosine.png"
 
 
+def default_individual_out_path(out_path: Path) -> Path:
+    return out_path.with_name(f"{out_path.stem}_individual.png")
+
+
 def default_assignments_txt_path(out_path: Path) -> Path:
     return out_path.with_name(f"{out_path.stem}_assignments.txt")
+
+
+def default_stacked_out_path(out_path: Path) -> Path:
+    return out_path.with_name(f"{out_path.stem}_l2_cosine_stacked.png")
 
 
 def read_rows(csv_path: Path) -> list[dict[str, float | int | str]]:
@@ -72,7 +80,12 @@ def read_rows(csv_path: Path) -> list[dict[str, float | int | str]]:
 
 def aggregate_hi_lo_cosine(
     rows: list[dict[str, float | int | str]],
-) -> tuple[list[int], dict[str, list[float]], list[dict[str, str | int | float]]]:
+) -> tuple[
+    list[int],
+    dict[str, list[float]],
+    list[dict[str, str | int | float]],
+    list[dict[str, str | int | list[int] | list[float]]],
+]:
     # Determine lower/higher once at layer 0 for each mapping, then keep that
     # assignment fixed when aggregating all other layers.
     by_mapping: dict[int, dict[str, str | dict[int, tuple[float, float]]]] = {}
@@ -98,6 +111,7 @@ def aggregate_hi_lo_cosine(
     by_layer_hi: dict[int, list[float]] = defaultdict(list)
     by_layer_lo: dict[int, list[float]] = defaultdict(list)
     assignments: list[dict[str, str | int | float]] = []
+    individual_series: list[dict[str, str | int | list[int] | list[float]]] = []
 
     mapping_iter = by_mapping.items()
     if _TQDM:
@@ -128,13 +142,31 @@ def aggregate_hi_lo_cosine(
         )
 
         c1_is_lower = c1_l0 <= c2_l0
-        for layer, (c1, c2) in layer_vals.items():
+        series_layers = sorted(layer_vals.keys())
+        series_hi: list[float] = []
+        series_lo: list[float] = []
+        for layer in series_layers:
+            c1, c2 = layer_vals[layer]
             if c1_is_lower:
-                by_layer_lo[layer].append(c1)
-                by_layer_hi[layer].append(c2)
+                lo_val = c1
+                hi_val = c2
             else:
-                by_layer_lo[layer].append(c2)
-                by_layer_hi[layer].append(c1)
+                lo_val = c2
+                hi_val = c1
+            by_layer_lo[layer].append(lo_val)
+            by_layer_hi[layer].append(hi_val)
+            series_lo.append(lo_val)
+            series_hi.append(hi_val)
+
+        individual_series.append(
+            {
+                "mapping_index": mapping_idx,
+                "simplified": str(payload["simplified"]),
+                "layers": series_layers,
+                "hi": series_hi,
+                "lo": series_lo,
+            }
+        )
 
     layers = sorted(by_layer_hi.keys())
     hi_mean = [float(np.mean(by_layer_hi[l])) for l in layers]
@@ -149,13 +181,14 @@ def aggregate_hi_lo_cosine(
         "lo_std": lo_std,
     }
     assignments.sort(key=lambda a: int(a["mapping_index"]))
-    return layers, stats, assignments
+    individual_series.sort(key=lambda a: int(a["mapping_index"]))
+    return layers, stats, assignments, individual_series
 
 
 def write_stats_csv(layers: list[int], stats: dict[str, list[float]], out_path: Path) -> Path:
     stats_path = out_path.with_suffix(".csv")
     with io.open(stats_path, "w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["layer_index", "metric", "mean", "std"])
         for i, layer in enumerate(layers):
             writer.writerow([layer, "higher_cosine_fixed_from_layer0", stats["hi_mean"][i], stats["hi_std"][i]])
@@ -172,22 +205,89 @@ def write_assignments_txt(assignments: list[dict[str, str | int | float]], out_p
     return txt_path
 
 
+def _plot_hi_lo_on_axis(
+    ax: plt.Axes,
+    layers: list[int],
+    hi_mean: np.ndarray,
+    hi_std: np.ndarray,
+    lo_mean: np.ndarray,
+    lo_std: np.ndarray,
+    ylabel: str,
+    hi_label: str,
+    lo_label: str,
+) -> None:
+    x = np.asarray(layers, dtype=int)
+    ax.plot(x, hi_mean, marker="o", linewidth=2, color="tab:blue", label=hi_label)
+    ax.fill_between(x, hi_mean - hi_std, hi_mean + hi_std, color="tab:blue", alpha=0.2)
+    ax.plot(x, lo_mean, marker="o", linewidth=2, color="tab:orange", label=lo_label)
+    ax.fill_between(x, lo_mean - lo_std, lo_mean + lo_std, color="tab:orange", alpha=0.2)
+    ax.set_xticks(layers)
+    ax.set_xticklabels([str(v) for v in layers], rotation=0, ha="center")
+    ax.set_xlabel("Layer", fontsize=AXIS_LABEL_FONTSIZE)
+    ax.set_ylabel(ylabel, fontsize=AXIS_LABEL_FONTSIZE)
+    ax.grid(alpha=0.3)
+    ax.legend(loc="best", fontsize=8)
+
+
 def plot_hi_lo(layers: list[int], stats: dict[str, list[float]], out_path: Path) -> None:
     out_path.parent.mkdir(parents=True, exist_ok=True)
-
     fig, ax = plt.subplots(1, 1, figsize=(HALF_PAGE_WIDTH_IN, HALF_PAGE_HEIGHT_IN))
-
     hi_mean = np.asarray(stats["hi_mean"], dtype=float)
     hi_std = np.asarray(stats["hi_std"], dtype=float)
     lo_mean = np.asarray(stats["lo_mean"], dtype=float)
     lo_std = np.asarray(stats["lo_std"], dtype=float)
-    x = np.asarray(layers, dtype=int)
+    _plot_hi_lo_on_axis(
+        ax=ax,
+        layers=layers,
+        hi_mean=hi_mean,
+        hi_std=hi_std,
+        lo_mean=lo_mean,
+        lo_std=lo_std,
+        ylabel="Cosine Similarity",
+        hi_label="Higher cos(s,t) at layer 0",
+        lo_label="Lower cos(s,t) at layer 0",
+    )
+    fig.tight_layout(rect=[0, 0.02, 1, 1.0], pad=0.6)
+    fig.savefig(out_path, dpi=180)
+    plt.close(fig)
 
-    ax.plot(x, hi_mean, marker="o", linewidth=2, label="Higher cos(s,t) at layer 0")
-    ax.fill_between(x, hi_mean - hi_std, hi_mean + hi_std, alpha=0.2)
 
-    ax.plot(x, lo_mean, marker="o", linewidth=2, label="Lower cos(s,t) at layer 0")
-    ax.fill_between(x, lo_mean - lo_std, lo_mean + lo_std, alpha=0.2)
+def plot_hi_lo_individual(
+    layers: list[int],
+    individual_series: list[dict[str, str | int | list[int] | list[float]]],
+    out_path: Path,
+) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+
+    fig, ax = plt.subplots(1, 1, figsize=(HALF_PAGE_WIDTH_IN, HALF_PAGE_HEIGHT_IN))
+
+    first_hi = True
+    first_lo = True
+    for item in individual_series:
+        x = np.asarray(item["layers"], dtype=int)
+        hi = np.asarray(item["hi"], dtype=float)
+        lo = np.asarray(item["lo"], dtype=float)
+        if x.size == 0:
+            continue
+
+        ax.plot(
+            x,
+            hi,
+            linewidth=1,
+            color="tab:blue",
+            alpha=0.25,
+            label="Higher cos(s,t) at layer 0 (per mapping)" if first_hi else None,
+        )
+        ax.plot(
+            x,
+            lo,
+            linewidth=1,
+            color="tab:orange",
+            alpha=0.25,
+            label="Lower cos(s,t) at layer 0 (per mapping)" if first_lo else None,
+        )
+        first_hi = False
+        first_lo = False
 
     ax.set_xticks(layers)
     ax.set_xticklabels([str(v) for v in layers], rotation=0, ha="center")
@@ -195,6 +295,87 @@ def plot_hi_lo(layers: list[int], stats: dict[str, list[float]], out_path: Path)
     ax.set_ylabel("Cosine Similarity", fontsize=AXIS_LABEL_FONTSIZE)
     ax.grid(alpha=0.3)
     ax.legend(loc="best", fontsize=8)
+
+    fig.tight_layout(rect=[0, 0.02, 1, 1.0], pad=0.6)
+    fig.savefig(out_path, dpi=180)
+    plt.close(fig)
+
+
+def _cosine_to_l2(value: float) -> float:
+    clipped = max(-1.0, min(1.0, value))
+    return float(np.sqrt(max(0.0, 2.0 - (2.0 * clipped))))
+
+
+def l2_stats_from_individual(
+    individual_series: list[dict[str, str | int | list[int] | list[float]]],
+) -> dict[str, list[float]]:
+    by_layer_hi: dict[int, list[float]] = defaultdict(list)
+    by_layer_lo: dict[int, list[float]] = defaultdict(list)
+
+    for item in individual_series:
+        layers = item["layers"]
+        hi_vals = item["hi"]
+        lo_vals = item["lo"]
+        assert isinstance(layers, list)
+        assert isinstance(hi_vals, list)
+        assert isinstance(lo_vals, list)
+        for layer, hi_cos, lo_cos in zip(layers, hi_vals, lo_vals):
+            by_layer_hi[int(layer)].append(_cosine_to_l2(float(hi_cos)))
+            by_layer_lo[int(layer)].append(_cosine_to_l2(float(lo_cos)))
+
+    layers_sorted = sorted(by_layer_hi.keys())
+    hi_mean = [float(np.mean(by_layer_hi[l])) for l in layers_sorted]
+    hi_std = [float(np.std(by_layer_hi[l])) for l in layers_sorted]
+    lo_mean = [float(np.mean(by_layer_lo[l])) for l in layers_sorted]
+    lo_std = [float(np.std(by_layer_lo[l])) for l in layers_sorted]
+    return {
+        "layers": layers_sorted,
+        "hi_mean": hi_mean,
+        "hi_std": hi_std,
+        "lo_mean": lo_mean,
+        "lo_std": lo_std,
+    }
+
+
+def plot_hi_lo_l2_cosine_stacked(
+    layers: list[int],
+    cosine_stats: dict[str, list[float]],
+    individual_series: list[dict[str, str | int | list[int] | list[float]]],
+    out_path: Path,
+) -> None:
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    fig, axes = plt.subplots(2, 1, figsize=(HALF_PAGE_WIDTH_IN, HALF_PAGE_HEIGHT_IN * 2.0), sharex=True)
+
+    l2_stats = l2_stats_from_individual(individual_series)
+    l2_layers = [int(v) for v in l2_stats["layers"]]
+    if l2_layers != layers:
+        raise ValueError("Layer mismatch while preparing stacked L2/cosine plot.")
+
+    _plot_hi_lo_on_axis(
+        ax=axes[0],
+        layers=layers,
+        hi_mean=np.asarray(l2_stats["hi_mean"], dtype=float),
+        hi_std=np.asarray(l2_stats["hi_std"], dtype=float),
+        lo_mean=np.asarray(l2_stats["lo_mean"], dtype=float),
+        lo_std=np.asarray(l2_stats["lo_std"], dtype=float),
+        ylabel="L2 Distance",
+        hi_label="Higher cos(s,t) at layer 0",
+        lo_label="Lower cos(s,t) at layer 0",
+    )
+    axes[0].set_title("Layer-wise aggregate (L2 distance)", fontsize=9)
+
+    _plot_hi_lo_on_axis(
+        ax=axes[1],
+        layers=layers,
+        hi_mean=np.asarray(cosine_stats["hi_mean"], dtype=float),
+        hi_std=np.asarray(cosine_stats["hi_std"], dtype=float),
+        lo_mean=np.asarray(cosine_stats["lo_mean"], dtype=float),
+        lo_std=np.asarray(cosine_stats["lo_std"], dtype=float),
+        ylabel="Cosine Similarity",
+        hi_label="Higher cos(s,t) at layer 0",
+        lo_label="Lower cos(s,t) at layer 0",
+    )
+    axes[1].set_title("Layer-wise aggregate (cosine similarity)", fontsize=9)
 
     fig.tight_layout(rect=[0, 0.02, 1, 1.0], pad=0.6)
     fig.savefig(out_path, dpi=180)
@@ -219,6 +400,11 @@ def parse_args() -> argparse.Namespace:
         default=str(default_out_path()),
         help="Output PNG path for the graph",
     )
+    parser.add_argument(
+        "--stacked-out",
+        default=None,
+        help="Output PNG path for stacked L2(top)/cosine(bottom) graph",
+    )
     return parser.parse_args()
 
 
@@ -226,10 +412,14 @@ def main() -> None:
     args = parse_args()
     csv_path = Path(args.csv)
     out_path = Path(args.out)
+    stacked_out_path = Path(args.stacked_out) if args.stacked_out else default_stacked_out_path(out_path)
 
     rows = read_rows(csv_path)
-    layers, stats, assignments = aggregate_hi_lo_cosine(rows)
+    layers, stats, assignments, individual_series = aggregate_hi_lo_cosine(rows)
     plot_hi_lo(layers, stats, out_path)
+    plot_hi_lo_l2_cosine_stacked(layers, stats, individual_series, stacked_out_path)
+    individual_out_path = default_individual_out_path(out_path)
+    plot_hi_lo_individual(layers, individual_series, individual_out_path)
     stats_path = write_stats_csv(layers, stats, out_path)
     assignments_path = write_assignments_txt(assignments, out_path)
 
@@ -238,6 +428,8 @@ def main() -> None:
     print(f"Rows analyzed: {len(rows)}")
     print(f"Mappings analyzed: {mappings}")
     print(f"Plot written: {out_path}")
+    print(f"Stacked plot written: {stacked_out_path}")
+    print(f"Individual plot written: {individual_out_path}")
     print(f"Stats CSV written: {stats_path}")
     print(f"Assignments TXT written: {assignments_path}")
 

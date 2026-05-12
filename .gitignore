@@ -1,2 +1,7 @@
 # Ignore local data artifacts
 data/
+
+# Ignore local OS and Python cache files.
+.DS_Store
+__pycache__/
+*.py[cod]

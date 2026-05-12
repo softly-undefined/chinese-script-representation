@@ -56,8 +56,6 @@ Description of the data (created by first_check.py):
 1. View embedding representations of Simplified vs. Traditional (BERT models)
     - Model: mBERT (ensure both zh-hant and zh-hans are covered)
         1. TOKENIZATION: Check the tokenization process (ensure that overlap are considered simplified characters by the tokenization process)
-            - Next steps:
-                - Get a better list of characters (not just 2:1, but also 1:1!)
         2. Static Embeddings: outside of a sentence (on their own)
             - Tells us: which characters' traditional senses are the farthest from the simplified ones (perhaps just on characters with multiple traditional characters merging into a brand new simplified character)
             - Next steps:
@@ -98,12 +96,6 @@ Description of the data (created by first_check.py):
 
 random thought but IN DECODER MODELS THERE IS ONLY CAUSAL ATTENTION (only sees to the left)
 
-
-read README.md,
-
-sketch out what you think should be done with the mBERT-experiments directory and I will give feedback
-
-
 ## Update 2/5/26
 
 These are items that have multiple Simplified substitutions for a single Traditional:
@@ -125,3 +117,18 @@ I have mBERT up and running (very lightweight on mBERT). Now it's time to start 
 
 UPDATE: Starting 2:1 testing. Very difficult. Not sure what to think of it yet!
 interesting plot but hard to make sense of
+
+## Update 2/19/26
+
+What is the next experiment I want to conduct, and what data do I need to get it.
+
+What I want to look at:
+
+mBERT
+- Look when Simplified Characters and Traditional Characters are being used in different contexts
+
+## Update 2/24/26
+
+LLMS:
+- Look at log probs of an autoregressive MLM objective
+    - even when in traditional is the simplified the next most likely? vice versa?

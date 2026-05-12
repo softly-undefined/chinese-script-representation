@@ -171,7 +171,7 @@ def plot_aggregate(rows: list[dict[str, Any]], out_dir: Path, num_mappings: int)
     plt.close(fig)
 
     with io.open(out_dir / "aggregate_cag_stats.csv", "w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["layer_index", "layer_name", "metric", "mean", "std", "median"])
         for layer_idx in layers:
             for metric in METRICS:
@@ -222,14 +222,14 @@ def write_top_mappings(
     out_csv = out_dir / "mapping_summary.csv"
     with io.open(out_csv, "w", encoding="utf-8", newline="") as handle:
         fields = list(rows[0].keys())
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for r in rows:
             writer.writerow(r)
 
     with io.open(out_dir / "top_by_avg_cag.csv", "w", encoding="utf-8", newline="") as handle:
         fields = list(rows_by_cag[0].keys())
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for r in rows_by_cag[: top_k]:
             writer.writerow(r)

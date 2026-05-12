@@ -186,7 +186,7 @@ def main() -> None:
 
     row_count = 0
     with io.open(out_csv, "w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
 
         for i, (traditional, simplified) in enumerate(pair_iter):

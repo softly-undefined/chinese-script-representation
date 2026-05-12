@@ -172,7 +172,7 @@ def plot_aggregate(rows: list[dict[str, Any]], out_dir: Path, num_pairs: int) ->
     plt.close(fig)
 
     with io.open(out_dir / "aggregate_layerwise_stats.csv", "w", encoding="utf-8", newline="") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["layer_index", "layer_name", "metric", "mean", "std", "median"])
         for layer_idx in layers:
             for metric in METRICS:
@@ -221,7 +221,7 @@ def write_top_pairs(
     out_csv = out_dir / "top_pairs_summary.csv"
     with io.open(out_csv, "w", encoding="utf-8", newline="") as handle:
         fields = list(rows[0].keys())
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         for r in rows:
             writer.writerow(r)
@@ -229,7 +229,7 @@ def write_top_pairs(
     def _write_subset(name: str, subset: list[dict[str, Any]]) -> None:
         with io.open(out_dir / name, "w", encoding="utf-8", newline="") as handle:
             fields = list(subset[0].keys())
-            writer = csv.DictWriter(handle, fieldnames=fields)
+            writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
             writer.writeheader()
             for r in subset[:top_k]:
                 writer.writerow(r)
